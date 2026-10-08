@@ -1,0 +1,7522 @@
+{
+ "_source": "Star Citizen entities/spaceships loadout (StarBreaker)",
+ "_extracted": "2026-10-09T01:34:25",
+ "ships": {
+  "AEGS_Avenger_Stalker": {
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "AEGS_Avenger_Titan": {
+   "powerplant": {
+    "name": "Endurance",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "AEGS_Avenger_Titan_Renegade": {
+   "powerplant": {
+    "name": "Endurance",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "AEGS_Avenger_Warlock": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "AEGS_Eclipse": {
+   "powerplant": {
+    "name": "DeltaMax",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "VaporBlock",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Veil",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   }
+  },
+  "AEGS_Gladius": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "AEGS_Gladius_PIR": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "SecureHyde",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "AEGS_Gladius_Valiant": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "AEGS_Hammerhead": {
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "AEGS_Hammerhead_GS": {
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "SureStop",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "AEGS_Idris_M": {
+   "powerplant": {
+    "name": "Main Powerplant",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "cooler": {
+    "name": "Exotherm",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "shield": {
+    "name": "Holdstrong",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "quantum": {
+    "name": "Frontline",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   }
+  },
+  "AEGS_Idris_P": {
+   "powerplant": {
+    "name": "Main Powerplant",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "cooler": {
+    "name": "Exotherm",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "shield": {
+    "name": "Holdstrong",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "quantum": {
+    "name": "Frontline",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   }
+  },
+  "AEGS_Idris_P_Collector_Military": {
+   "powerplant": {
+    "name": "Main Powerplant",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "cooler": {
+    "name": "Exotherm",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "shield": {
+    "name": "Holdstrong",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "quantum": {
+    "name": "Frontline",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   }
+  },
+  "AEGS_Idris_P_TSG": {
+   "powerplant": {
+    "name": "Main Powerplant",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "cooler": {
+    "name": "Exotherm",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "shield": {
+    "name": "Holdstrong",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "quantum": {
+    "name": "Frontline",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   }
+  },
+  "AEGS_Javelin": {
+   "powerplant": {
+    "name": "Main Powerplant",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 4
+   },
+   "cooler": {
+    "name": "<= PLACEHOLDER =>",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 4
+   },
+   "quantum": {
+    "name": "<= PLACEHOLDER =>",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   },
+   "shield": {
+    "name": "<= PLACEHOLDER =>",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 4
+   }
+  },
+  "AEGS_Reclaimer": {
+   "powerplant": {
+    "name": "Main Powerplant",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   },
+   "cooler": {
+    "name": "Algid",
+    "size": 4,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "RS-Barrier",
+    "size": 4,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "AEGS_Redeemer": {
+   "cooler": {
+    "name": "Blizzard",
+    "size": 3,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Centurion",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 6
+   }
+  },
+  "AEGS_Retaliator": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 6
+   }
+  },
+  "AEGS_Sabre": {
+   "powerplant": {
+    "name": "SonicLite",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   }
+  },
+  "AEGS_Sabre_Comet": {
+   "powerplant": {
+    "name": "SonicLite",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   }
+  },
+  "AEGS_Sabre_Firebird": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   }
+  },
+  "AEGS_Sabre_Firebird_Collector_Milt": {
+   "powerplant": {
+    "name": "QuadraCell",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Glacier",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "VK-00",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FR-66",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "AEGS_Sabre_Raven": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   }
+  },
+  "AEGS_Tiburon": {
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "SureStop",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "AEGS_Vanguard": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "AEGS_Vanguard_Harbinger": {
+   "powerplant": {
+    "name": "TurboDrive",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Permafrost",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Yeager",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "SecureShield",
+    "size": 2,
+    "grade": 4,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "AEGS_Vanguard_Hoplite": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "AEGS_Vanguard_Sentinel": {
+   "powerplant": {
+    "name": "GammaMax",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "HeatSink",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Nova",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   }
+  },
+  "ANVL_Arrow": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "ANVL_Asgard": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 4
+   }
+  },
+  "ANVL_Asgard_Collector_Military": {
+   "powerplant": {
+    "name": "Bolide",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Permafrost",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Yeager",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "CoverAll",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 4
+   }
+  },
+  "ANVL_C8R_Pisces": {
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_C8R_Pisces_FW22NFZ": {
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_C8X_Pisces_Expedition": {
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_C8_Pisces": {
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Carrack": {
+   "powerplant": {
+    "name": "Reliance",
+    "size": 3,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Ice-Flush",
+    "size": 3,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Barbican",
+    "size": 3,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ANVL_Carrack_Expedition": {
+   "powerplant": {
+    "name": "Reliance",
+    "size": 3,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Ice-Flush",
+    "size": 3,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Barbican",
+    "size": 3,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ANVL_Gladiator": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "ANVL_Hawk": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7A_Mk1": {
+   "powerplant": {
+    "name": "TurboDrive",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ArcticStorm",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7A_Mk2": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7C": {
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ArcticStorm",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CM": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CM_Heartseeker": {
+   "powerplant": {
+    "name": "OverDrive",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "ForceWall",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CM_Mk2": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CM_Mk2_Heartseeker": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CR": {
+   "powerplant": {
+    "name": "LumaCore",
+    "size": 1,
+    "grade": 1,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "IcePlunge",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CR_Mk2": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CS": {
+   "powerplant": {
+    "name": "Slipstream",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "HeatSafe",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7CS_Mk2": {
+   "powerplant": {
+    "name": "SonicLite",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "cooler": {
+    "name": "HeatSafe",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7C_Mk2": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7C_Wildfire": {
+   "powerplant": {
+    "name": "Roughneck",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ArcticStorm",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Hornet_F7_Mk2_Collector_Mod": {
+   "powerplant": {
+    "name": "JS-400",
+    "size": 2,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Glacier",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FR-66",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "VK-00",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "ANVL_Hurricane": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8C": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8C_Collector_Military": {
+   "powerplant": {
+    "name": "LuxCore",
+    "size": 2,
+    "grade": 1,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Glacier",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FR-76",
+    "size": 2,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Colossus",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8C_Collector_Stealth": {
+   "powerplant": {
+    "name": "Eclipse",
+    "size": 2,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "SnowBlind",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Umbra",
+    "size": 2,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Colossus",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8C_Exec": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8C_Plat": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8_Fleetweek": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8_Fleetweek_DarkBlue": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8_Fleetweek_Grey": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8_Fleetweek_LightBlue": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Lightning_F8_Fleetweek_White": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Paladin": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 3
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "SparkFire",
+    "size": 2,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "ANVL_Terrapin": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "5MA 'Chimalli'",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Terrapin_Medic": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "5MA 'Chimalli'",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Terrapin_Medic_Collector_Medic": {
+   "powerplant": {
+    "name": "IonSurge",
+    "size": 2,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Gelid",
+    "size": 1,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "BLOC",
+    "size": 2,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Hyperion",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ANVL_Valkyrie": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "ANVL_Valkyrie_Advocacy": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "ANVL_Valkyrie_CitizenCon": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "ARGO_MOLE": {
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Huracan",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ARGO_MOLE_BTALA": {
+   "powerplant": {
+    "name": "Durango",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Chill-Max",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Parapet",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Huracan",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ARGO_MOTH": {
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Huracan",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ARGO_MPUV_1T": {
+   "cooler": {
+    "name": "Frost-Star SL",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "IonWave",
+    "size": 0,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ARGO_RAFT": {
+   "shield": {
+    "name": "Aspis",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "powerplant": {
+    "name": "Diligence",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "CoolCore",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "ARGO_RAFT_Collector_Indust": {
+   "shield": {
+    "name": "Citadel",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 3
+   },
+   "powerplant": {
+    "name": "Sedulity",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Huracan",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Snowfall",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "BANU_Defender": {
+   "powerplant": {
+    "name": "IonBurst",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sukoran",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "CNOU_Mustang_Alpha": {
+   "powerplant": {
+    "name": "ZapJet",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Winter-Star",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "INK",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CNOU_Mustang_Alpha_CitizenCon2018": {
+   "powerplant": {
+    "name": "ZapJet",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Winter-Star",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "INK",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CNOU_Mustang_Beta": {
+   "powerplant": {
+    "name": "Roughneck",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Hydrocel",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "INK",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CNOU_Mustang_Delta": {
+   "powerplant": {
+    "name": "OverDrive",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Winter-Star",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "SecureHyde",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CNOU_Mustang_Gamma": {
+   "powerplant": {
+    "name": "LumaCore",
+    "size": 1,
+    "grade": 1,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "QuikCool",
+    "size": 1,
+    "grade": 4,
+    "class": "Competition",
+    "count": 2
+   },
+   "shield": {
+    "name": "Falco",
+    "size": 1,
+    "grade": 4,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CNOU_Mustang_Omega": {
+   "powerplant": {
+    "name": "LumaCore",
+    "size": 1,
+    "grade": 1,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "QuikCool",
+    "size": 1,
+    "grade": 4,
+    "class": "Competition",
+    "count": 2
+   },
+   "shield": {
+    "name": "Falco",
+    "size": 1,
+    "grade": 4,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CNOU_Nomad": {
+   "powerplant": {
+    "name": "IonBurst",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Ultra-Flow",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CRUS_Intrepid": {
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "HEX",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "FoxFire",
+    "size": 1,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "CRUS_Intrepid_Collector_Indust": {
+   "powerplant": {
+    "name": "WhiteRose",
+    "size": 1,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Ultra-Flow",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Palisade",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Atlas",
+    "size": 1,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CRUS_Spirit_A1": {
+   "powerplant": {
+    "name": "UltraFlux",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Boreal",
+    "size": 2,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Yeager",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "CRUS_Spirit_C1": {
+   "powerplant": {
+    "name": "UltraFlux",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Boreal",
+    "size": 2,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Yeager",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "CRUS_Spirit_C1_Civilian": {
+   "powerplant": {
+    "name": "Lotus",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Aufeis",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "7MA 'Lorica'",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Hemera",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "CRUS_Starfighter_Inferno": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "CRUS_Starfighter_Inferno_Collector_Military": {
+   "powerplant": {
+    "name": "Bolide",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Permafrost",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Yeager",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "CoverAll",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "CRUS_Starfighter_Ion": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "CRUS_Starfighter_Ion_Collector_Stealth": {
+   "powerplant": {
+    "name": "GammaMax",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "cooler": {
+    "name": "IceBox",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Bolt",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   }
+  },
+  "CRUS_Starlifter_A2": {
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullBlock",
+    "size": 3,
+    "grade": 2,
+    "class": "Military",
+    "count": 3
+   }
+  },
+  "CRUS_Starlifter_A2_Bombless": {
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullBlock",
+    "size": 3,
+    "grade": 2,
+    "class": "Military",
+    "count": 3
+   }
+  },
+  "CRUS_Starlifter_A2_Collector_Military": {
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Balandin",
+    "size": 3,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "JS-500",
+    "size": 3,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FR-86",
+    "size": 3,
+    "grade": 1,
+    "class": "Military",
+    "count": 3
+   }
+  },
+  "CRUS_Starlifter_A2_EA_PIR": {
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullBlock",
+    "size": 3,
+    "grade": 2,
+    "class": "Military",
+    "count": 3
+   }
+  },
+  "CRUS_Starlifter_A2_S3Bombs": {
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullBlock",
+    "size": 3,
+    "grade": 2,
+    "class": "Military",
+    "count": 3
+   }
+  },
+  "CRUS_Starlifter_C2": {
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "CRUS_Starlifter_M2": {
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullBlock",
+    "size": 3,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "CRUS_Star_Runner": {
+   "powerplant": {
+    "name": "Diligence",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "cooler": {
+    "name": "CoolCore",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "CRUS_Star_Runner_Mission_PIR_Package": {
+   "powerplant": {
+    "name": "Diligence",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "cooler": {
+    "name": "CoolCore",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Buccaneer": {
+   "powerplant": {
+    "name": "JS-300",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Buccaneer_EA_Outlaws": {
+   "powerplant": {
+    "name": "JS-300",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Caterpillar": {
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "DRAK_Caterpillar_Boarded": {
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "DRAK_Caterpillar_Pirate": {
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "DRAK_Clipper": {
+   "powerplant": {
+    "name": "ZapJet",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Flood",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "INK",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   }
+  },
+  "DRAK_Clipper_Collector_Military": {
+   "powerplant": {
+    "name": "DynaFlux",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Siren",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "ForceWall",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "DRAK_Command_Module": {
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Palisade",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Command_Module_Boarded": {
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Palisade",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Corsair": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Torrent",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Cutlass_Black": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Cutlass_Black_Mission_PIR_Package": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Cutlass_Blue": {
+   "powerplant": {
+    "name": "TurboDrive",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Graupel",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "Aspis",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Cutlass_Red": {
+   "powerplant": {
+    "name": "Diligence",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "CoolCore",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Aspis",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Cutlass_Steel": {
+   "powerplant": {
+    "name": "TurboDrive",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "DRAK_Cutter": {
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "HEX",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "FoxFire",
+    "size": 1,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "DRAK_Cutter_Rambler": {
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "FoxFire",
+    "size": 1,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "DRAK_Dragonfly": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Dragonfly_Pink": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Dragonfly_Yellow": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Golem": {
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Golem_BTALA": {
+   "cooler": {
+    "name": "Ultra-Flow",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Breton",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Palisade",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Colossus",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Golem_Collector_Indust": {
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Golem_OX": {
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "DRAK_Herald": {
+   "powerplant": {
+    "name": "Slipstream",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "HeatSafe",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Ironclad": {
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 4
+   }
+  },
+  "DRAK_Ironclad_Assault": {
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 4
+   }
+  },
+  "DRAK_Pitbull": {
+   "cooler": {
+    "name": "ArcticStorm",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "DRAK_Vulture": {
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ESPR_Prowler": {
+   "powerplant": {
+    "name": "Eclipse",
+    "size": 2,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "HeatSink",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Obscura",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Nova",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "ESPR_Prowler_Utility": {
+   "powerplant": {
+    "name": "Eclipse",
+    "size": 2,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "HeatSink",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Obscura",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Nova",
+    "size": 2,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "ESPR_Prowler_Utility_Collector_Indust": {
+   "powerplant": {
+    "name": "Eclipse",
+    "size": 2,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Snowfall",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Citadel",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Huracan",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ESPR_Talon": {
+   "powerplant": {
+    "name": "Slipstream",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "VaporBlock",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "ESPR_Talon_Shrike": {
+   "powerplant": {
+    "name": "Slipstream",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "VaporBlock",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "GAMA_Railen": {
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "GAMA_Syulen": {
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "HEX",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "FoxFire",
+    "size": 1,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "GAMA_Tyilui": {
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "GLSN_Basher": {
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ArcticStorm",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "GLSN_Shiv": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "GLSN_Shiv_TEMP_CosA": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "GLSN_Shiv_TEMP_CosB": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "GLSN_Shiv_TEMP_CosC": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "KRIG_L21_Wolf": {
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "HEX",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "FoxFire",
+    "size": 1,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "KRIG_L21_Wolf_Collector_Military": {
+   "powerplant": {
+    "name": "JS-300",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Glacier",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FR-66",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "VK-00",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "KRIG_L21_Wolf_Collector_Stealth": {
+   "powerplant": {
+    "name": "DeltaMax",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "VaporBlock",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Veil",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Zephyr",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "KRIG_L22_AlphaWolf": {
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "HEX",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "VK-00",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "KRIG_L22_AlphaWolf_Collector_Military": {
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "ForceWall",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "VK-00",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "KRIG_P52_Merlin": {
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Frost-Star",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "SecureHyde",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "KRIG_P72_Archimedes": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "KRIG_P72_Archimedes_Emerald": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "KRIG_S65_Stingray": {
+   "cooler": {
+    "name": "Frost-Star",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   }
+  },
+  "KRIG_S65_Stingray_BALLISTIC": {
+   "cooler": {
+    "name": "Frost-Star",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "LightBlossom",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   }
+  },
+  "MISC_Fortune": {
+   "powerplant": {
+    "name": "Trommel",
+    "size": 2,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Snowfall",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   }
+  },
+  "MISC_Fortune_Collector_Industrial": {
+   "powerplant": {
+    "name": "Lotus",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Aufeis",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Atlas",
+    "size": 1,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "7SA 'Concord'",
+    "size": 1,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 3
+   }
+  },
+  "MISC_Freelancer": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "5MA 'Chimalli'",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 3
+   }
+  },
+  "MISC_Freelancer_DUR": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "5MA 'Chimalli'",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 3
+   }
+  },
+  "MISC_Freelancer_MAX": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "5MA 'Chimalli'",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 3
+   }
+  },
+  "MISC_Freelancer_MIS": {
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 3
+   }
+  },
+  "MISC_Fury": {
+   "cooler": {
+    "name": "Hydrocel",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Roughneck",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Cloak",
+    "size": 1,
+    "grade": 4,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "MISC_Hull_A": {
+   "powerplant": {
+    "name": "IonBurst",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ArcticStorm",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Armada",
+    "size": 2,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "MISC_Hull_B": {
+   "cooler": {
+    "name": "CoolCore",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Diligence",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "SparkFire",
+    "size": 2,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   },
+   "shield": {
+    "name": "Citadel",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 4
+   }
+  },
+  "MISC_Hull_C": {
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   }
+  },
+  "MISC_Prospector": {
+   "powerplant": {
+    "name": "Trommel",
+    "size": 2,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Snowfall",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   }
+  },
+  "MISC_Prospector_BTALA": {
+   "powerplant": {
+    "name": "Genoa",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Snowpack",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Colossus",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Palisade",
+    "size": 1,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 3
+   }
+  },
+  "MISC_Prospector_Collector_Indust": {
+   "powerplant": {
+    "name": "Sedulity",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Snowpack",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Colossus",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Guardian",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 3
+   }
+  },
+  "MISC_Razor": {
+   "powerplant": {
+    "name": "StarHeart",
+    "size": 1,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "IcePlunge",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "LightFire",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "MISC_Razor_EX": {
+   "powerplant": {
+    "name": "SonicLite",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "HeatSafe",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "MISC_Razor_LX": {
+   "powerplant": {
+    "name": "StarHeart",
+    "size": 1,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "IcePlunge",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "LightFire",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "MISC_Reliant": {
+   "powerplant": {
+    "name": "IonBurst",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "ArcticStorm",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "MISC_Reliant_Mako": {
+   "powerplant": {
+    "name": "IonBurst",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "HeatSafe",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Shimmer",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Drift",
+    "size": 1,
+    "grade": 3,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "MISC_Reliant_Sen": {
+   "powerplant": {
+    "name": "IonBurst",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "MISC_Reliant_Tana": {
+   "powerplant": {
+    "name": "IonBurst",
+    "size": 1,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "MISC_Starfarer": {
+   "powerplant": {
+    "name": "Ginzel",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ThermalCore",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Kama",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "MISC_Starfarer_Gemini": {
+   "powerplant": {
+    "name": "SuperDrive",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "MISC_Starlancer_Max": {
+   "powerplant": {
+    "name": "LuxCore",
+    "size": 2,
+    "grade": 1,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "SparkFire",
+    "size": 2,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "AbsoluteZero",
+    "size": 2,
+    "grade": 2,
+    "class": "Competition",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "MISC_Starlancer_Max_Collector_Indust": {
+   "powerplant": {
+    "name": "Lotus",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Hemera",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Aufeis",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "Parapet",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "MISC_Starlancer_TAC": {
+   "powerplant": {
+    "name": "Centurion",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "SparkFire",
+    "size": 2,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Blizzard",
+    "size": 3,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "MISC_Starlancer_TAC_Collector_Military": {
+   "powerplant": {
+    "name": "Durango",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Yeager",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Blizzard",
+    "size": 3,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullBlock",
+    "size": 3,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "MISC_Starlite": {
+   "quantum": {
+    "name": "Goliath",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Thermax",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "MRAI_Guardian": {
+   "powerplant": {
+    "name": "OverDrive",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "MRAI_Guardian_Military": {
+   "powerplant": {
+    "name": "QuadraCell",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Glacier",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "VK-00",
+    "size": 1,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FR-76",
+    "size": 2,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "MRAI_Guardian_MX": {
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Maelstrom",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "MRAI_Guardian_MX_Collector_Military": {
+   "quantum": {
+    "name": "XL-1",
+    "size": 2,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "CoverAll",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Bolide",
+    "size": 2,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "MRAI_Guardian_QI": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Arctic",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Crossfield",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "MRAI_Guardian_QI_Collector_Indust": {
+   "powerplant": {
+    "name": "LumaCore",
+    "size": 1,
+    "grade": 1,
+    "class": "Competition",
+    "count": 2
+   },
+   "cooler": {
+    "name": "AbsoluteZero",
+    "size": 2,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   },
+   "quantum": {
+    "name": "SunFire",
+    "size": 2,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   },
+   "shield": {
+    "name": "Haltur",
+    "size": 2,
+    "grade": 2,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "MRAI_Pulse": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "MRAI_Pulse_Collector_Civ": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Kelvid",
+    "size": 0,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "MRAI_Pulse_LX": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "Orbital_Sentry_SecurityNetwork": {
+   "powerplant": {
+    "name": "Centurion",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Blizzard",
+    "size": 3,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "RPEL",
+    "size": 2,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ORIG_100i": {
+   "cooler": {
+    "name": "DOOR_RN_NOROOMCONNECTOR_BREACHABLE_OPENCLOSE_IP_ORIG_100I_COOLER_LEFT",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "WEB",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ORIG_125a": {
+   "cooler": {
+    "name": "DOOR_RN_NOROOMCONNECTOR_BREACHABLE_OPENCLOSE_IP_ORIG_100I_COOLER_LEFT",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "ORIG_135c": {
+   "cooler": {
+    "name": "DOOR_RN_NOROOMCONNECTOR_BREACHABLE_OPENCLOSE_IP_ORIG_100I_COOLER_LEFT",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Expedition",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "ORIG_400i": {
+   "cooler": {
+    "name": "Snowfall",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Sedulity",
+    "size": 2,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Torrent",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "GUARD",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ORIG_600i": {
+   "powerplant": {
+    "name": "Durango",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "FrostBurn",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "ORIG_600i_Executive_Edition": {
+   "powerplant": {
+    "name": "Durango",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "FrostBurn",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "ORIG_600i_Touring": {
+   "powerplant": {
+    "name": "Durango",
+    "size": 3,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "FrostBurn",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "ORIG_85X": {
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "IcePlunge",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "ORIG_890Jump": {
+   "powerplant": {
+    "name": "Stellate",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Serac",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Allegro",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Glacis",
+    "size": 4,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "ORIG_890Jump_Drug_01": {
+   "powerplant": {
+    "name": "Stellate",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Serac",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Allegro",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Glacis",
+    "size": 4,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "ORIG_m50": {
+   "powerplant": {
+    "name": "LumaCore",
+    "size": 1,
+    "grade": 1,
+    "class": "Competition",
+    "count": 1
+   },
+   "cooler": {
+    "name": "IcePlunge",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   },
+   "quantum": {
+    "name": "LightFire",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 1
+   }
+  },
+  "ORIG_m80": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "5MA 'Chimalli'",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Torrent",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "ORIG_X1": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "<= PLACEHOLDER =>",
+    "size": 0,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   }
+  },
+  "ORIG_X1_Force": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "PIN",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Medivac": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Medivac_Tier_1": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Medivac_Tier_2": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Medivac_Tier_3": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Triage": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Triage_Collector_Stealth": {
+   "powerplant": {
+    "name": "GammaMax",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "cooler": {
+    "name": "IceBox",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Sheut",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Bolt",
+    "size": 2,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Triage_Tier_1": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Triage_Tier_2": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Apollo_Triage_Tier_3": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Aurora_GS_CL": {
+   "powerplant": {
+    "name": "Roughneck",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Hydrocel",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "RSI_Aurora_GS_ES": {
+   "powerplant": {
+    "name": "ZapJet",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "BlastChill",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "INK",
+    "size": 1,
+    "grade": 4,
+    "class": "Civilian",
+    "count": 2
+   }
+  },
+  "RSI_Aurora_GS_LN": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "SecureHyde",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "RSI_Aurora_GS_LX": {
+   "powerplant": {
+    "name": "LumaCore",
+    "size": 1,
+    "grade": 1,
+    "class": "Competition",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "QuikCool",
+    "size": 1,
+    "grade": 4,
+    "class": "Competition",
+    "count": 2
+   },
+   "shield": {
+    "name": "Targa",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   }
+  },
+  "RSI_Aurora_GS_MR": {
+   "powerplant": {
+    "name": "Roughneck",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Hydrocel",
+    "size": 1,
+    "grade": 4,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   }
+  },
+  "RSI_Aurora_GS_SE": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "SecureHyde",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "RSI_Aurora_Mk2": {
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Frost-Star",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5SA 'Rhada'",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Aurora_Mk2_MissileModule_TEMP": {
+   "powerplant": {
+    "name": "PowerBolt",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Frost-Star",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5SA 'Rhada'",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Constellation_Andromeda": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "RSI_Constellation_Aquila": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "RSI_Constellation_Phoenix": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "RSI_Constellation_Phoenix_Emerald": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "RSI_Constellation_Phoenix_Piano": {
+   "powerplant": {
+    "name": "DayBreak",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Frost-Star EX",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "5CA 'Akura'",
+    "size": 3,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "RSI_Constellation_Taurus": {
+   "powerplant": {
+    "name": "Diligence",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "cooler": {
+    "name": "CoolCore",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "Stronghold",
+    "size": 3,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "RSI_Constellation_Taurus_Military": {
+   "powerplant": {
+    "name": "QuadraCell MT",
+    "size": 2,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Avalanche",
+    "size": 2,
+    "grade": 1,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FR-86",
+    "size": 3,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "XL-1",
+    "size": 2,
+    "grade": 1,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Hermes": {
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "shield": {
+    "name": "STOP",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Odyssey",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Mantis": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Meteor": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Meteor_Collector_Military": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "ForceWall",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Siren",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Meteor_Collector_Stealth": {
+   "powerplant": {
+    "name": "Slipstream",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "cooler": {
+    "name": "VaporBlock",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 2
+   },
+   "shield": {
+    "name": "Mirage",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Zephyr",
+    "size": 1,
+    "grade": 2,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "RSI_Meteor_TEMP_LaserRepeater": {
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Perseus": {
+   "powerplant": {
+    "name": "Centurion",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Mercury",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "SureStop",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Pontes",
+    "size": 3,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Polaris": {
+   "powerplant": {
+    "name": "Stellate",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Glacis",
+    "size": 4,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Serac",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Erebos",
+    "size": 3,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Polaris_Collector_Military": {
+   "powerplant": {
+    "name": "Stellate",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Glacis",
+    "size": 4,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Serac",
+    "size": 4,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Erebos",
+    "size": 3,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "RSI_Salvation": {
+   "cooler": {
+    "name": "Eco-Flow",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   },
+   "shield": {
+    "name": "Bulwark",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Colossus",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "RSI_Scorpius": {
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "@LOC_EMPTY",
+    "size": 1,
+    "grade": 1,
+    "class": null,
+    "count": 4
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Scorpius_Antares": {
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Regulus",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 4
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  },
+  "RSI_Scorpius_Stealth": {
+   "cooler": {
+    "name": "SnowBlind",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "@LOC_EMPTY",
+    "size": 1,
+    "grade": 1,
+    "class": null,
+    "count": 4
+   },
+   "quantum": {
+    "name": "Spectre",
+    "size": 1,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   },
+   "shield": {
+    "name": "Umbra",
+    "size": 2,
+    "grade": 1,
+    "class": "Stealth",
+    "count": 1
+   }
+  },
+  "RSI_Zeus_CL": {
+   "cooler": {
+    "name": "CoolCore",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Diligence",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Khaos",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Aspis",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 3
+   }
+  },
+  "RSI_Zeus_CL_Collector_Indust": {
+   "cooler": {
+    "name": "Snowpack",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Genoa",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Hemera",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Rampart",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 3
+   }
+  },
+  "RSI_Zeus_ES": {
+   "cooler": {
+    "name": "ColdSnap",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "FullForce",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Khaos",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "5MA 'Chimalli'",
+    "size": 2,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 4
+   }
+  },
+  "RSI_Zeus_ES_Collector_Indust": {
+   "cooler": {
+    "name": "Snowpack",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 2
+   },
+   "powerplant": {
+    "name": "Genoa",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Hemera",
+    "size": 2,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "Rampart",
+    "size": 2,
+    "grade": 1,
+    "class": "Industrial",
+    "count": 4
+   }
+  },
+  "VNCL_Blade": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "IcePlunge",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "VNCL_Blade_Swarm": {
+   "powerplant": {
+    "name": "Charger",
+    "size": 1,
+    "grade": 4,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "IcePlunge",
+    "size": 1,
+    "grade": 3,
+    "class": "Competition",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Rush",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "VNCL_Glaive": {
+   "powerplant": {
+    "name": "Fierell Cascade",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "VNCL_Mauler": {
+   "powerplant": {
+    "name": "Mauler Power Plant",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "quantum": {
+    "name": "Mauler Quantum Drive",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 1
+   },
+   "cooler": {
+    "name": "Mauler Cooler",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 2
+   },
+   "shield": {
+    "name": "@item_NameSHLD_VNCL_S04_Mauler",
+    "size": 4,
+    "grade": 1,
+    "class": null,
+    "count": 3
+   }
+  },
+  "VNCL_Scythe": {
+   "powerplant": {
+    "name": "Fierell Cascade",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Bracer",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "shield": {
+    "name": "AllStop",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   }
+  },
+  "VNCL_Stinger": {
+   "cooler": {
+    "name": "Eco-Flow",
+    "size": 1,
+    "grade": 2,
+    "class": "Industrial",
+    "count": 3
+   },
+   "powerplant": {
+    "name": "Fortitude",
+    "size": 1,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Bolon",
+    "size": 2,
+    "grade": 3,
+    "class": "Industrial",
+    "count": 1
+   }
+  },
+  "XIAN_Nox": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "XIAN_Nox_Collector_Mod": {
+   "powerplant": {
+    "name": "IonWave",
+    "size": 0,
+    "grade": 2,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Tepilo",
+    "size": 0,
+    "grade": 1,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "XIAN_Nox_Kue": {
+   "powerplant": {
+    "name": "Radix",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Fridan",
+    "size": 0,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "XIAN_Scout": {
+   "powerplant": {
+    "name": "DynaFlux",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 1
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "ForceWall",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "quantum": {
+    "name": "Eos",
+    "size": 1,
+    "grade": 3,
+    "class": "Civilian",
+    "count": 1
+   }
+  },
+  "XNAA_SanTokYai": {
+   "powerplant": {
+    "name": "DynaFlux",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "cooler": {
+    "name": "Polar",
+    "size": 1,
+    "grade": 2,
+    "class": "Military",
+    "count": 2
+   },
+   "shield": {
+    "name": "FullStop",
+    "size": 2,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   },
+   "quantum": {
+    "name": "Beacon",
+    "size": 1,
+    "grade": 3,
+    "class": "Military",
+    "count": 1
+   }
+  }
+ }
+}
