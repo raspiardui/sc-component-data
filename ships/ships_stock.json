@@ -1,6 +1,6 @@
 {
  "_source": "Star Citizen entities/spaceships loadout (StarBreaker)",
- "_extracted": "2026-10-09T01:42:18",
+ "_extracted": "2026-10-09T01:50:02",
  "ships": {
   "AEGS_Avenger_Stalker": {
    "powerplant": {
@@ -76,7 +76,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_left_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Interceptor",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15,
+     "y": 20,
+     "z": 6.5
+    },
+    "label": "Aegis Avenger Stalker",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Interceptor\\n\\nInitially designed as Aegis’ frontline carrier ship for the military, the Avenger Stalker took a different path, ultimately having a long and storied career as the standard patrol craft of the UEE Advocacy. Utilizing its cargo hold for prisoner transport, the Avenger features a sturdy, reliable hull and the capacity for larger-than-expected engin"
+   }
   },
   "AEGS_Avenger_Titan": {
    "powerplant": {
@@ -152,7 +165,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15,
+     "y": 20,
+     "z": 6.5
+    },
+    "label": "Aegis Avenger Titan",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Light Freight \\n\\nLacking the Prisoner Cells of the Stalker or the EMP Generator of the Warlock, the Titan’s hold is free to carry cargo. Couple that available space with the Avenger’s tried and true combat abilities and you’ve got a light cargo hauler that’s more than capable of handling itself in a fight."
+   }
   },
   "AEGS_Avenger_Titan_Renegade": {
    "powerplant": {
@@ -228,7 +254,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15,
+     "y": 20,
+     "z": 6.5
+    },
+    "label": "Aegis Avenger Titan Renegade",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Light Freight\\n\\nCreated as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Renegade pays tribute to famed pilot Danny Solomon for his notable work with the Advocacy to bring justice to Bremen. This Avenger Titan comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honor"
+   }
   },
   "AEGS_Avenger_Warlock": {
    "powerplant": {
@@ -312,7 +351,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Interdiction",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15,
+     "y": 20,
+     "z": 6.5
+    },
+    "label": "Aegis Avenger Warlock",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Interdiction\\n\\nThe Avenger Warlock was built towards a single design philosophy: stop ships, don’t destroy them. Probably the closest to a non-lethal fighter, the Warlock is outfitted with a Behring REP-8 EMP Generator, capable of emitting a powerful electromagnetic wave to disable any electronics unfortunate enough to be within the blast radius."
+   }
   },
   "AEGS_Eclipse": {
    "powerplant": {
@@ -364,7 +416,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Stealth Bomber",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24.5,
+     "y": 24.5,
+     "z": 5
+    },
+    "label": "Aegis Eclipse",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Stealth Bomber\\n\\nThe Aegis Eclipse is a bomber designed to get in and strike before it's ever even spotted. After extensive service with the UEE, this high-tech military equipment made its civilian market debut in 2947."
+   }
   },
   "AEGS_Gladius": {
    "powerplant": {
@@ -404,7 +469,20 @@
      "name": "WEAPON_RACK_AEGS_GLADIUS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17.5,
+     "y": 21,
+     "z": 5.5
+    },
+    "label": "Aegis Gladius",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Light Fighter\\n\\nThe Gladius is an older design which has been updated over the years to keep up with modern technology. In military circles, the Gladius is beloved for its performance and its simplicity. A fast, light fighter with a laser-focus on dogfighting, the Gladius is an ideal interceptor or escort ship."
+   }
   },
   "AEGS_Gladius_PIR": {
    "powerplant": {
@@ -444,7 +522,20 @@
      "name": "WEAPON_RACK_AEGS_GLADIUS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17.5,
+     "y": 21,
+     "z": 5.5
+    },
+    "label": "Aegis Gladius Pirate",
+    "desc": ""
+   }
   },
   "AEGS_Gladius_Valiant": {
    "powerplant": {
@@ -484,7 +575,20 @@
      "name": "WEAPON_RACK_AEGS_GLADIUS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17.5,
+     "y": 21,
+     "z": 5.5
+    },
+    "label": "Aegis Gladius Valiant",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Light Fighter \\n\\nCreated as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Valiant pays tribute to famed defense pilot Condi Hillard for being the first Human on record to defeat a Vanduul in combat. This Gladius comes equipped with a specialized dogfighting focused loadout and a custom special edition livery hon"
+   }
   },
   "AEGS_Hammerhead": {
    "powerplant": {
@@ -712,7 +816,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right_lower"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Gunship",
+    "career": "Combat",
+    "crew": 9,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 72,
+     "y": 120,
+     "z": 16
+    },
+    "label": "Aegis Hammerhead",
+    "desc": "Manufacturer: Aegis Dynamics \\nFocus: Heavy Gunship\\n\\nA fast patrol ship with multiple turrets designed to combat fighters, the Hammerhead is equally suited to support larger capital ships in a fleet or act as a flagship for fighter groups."
+   }
   },
   "AEGS_Hammerhead_GS": {
    "powerplant": {
@@ -940,7 +1057,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right_lower"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Gunship",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 72,
+     "y": 120,
+     "z": 16
+    },
+    "label": "Aegis Hammerhead",
+    "desc": "Manufacturer: Aegis Dynamics \\nFocus: Heavy Gunship\\n\\nA fast patrol ship with multiple turrets designed to combat fighters, the Hammerhead is equally suited to support larger capital ships in a fleet or act as a flagship for fighter groups."
+   }
   },
   "AEGS_Idris_M": {
    "powerplant": {
@@ -1088,7 +1218,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Frigate",
+    "career": "Combat",
+    "crew": 28,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 127,
+     "y": 243,
+     "z": 57.5
+    },
+    "label": "Aegis Idris-M",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Frigate\\n\\nLarger than a bomber but smaller than a ship-of-the-line, frigates occupy an interesting space in the pantheon of Naval warships. While they lack the heavy armor and the capital weaponry of a cruiser, the UEE Navy prizes its frigates as they are maneuverable and can be adapted for use in a wide-range of combat scenarios."
+   }
   },
   "AEGS_Idris_P": {
    "powerplant": {
@@ -1252,7 +1395,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Frigate",
+    "career": "Combat",
+    "crew": 28,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 127,
+     "y": 243,
+     "z": 57.5
+    },
+    "label": "Aegis Idris-P",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Frigate\\n\\nA mark two 'peacekeeper' variant developed for the UEE patrol services, the Idris-P strips the standard ship's ship-to-ship gun and spinal mount in favor of additional cargo capacity and superior speed."
+   }
   },
   "AEGS_Idris_P_Collector_Military": {
    "powerplant": {
@@ -1416,7 +1572,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Frigate",
+    "career": "Combat",
+    "crew": 28,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 127,
+     "y": 243,
+     "z": 57.5
+    },
+    "label": "Aegis Idris-P Wikelo War Special",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Frigate\\n\\nA mark two 'peacekeeper' variant developed for the UEE patrol services, the Idris-P strips the standard ship's ship-to-ship gun and spinal mount in favor of additional cargo capacity and superior speed.\\n\\nWikelo here. Made useful modifications to make ship fight more hard. Very impressive."
+   }
   },
   "AEGS_Idris_P_TSG": {
    "powerplant": {
@@ -1564,7 +1733,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Frigate",
+    "career": "Combat",
+    "crew": 28,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 127,
+     "y": 243,
+     "z": 57.5
+    },
+    "label": "Aegis Idris-P",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Frigate\\n\\nA mark two 'peacekeeper' variant developed for the UEE patrol services, the Idris-P strips the standard ship's ship-to-ship gun and spinal mount in favor of additional cargo capacity and superior speed."
+   }
   },
   "AEGS_Javelin": {
    "powerplant": {
@@ -1808,7 +1990,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Destroyer",
+    "career": "Destroyer",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "label": "Aegis Javelin",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Destroyer\\n\\nDesigned for use by the UEE military, the Javelin is a massive, modular capital ship that can be appropriated for entrepreneurial use. With a detailed interior, plenty of modular room options, and a high crew capacity, the Javelin is a ship that has made a name for itself in a variety of roles."
+   }
   },
   "AEGS_Reclaimer": {
    "powerplant": {
@@ -1860,7 +2055,20 @@
      "itype": "SalvageHead",
      "slot": "hardpoint_weapon_salvage"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Salvage",
+    "career": "Industrial",
+    "crew": 5,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 120,
+     "y": 160,
+     "z": 55
+    },
+    "label": "Aegis Reclaimer",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Heavy Salvage\\n\\nThe Aegis Reclaimer is an industrial salvage ship. Equipped with a reinforced cargo bay, a long-range jump drive and launch pods for unmanned drones, the Reclaimer is an ideal ship for taking advantage of deep space wrecks. Tractor beams, floodlights, scanner options and docking ports round out the tools on this capable, utilitarian spacecraft."
+   }
   },
   "AEGS_Redeemer": {
    "cooler": {
@@ -1916,7 +2124,20 @@
      "name": "WEAPON_RACK_AEGS_REDEEMER",
      "slot": "hardpoint_weaponlocker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Gunship",
+    "career": "Combat",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 51,
+     "z": 14
+    },
+    "label": "Aegis Redeemer",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Gunship \\n\\nDesigned by Aegis Dynamics, the Redeemer is a powerful fighting ship capable of holding its own in combat with a powerful weapons payload. Dotted with turrets and missiles, the Redeemer also doubles as an armored landing craft capable of delivering soldiers to the frontlines."
+   }
   },
   "AEGS_Retaliator": {
    "powerplant": {
@@ -1950,6 +2171,19 @@
     "class": "Military",
     "itype": "Shield",
     "count": 6
+   },
+   "info": {
+    "role": "Modular",
+    "career": "Combat",
+    "crew": 7,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 44,
+     "y": 70.5,
+     "z": 13.5
+    },
+    "label": "Aegis Retaliator",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Modular\\n\\nThis civilian refit of the Retaliator updates the military ship's chassis with unladen space able to be fitted with various modules to suit your needs."
    }
   },
   "AEGS_Sabre": {
@@ -2038,7 +2272,20 @@
      "name": "WEAPON_RACK_AEGS_SABRE",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Stealth Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24.5,
+     "y": 24.5,
+     "z": 5
+    },
+    "label": "Aegis Sabre",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Stealth Fighter\\n\\nPart of Aegis Dynamics’ Phase Two of new ship models, the Sabre was designed as a space superiority fighter for those situations where you need to leave a lighter footprint. Designed to be a rapid responder, the Sabre is more than capable of establishing battlefield dominance for any number of combat scenarios."
+   }
   },
   "AEGS_Sabre_Comet": {
    "powerplant": {
@@ -2126,7 +2373,20 @@
      "name": "WEAPON_RACK_AEGS_SABRE",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Stealth Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24.5,
+     "y": 24.5,
+     "z": 5
+    },
+    "label": "Aegis Sabre Comet",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Stealth Fighter\\n\\nCreated as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Comet pays tribute to famed pilot Captain Kamur Dalion for his work with Aegis to usher in a new era of combat ship design. This Sabre comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honor"
+   }
   },
   "AEGS_Sabre_Firebird": {
    "powerplant": {
@@ -2190,7 +2450,20 @@
      "name": "WEAPON_RACK_AEGS_SABRE_FIREBIRD",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Stealth Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24.5,
+     "y": 24.5,
+     "z": 5
+    },
+    "label": "Aegis Sabre Firebird",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Stealth Fighter\\n \\nWhen frontline skirmishes call for a swift and decisive offensive, the Sabre Firebird is the ideal medium fighter for any arsenal. Taking the already battle proven Sabre Raven, Aegis has designed the Firebird variant with an enhanced missile launcher capable of engaging with a wide array of threats."
+   }
   },
   "AEGS_Sabre_Firebird_Collector_Milt": {
    "powerplant": {
@@ -2254,7 +2527,20 @@
      "name": "WEAPON_RACK_AEGS_SABRE_FIREBIRD",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Stealth Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24.5,
+     "y": 24.5,
+     "z": 5
+    },
+    "label": null,
+    "desc": ""
+   }
   },
   "AEGS_Sabre_Raven": {
    "powerplant": {
@@ -2326,7 +2612,20 @@
      "name": "WEAPON_RACK_AEGS_SABRE_RAVEN",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Interdiction",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24.5,
+     "y": 24.5,
+     "z": 5
+    },
+    "label": "Aegis Sabre Raven",
+    "desc": "Manufacturer: Aegis Dynamics \\nFocus: Interdiction\\n\\nAegis Dynamics have raised the bar yet again with their Raven variant, maintaining all the speed and maneuverability of its Sabre forebear, but with a lower ship signature, making it a fast, stealthy infiltrator."
+   }
   },
   "AEGS_Tiburon": {
    "powerplant": {
@@ -2434,7 +2733,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_a"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Gunship",
+    "career": "Combat",
+    "crew": 7,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 68,
+     "y": 121,
+     "z": 20
+    },
+    "label": "Aegis Tiburon",
+    "desc": ""
+   }
   },
   "AEGS_Vanguard": {
    "powerplant": {
@@ -2546,7 +2858,20 @@
      "name": "WEAPON_RACK_AEGS_VANGUARD",
      "slot": "hardpoint_weapon_locker_warden"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 40,
+     "y": 48,
+     "z": 9.5
+    },
+    "label": "Aegis Vanguard Warden",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Heavy Fighter\\n\\nA hard-charging bulldog of a fighter which features extensive forward-mounted weaponry designed to tear through the shields and armor of other spacecraft. So-named because their multiple-jump range allows them to form the vanguard of any military expedition, Vanguards have seen extensive service against the Vanduul."
+   }
   },
   "AEGS_Vanguard_Harbinger": {
    "powerplant": {
@@ -2666,7 +2991,20 @@
      "name": "WEAPON_RACK_AEGS_VANGUARD",
      "slot": "hardpoint_weapon_locker_harbinger"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter / Bomber",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 40,
+     "y": 48,
+     "z": 9.5
+    },
+    "label": "Aegis Vanguard Harbinger",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Heavy Fighter / Bomber\\n\\nThe Vanguard Harbinger is Earth's standard fighter/bomber, converting the standard Warden's escape pod into a potent bomb bay. The extended range of the Vanguard and the relatively small profile mean that it can go where carrier-based ships or larger strategic bombers don't, strike hard, and then make it back to base."
+   }
   },
   "AEGS_Vanguard_Hoplite": {
    "powerplant": {
@@ -2762,7 +3100,20 @@
      "name": "WEAPON_RACK_AEGS_10_SLOT",
      "slot": "hardpoint_weapon_locker_hoplite"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 40,
+     "y": 48,
+     "z": 9.5
+    },
+    "label": "Aegis Vanguard Hoplite",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Drop Ship \\n\\nThe Vanguard Hoplite is a cross between the winning Vanguard deep space fighter and a dedicated boarding ship. Adapted from proven assault ship designs, the Hoplite is the perfect tool for inserting an armored strike team with enough firepower to get them out again."
+   }
   },
   "AEGS_Vanguard_Sentinel": {
    "powerplant": {
@@ -2882,7 +3233,20 @@
      "itype": "EMP",
      "slot": "hardpoint_weapon_emp"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter / Bomber",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 40,
+     "y": 48,
+     "z": 9.5
+    },
+    "label": "Aegis Vanguard Sentinel",
+    "desc": "Manufacturer: Aegis Dynamics\\nFocus: Heavy Fighter \\n\\nThe Vanguard Sentinel is a ship that's designed to fight smart instead of taking enemies head on. The conversion features an AR cockpit, an external e-War pod, decoy missiles and a set of EMP charges. Vanguard Sentinels often provide necessary combat support for combined operations. A lone Sentinel is frequently paired with Harbinger bombers a"
+   }
   },
   "ANVL_Arrow": {
    "powerplant": {
@@ -2950,7 +3314,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12.25,
+     "y": 17.25,
+     "z": 4.5
+    },
+    "label": "Anvil Arrow",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Light Fighter\\n\\nUnmatched design, blazing top speed, and ultra-responsive maneuverability make the Arrow the most agile scrapper in its class. With a robust weapons package that provides firepower to spare, this is truly the classic light fighter, updated for the next generation of combat."
+   }
   },
   "ANVL_Asgard": {
    "powerplant": {
@@ -3034,7 +3411,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_right_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 38,
+     "y": 48,
+     "z": 12
+    },
+    "label": "Anvil Asgard",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Drop Ship\\n \\nAs the battles of today continue to grow in scale and complexity, Anvil Aerospace understands the impact a single vehicle can have on the outcome. Enter the Asgard. The next generation in ground vehicle transport, the Anvil Asgard features a quick-load ramp, a sizeable hold to securely store your assault vehicle of choice, and hefty array of arma"
+   }
   },
   "ANVL_Asgard_Collector_Military": {
    "powerplant": {
@@ -3118,7 +3508,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_right_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 38,
+     "y": 48,
+     "z": 12
+    },
+    "label": "Anvil Asgard Wikelo War Special",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Drop Ship\\n \\nAs the battles of today continue to grow in scale and complexity, Anvil Aerospace understands the impact a single vehicle can have on the outcome. Enter the Asgard. The next generation in ground vehicle transport, the Anvil Asgard features a quick-load ramp, a sizeable hold to securely store your assault vehicle of choice, and hefty array of arma"
+   }
   },
   "ANVL_C8R_Pisces": {
    "cooler": {
@@ -3186,7 +3589,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missile_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12,
+     "y": 16,
+     "z": 8
+    },
+    "label": "Anvil C8R Pisces Rescue",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medical\\n\\nWith the addition of an onboard Tier 3 Medical Bed, the C8R Pisces can treat minor injuries and keep a patient stable while transporting them to the safety of a larger ship, station, or nearby medical facility, making it an invaluable asset for short-range search and rescue."
+   }
   },
   "ANVL_C8R_Pisces_FW22NFZ": {
    "cooler": {
@@ -3254,7 +3670,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missile_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12,
+     "y": 16,
+     "z": 8
+    },
+    "label": "Anvil C8R Pisces Rescue",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medical\\n\\nWith the addition of an onboard Tier 3 Medical Bed, the C8R Pisces can treat minor injuries and keep a patient stable while transporting them to the safety of a larger ship, station, or nearby medical facility, making it an invaluable asset for short-range search and rescue."
+   }
   },
   "ANVL_C8X_Pisces_Expedition": {
    "cooler": {
@@ -3338,7 +3767,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_gun_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12,
+     "y": 16,
+     "z": 8
+    },
+    "label": "Anvil C8X Pisces Expedition",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Pathfinder\\n\\nSporting more guns and a limited-edition livery, the C8X Pisces Expedition turns the stout snub into a perfectly viable standalone exploration vessel. With its compact frame, deft maneuverability, and seating for three, the Pisces Expedition is ready to take on its own adventures."
+   }
   },
   "ANVL_C8_Pisces": {
    "cooler": {
@@ -3406,7 +3848,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missile_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12,
+     "y": 16,
+     "z": 8
+    },
+    "label": "Anvil C8 Pisces",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Pathfinder\\n\\nWith its compact frame, deft maneuverability, and seating for three, the C8 Pisces snub craft, included with every Carrack, is built by Anvil Aerospace for scouting ahead or exploring environments inaccessible to its larger carrier ship."
+   }
   },
   "ANVL_Carrack": {
    "powerplant": {
@@ -3440,6 +3895,19 @@
     "class": "Industrial",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 6,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 74,
+     "y": 126,
+     "z": 30
+    },
+    "label": "Anvil Carrack",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Expedition\\n\\nAdventure calls and Anvil Aerospace answers with the Carrack. Built to endure extreme conditions in both space and atmosphere, this self-sustaining explorer has more than earned its long-standing status as the go-to pathfinder for both military and civilian service."
    }
   },
   "ANVL_Carrack_Expedition": {
@@ -3474,6 +3942,19 @@
     "class": "Industrial",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 6,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 74,
+     "y": 126,
+     "z": 30
+    },
+    "label": "Anvil Carrack Expedition",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Expedition\\n\\nAdventure calls and Anvil Aerospace answers with the Carrack. Built to endure extreme conditions in both space and atmosphere, this self-sustaining explorer has more than earned its long-standing status as the go-to pathfinder for both military and civilian service. The 'Expedition' edition features a special livery ideal for boldly traveling the"
    }
   },
   "ANVL_Gladiator": {
@@ -3526,7 +4007,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Bomber",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 21,
+     "y": 22.75,
+     "z": 6
+    },
+    "label": "Anvil Gladiator",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Bomber\\n\\nThe civilian model of the Gladiator appeals to those that want to explore the ‘verse with a bit of added security. Supporting a maximum of two, the Gladiator is perfectly equipped to explore and fight with or without a wingman. The Civilian model allows pilots to choose between an extra cargo hold or a bomb bay."
+   }
   },
   "ANVL_Hawk": {
    "powerplant": {
@@ -3614,7 +4108,20 @@
      "name": "WEAPON_RACK_ANVL_HAWK_1SLOT",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 23,
+     "z": 8
+    },
+    "label": "Anvil Hawk",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Light Fighter\\n\\nA small, light fighter with an emphasis on weaponry, the Hawk boasts an impressive arsenal of lethal and non-lethal weapons, making it a perfect ship for independent bounty hunters or local security looking for a little more punch."
+   }
   },
   "ANVL_Hornet_F7A_Mk1": {
    "powerplant": {
@@ -3648,6 +4155,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25.5,
+     "y": 28.25,
+     "z": 7.5
+    },
+    "label": "Anvil F7A Hornet Mk I",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n\\nThe UEE Navy's premier carrier-based fighter craft, the F7A Hornet Mk I is the front-line attack ship for military combat missions. While not outfitted for long range runs, the Hornet can take her share of hits and dish out a powerful response."
    }
   },
   "ANVL_Hornet_F7A_Mk2": {
@@ -3748,7 +4268,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_s3_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 22,
+     "y": 22.5,
+     "z": 6.5
+    },
+    "label": "Anvil F7A Hornet Mk II",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nUshering in a new age of space superiority, Anvil Aerospace has re-engineered the celebrated Hornet for the next generation of fighter combat.  Purpose built for the UEE Navy, the F7A Hornet Mk II maintains the spirit of the original while incorporating even more powerful offensive capabilities."
+   }
   },
   "ANVL_Hornet_F7C": {
    "powerplant": {
@@ -3782,6 +4315,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25.5,
+     "y": 28.25,
+     "z": 7.5
+    },
+    "label": "Anvil F7C Hornet Mk I",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n\\nTo the enemy, it is a weapon never to be underestimated. To allies, it's a savior. The F7C Hornet Mk I is the same dependable and resilient multi-purpose fighter that has become the face of the UEE Navy. The F7C is the foundation to build on and meet whatever requirements you have in mind."
    }
   },
   "ANVL_Hornet_F7CM": {
@@ -3816,6 +4362,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25.5,
+     "y": 28.25,
+     "z": 7.5
+    },
+    "label": "Anvil F7C-M Super Hornet Mk I",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n\\nThe closest to the Military load-out as is legally possible for a Civilian model, the F7C-M Super Hornet Mk I reattaches the ball turret and offers near milspec parts under the hood. Proving that two heads are better than one, a second seat has been added to split the logistic and combat duty, making the Super Hornet a truly terrifying mark t"
    }
   },
   "ANVL_Hornet_F7CM_Heartseeker": {
@@ -3850,6 +4409,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25.5,
+     "y": 28.25,
+     "z": 7.5
+    },
+    "label": "Anvil F7C-M Hornet Heartseeker Mk I",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n\\nDesigned for pilots whose true love is the pulse-pounding thrill of a harrowing dogfight, the limited-edition F7C-M Heartseeker Mk I is 'the one' for true combat die-hards. Loaded with top-of-the-line components and outfitted with four imposing Behring laser cannons, this fierce eradicator hones the legendary combat proficiency of the Super H"
    }
   },
   "ANVL_Hornet_F7CM_Mk2": {
@@ -3950,7 +4522,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 24,
+     "z": 6.5
+    },
+    "label": "Anvil F7C-M Super Hornet Mk II",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nRefining their renowned military-class superiority fighter with the most up-to-date technology, Anvil Aerospace has crafted the F7C-M Super Hornet Mk II,  retaining the second seat and ball turret that made the original a truly terrifying mark to engage."
+   }
   },
   "ANVL_Hornet_F7CM_Mk2_Heartseeker": {
    "powerplant": {
@@ -4034,7 +4619,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_center"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 24,
+     "z": 6.5
+    },
+    "label": "Anvil F7C-M Hornet Heartseeker Mk II",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nWhen the F7C-M Super Hornet got upgraded to the Mk II, there was no doubt in the Anvil Aerospace’s mind that they would be giving the very special Heartseeker edition the same treatment. With its robust weapon package designed for pilots whose true love is the thrill of a harrowing dogfight, the limited-edition F7C-M Heartseeker Mk II is set"
+   }
   },
   "ANVL_Hornet_F7CR": {
    "powerplant": {
@@ -4068,6 +4666,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25.5,
+     "y": 28.25,
+     "z": 7.5
+    },
+    "label": "Anvil F7C-R Hornet Tracker Mk I",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Pathfinder\\n\\nIf the Ghost is made to hide, the Tracker is made to seek. The F7C-R Hornet Tracker Mk I boasts an advanced radar suite making it ideal for deep-space explorers who require depth and accuracy in their scan packages. Local militia and larger merc units will also repurpose Trackers to act as mobile C&C ships for their squadrons."
    }
   },
   "ANVL_Hornet_F7CR_Mk2": {
@@ -4128,7 +4739,20 @@
      "itype": "Module",
      "slot": "hardpoint_weapon_center"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 22,
+     "y": 22.5,
+     "z": 6.5
+    },
+    "label": "Anvil F7C-R Hornet Tracker Mk II",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Pathfinder\\n \\nWhen seeking the next great frontier, who better to trust than a next-generation pathfinder? The F7C-R Hornet Tracker Mk II boasts an overhauled radar suite ideal for deep-space explorers who require depth and accuracy in their scan packages."
+   }
   },
   "ANVL_Hornet_F7CS": {
    "powerplant": {
@@ -4162,6 +4786,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Stealth Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25.5,
+     "y": 28.25,
+     "z": 7.5
+    },
+    "label": "Anvil F7C-S Hornet Ghost Mk I",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Stealth Fighter\\n\\nThrough a combination of low-emission drives, low-draw weapons, and Void Armor technology capable of diffusing scans, the F7C-S Hornet Ghost Mk I is built for the pilot who wants to keep a low profile. The Ghost is capable of slipping past the most ardent of observers to accomplish whatever goal you need to accomplish. Don't worry, we won't "
    }
   },
   "ANVL_Hornet_F7CS_Mk2": {
@@ -4222,7 +4859,20 @@
      "itype": "Module",
      "slot": "hardpoint_weapon_center"
     }
-   ]
+   ],
+   "info": {
+    "role": "Stealth Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 22,
+     "y": 22.5,
+     "z": 6.5
+    },
+    "label": "Anvil F7C-S Hornet Ghost Mk II",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Stealth Fighter\\n \\nWhen approaching the Mk II redesign of the F7C-S Hornet Ghost, the engineers at Anvil Aerospace wanted to preserve what pilots loved about the low-emission drives, low-draw weapons, and Void Armor technology of the original, but refine them to an even higher level of performance for a whole new era of stealth operations."
+   }
   },
   "ANVL_Hornet_F7C_Mk2": {
    "powerplant": {
@@ -4278,7 +4928,20 @@
      "name": "ANVL_HORNET_F7C_MK2_CARGO_DOOR",
      "slot": "hardpoint_weapon_center"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 22,
+     "y": 22.5,
+     "z": 6.5
+    },
+    "label": "Anvil F7C Hornet Mk II",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nStraight from the front lines to your personal hangar, the re-engineered F7C Hornet Mk II takes the latest battlefield upgrades and makes them available to private pilots across the empire. The fighter features an improved power system utilized by an overhauled weapon and missile package"
+   }
   },
   "ANVL_Hornet_F7C_Wildfire": {
    "powerplant": {
@@ -4312,6 +4975,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25.5,
+     "y": 28.25,
+     "z": 7.5
+    },
+    "label": "Anvil F7C Hornet Wildfire Mk I",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n\\nCreated as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Wildfire pays tribute to famed pilot Aria Reilly for her distinguished service with the legendary Squadron 42. This F7C Hornet Mk I comes equipped with her own personally selected loadout preferences and a custom special edition livery ho"
    }
   },
   "ANVL_Hornet_F7_Mk2_Collector_Mod": {
@@ -4412,7 +5088,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 24,
+     "z": 6.5
+    },
+    "label": "Anvil F7 Hornet Mk Wikelo",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nRefining their renowned military-class superiority fighter with the most up-to-date technology, Anvil Aerospace has crafted the F7C-M Super Hornet Mk II, retaining the second seat and ball turret that made the original a truly terrifying mark to engage.\\n\\nHello, I Wikelo. Made change to ship. Already impressive, yes, but made more so."
+   }
   },
   "ANVL_Hurricane": {
    "powerplant": {
@@ -4480,7 +5169,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18.5,
+     "y": 24,
+     "z": 6.5
+    },
+    "label": "Anvil Hurricane",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Heavy Fighter\\n\\nBig things do come in small packages: the Hurricane is a fighting spacecraft that packs a deadly punch into a slight fuselage. The spacecraft compensates for its lack of creature comforts with its powerful armament: six guns capable of blasting their way through nearly anything. Hurricane pilots have yet to find an enemy shield they can't knoc"
+   }
   },
   "ANVL_Lightning_F8": {
    "powerplant": {
@@ -4604,7 +5306,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8A Lightning",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire’s Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity’s freedom from numerous threats at home and abroad countless times."
+   }
   },
   "ANVL_Lightning_F8C": {
    "powerplant": {
@@ -4728,7 +5443,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8C Lightning",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire's Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity's freedom from numerous threats at home and abroad countless times. Now, that same next generation space superiority fighter is available to become a part of yo"
+   }
   },
   "ANVL_Lightning_F8C_Collector_Military": {
    "powerplant": {
@@ -4852,7 +5580,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8C Lightning Wikelo War Special",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire's Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity's freedom from numerous threats at home and abroad countless times. Now, that same next generation space superiority fighter is available to become a part of yo"
+   }
   },
   "ANVL_Lightning_F8C_Collector_Stealth": {
    "powerplant": {
@@ -4976,7 +5717,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8C Lightning Wikelo Sneak Special",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire's Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity's freedom from numerous threats at home and abroad countless times. Now, that same next generation space superiority fighter is available to become a part of yo"
+   }
   },
   "ANVL_Lightning_F8C_Exec": {
    "powerplant": {
@@ -5100,7 +5854,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8C Lightning Executive Edition",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Heavy Fighter\\n\\nAlways ready to improve upon near-perfection, Anvil has coordinated with the Chairman's Club to create this stunning work of flying art, the F8C Lighting Executive Edition. The hull has been beautifully accentuated with a unique premium livery, while in the cockpit you'll find sumptuous gold and metallic detailing, a fitting crown for this ki"
+   }
   },
   "ANVL_Lightning_F8C_Plat": {
    "powerplant": {
@@ -5224,7 +5991,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8C Lightning",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire's Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity's freedom from numerous threats at home and abroad countless times. Now, that same next generation space superiority fighter is available to become a part of yo"
+   }
   },
   "ANVL_Lightning_F8_Fleetweek": {
    "powerplant": {
@@ -5348,7 +6128,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8A Lightning",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire’s Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity’s freedom from numerous threats at home and abroad countless times."
+   }
   },
   "ANVL_Lightning_F8_Fleetweek_DarkBlue": {
    "powerplant": {
@@ -5472,7 +6265,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8A Lightning",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire’s Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity’s freedom from numerous threats at home and abroad countless times."
+   }
   },
   "ANVL_Lightning_F8_Fleetweek_Grey": {
    "powerplant": {
@@ -5596,7 +6402,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8A Lightning",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire’s Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity’s freedom from numerous threats at home and abroad countless times."
+   }
   },
   "ANVL_Lightning_F8_Fleetweek_LightBlue": {
    "powerplant": {
@@ -5720,7 +6539,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8A Lightning",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire’s Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity’s freedom from numerous threats at home and abroad countless times."
+   }
   },
   "ANVL_Lightning_F8_Fleetweek_White": {
    "powerplant": {
@@ -5844,7 +6676,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 25,
+     "y": 26,
+     "z": 8
+    },
+    "label": "Anvil F8A Lightning",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Heavy Fighter\\n\\nFew vehicles employed by the proud men and women who serve in our Empire’s Navy inspire the awe of the legendary F8 Lightning. A force to be reckoned with, the F8 has secured Humanity’s freedom from numerous threats at home and abroad countless times."
+   }
   },
   "ANVL_Paladin": {
    "powerplant": {
@@ -5878,6 +6723,19 @@
     "class": "Competition",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Gunship",
+    "career": "Gunship",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 38,
+     "y": 53.5,
+     "z": 15.5
+    },
+    "label": "Anvil Paladin",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Gunship\\n \\nDesigned by Anvil Aerospace, the Paladin is an intimidating frontline fight that makes a bold impact whenever it arrives in battle. Whether it’s executing a dangerous operation or leading the charge against overwhelming odds, with its powerful array of turreted weapons and ordnance the Paladin is ready to ride to the rescue."
    }
   },
   "ANVL_Terrapin": {
@@ -5938,7 +6796,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_02"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Support",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 20,
+     "z": 7.5
+    },
+    "label": "Anvil Terrapin",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Pathfinder\\n\\nPresenting the Anvil Aerospace U4A-3 Terrapin-class Scanning/Exploration Ship. The Terrapin was developed near the end of the 28th century to serve as the first ship in the Empire’s defensive restructuring of the Navy. The Terrapin’s watchword is protection, with extensive shield systems and armor layers designed to provide the maximum possible d"
+   }
   },
   "ANVL_Terrapin_Medic": {
    "powerplant": {
@@ -5998,7 +6869,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_02"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 20,
+     "z": 7.5
+    },
+    "label": "Anvil Terrapin Medic",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medical\\n\\nMaintaining the famed toughness of the original Terrapin, Anvil designers have crafted an optimal vehicle for rescue operations with the Terrapin Medic. Featuring a tier 2 medical bed, the Terrapin Medic can extract injured parties from even the most hazardous situations thanks to its powerful armor and shielding.\\n"
+   }
   },
   "ANVL_Terrapin_Medic_Collector_Medic": {
    "powerplant": {
@@ -6058,7 +6942,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_02"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 20,
+     "z": 7.5
+    },
+    "label": "Anvil Terrapin Medic Wikelo Savior Special",
+    "desc": "Manufacturer: Anvil Aerospace\\nFocus: Medical\\n\\nMaintaining the famed toughness of the original Terrapin, Anvil designers have crafted an optimal vehicle for rescue operations with the Terrapin Medic. Featuring a tier 2 medical bed, the Terrapin Medic can extract injured parties from even the most hazardous situations thanks to its powerful armor and shielding.\\n\\nWikelo here. Made useful modific"
+   }
   },
   "ANVL_Valkyrie": {
    "powerplant": {
@@ -6206,7 +7103,20 @@
      "name": "WEAPON_RACK_ANVL_VALKYRIE_1SLOT",
      "slot": "hardpoint_weapon_cabinet_20"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 5,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 38,
+     "y": 48,
+     "z": 12
+    },
+    "label": "Anvil Valkyrie",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Drop Ship\\n\\nThe Valkyrie ups the ante on troop transport. Designed to carry up to twenty soldiers, as well as vehicles, to the most hostile locations, this conflict-ready mil-spec craft is a formidable force, both offensively and defensively. Built with military and private defense contractors in mind, the Valkyrie is one of the most efficient and effective "
+   }
   },
   "ANVL_Valkyrie_Advocacy": {
    "powerplant": {
@@ -6354,7 +7264,20 @@
      "name": "WEAPON_RACK_ANVL_VALKYRIE_1SLOT",
      "slot": "hardpoint_weapon_cabinet_20"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 5,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 38,
+     "y": 48,
+     "z": 12
+    },
+    "label": "Anvil Valkyrie",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Drop Ship\\n\\nThe Valkyrie ups the ante on troop transport. Designed to carry up to twenty soldiers, as well as vehicles, to the most hostile locations, this conflict-ready mil-spec craft is a formidable force, both offensively and defensively. Built with military and private defense contractors in mind, the Valkyrie is one of the most efficient and effective "
+   }
   },
   "ANVL_Valkyrie_CitizenCon": {
    "powerplant": {
@@ -6502,7 +7425,20 @@
      "name": "WEAPON_RACK_ANVL_VALKYRIE_1SLOT",
      "slot": "hardpoint_weapon_cabinet_20"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 5,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 38,
+     "y": 48,
+     "z": 12
+    },
+    "label": "Anvil Valkyrie Liberator",
+    "desc": "Manufacturer: Anvil Aerospace \\nFocus: Drop Ship\\n\\nFor over a century, Anvil ships have distinguished themselves in countless civilian and military combat operations. Honor that proud tradition of security with the limited Liberator Edition Valkyrie, featuring an exclusive trim package commemorating the ship's debut at CitizenCon 2948."
+   }
   },
   "ARGO_MOLE": {
    "powerplant": {
@@ -6562,7 +7498,20 @@
      "itype": "WeaponMining",
      "slot": "hardpoint_weapon_mining"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Mining",
+    "career": "Industrial",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26,
+     "y": 45,
+     "z": 15
+    },
+    "label": "Argo MOLE",
+    "desc": "Manufacturer: Argo Astronautics\\nFocus: Medium Mining\\n\\nArgo’s iconic multi-operator laser extractor, more commonly referred to as the MOLE, lets you work faster and more effectively than ever before, thanks to its patented trilateral mining system. Three independently controlled articulated extraction stations allow for maximum power and near-limitless versatility. The MOLE lives by the adage \"m"
+   }
   },
   "ARGO_MOLE_BTALA": {
    "powerplant": {
@@ -6622,7 +7571,20 @@
      "itype": "WeaponMining",
      "slot": "hardpoint_weapon_mining"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Mining",
+    "career": "Industrial",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26,
+     "y": 45,
+     "z": 15
+    },
+    "label": "ARGO MOLE Alliance",
+    "desc": "Manufacturer: Argo Astronautics\\nFocus: Medium Mining\\n\\nArgo’s iconic multi-operator laser extractor, more commonly referred to as the MOLE, lets you work faster and more effectively than ever before, thanks to its patented trilateral mining system. Three independently controlled articulated extraction stations allow for maximum power and near-limitless versatility. The MOLE lives by the adage \"m"
+   }
   },
   "ARGO_MOTH": {
    "cooler": {
@@ -6682,7 +7644,20 @@
      "itype": "SalvageHead",
      "slot": "hardpoint_weapon_salvage"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Salvage",
+    "career": "Industrial",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "label": "Argo MOTH",
+    "desc": "Manufacturer: Argo Astronautics\\nFocus: Medium Salvage\\n\\nExperience Argo's centuries of industrial expertise with the MOTH. Using a tried and tested chassis as its foundation, the MOTH features three dedicated salvage turrets and an external salvage autoloader, so a four person crew can strip, rip, and store salvage as fast as they can get to it."
+   }
   },
   "ARGO_MPUV_1T": {
    "cooler": {
@@ -6708,6 +7683,19 @@
     "class": "Industrial",
     "itype": "Shield",
     "count": 1
+   },
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 9,
+     "y": 10.5,
+     "z": 5.5
+    },
+    "label": "Argo MPUV Tractor",
+    "desc": "Manufacturer: Argo Astronautics\\nFocus: Light Freight\\n\\nThe Argo Astronautics MPUV-1T is outfitted with a tractor beam to allow it to handily move cargo containers on and off larger hauling vessels.  Its smaller size and maneuverability make it an ideal support vehicle at landing zones and space stations."
    }
   },
   "ARGO_RAFT": {
@@ -6760,7 +7748,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 23,
+     "y": 39.5,
+     "z": 12
+    },
+    "label": "Argo RAFT",
+    "desc": "Manufacturer: Argo Astronautics\\nFocus: Medium Freight\\n\\nThe Argo RAFT features a hefty 192 SCU cargo hold, and is capable of carrying standardized 32 SCU cargo containers. Perfect for entry-level haulers and old pros alike, the RAFT is an ideal solution for reliable local freight transport."
+   }
   },
   "ARGO_RAFT_Collector_Indust": {
    "shield": {
@@ -6812,7 +7813,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 23,
+     "y": 39.5,
+     "z": 12
+    },
+    "label": "Argo RAFT Wikelo Work Special",
+    "desc": "Manufacturer: Argo Astronautics\\nFocus: Medium Freight\\n\\nThe Argo RAFT features a hefty 192 SCU cargo hold, and is capable of carrying standardized 32 SCU cargo containers. Perfect for entry-level haulers and old pros alike, the RAFT is an ideal solution for reliable local freight transport.\\n\\nWikelo hi. Made useful modifications to make ship even more industrious. You will like."
+   }
   },
   "BANU_Defender": {
    "powerplant": {
@@ -6884,7 +7898,20 @@
      "name": "WEAPON_RACK_BANU_DEFENDER_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24.5,
+     "y": 24.5,
+     "z": 5
+    },
+    "label": "Banu Defender",
+    "desc": "Manufacturer: Banu \\nFocus: Light Fighter\\n\\nMeet the Banu Defender, a multi-crew fighter whose patchwork design highlights technology from a variety of species. Featuring modest accommodations for its crew and easy access to components, the Defender gets its name from the role it serves: the first line of defense against enemy attacks. That's why the Defender makes the ideal companion to the Merc"
+   }
   },
   "CNOU_Mustang_Alpha": {
    "powerplant": {
@@ -6928,7 +7955,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_nose"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Freight",
+    "career": "Multi-Role",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 21.5,
+     "z": 9
+    },
+    "label": "C.O. Mustang Alpha",
+    "desc": "Manufacturer: Consolidated Outland \\nFocus: Starter / Light Freight\\n\\nInspired by Consolidated Outland CEO Silas Koerner’s cutting edge vision, the Mustang Alpha is a sleek, stylish spacecraft that uses ultralight alloys to push power ratios to the limits, albeit sometimes unsafely. And now, with the optional Cargo Carrier, you can have the Alpha’s advantages without sacrificing carrying capacity"
+   }
   },
   "CNOU_Mustang_Alpha_CitizenCon2018": {
    "powerplant": {
@@ -6972,7 +8012,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_nose"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Freight",
+    "career": "Multi-Role",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 21.5,
+     "z": 9
+    },
+    "label": "C.O. Mustang CitizenCon 2948 Edition",
+    "desc": "Manufacturer: Consolidated Outland \\nFocus: Starter / Light Freight\\n\\nDesigned to commemorate the 2948 CitizenCon, this customized model of the newly revised Mustang Alpha features an exclusive new paintjob designed by Silas Koerner himself."
+   }
   },
   "CNOU_Mustang_Beta": {
    "powerplant": {
@@ -7016,7 +8069,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_nose"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 21.5,
+     "z": 9
+    },
+    "label": "C.O. Mustang Beta",
+    "desc": "Manufacturer: Consolidated Outland \\nFocus: Pathfinder\\n\\nThe Mustang Beta, with its unprecedented range, is made for long duration flights. The factory standard Tarsus Leaper Jump Engine enables the Beta to travel to the galaxy’s farthest systems with ease, while the ship’s unique Com4T living quarters will make the journey feel like you never left home."
+   }
   },
   "CNOU_Mustang_Delta": {
    "powerplant": {
@@ -7076,7 +8142,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 21.5,
+     "z": 9
+    },
+    "label": "C.O. Mustang Delta",
+    "desc": "Manufacturer: Consolidated Outland \\nFocus: Light Fighter\\n\\nWhile it may not be able to go toe to toe with some of the military specific ships, by reinforcing the Mustang’s already strong hull construction with Consolidated Outland’s own line of Cavalry Class Mass Reduction Armor, the Delta has a reduced cross-sectional signature that evens the playing field."
+   }
   },
   "CNOU_Mustang_Gamma": {
    "powerplant": {
@@ -7136,7 +8215,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 21.5,
+     "z": 9
+    },
+    "label": "C.O. Mustang Gamma",
+    "desc": "Manufacturer: Consolidated Outland \\nFocus: Racing\\n\\nConsolidated Outland’s design and engineering teams have managed to tweak and refine the Mustang into an admirable racer. The end result, the Mustang Gamma, has smooth acceleration, and power on demand thanks to an innovative package featuring three powerful Magma Jet engines for maximum thrust."
+   }
   },
   "CNOU_Mustang_Omega": {
    "powerplant": {
@@ -7196,7 +8288,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 21.5,
+     "z": 9
+    },
+    "label": "C.O. Mustang Omega",
+    "desc": "Manufacturer: Consolidated Outland \\nFocus: Racing\\n\\nConsolidated Outland teamed up with custom tuning company Accelerated Mass Design to create a limited edition racer that features a ramped up fuel intake for faster recycling of the ship’s already impressive boost system. To cap off the collaboration, AMD enlisted resident underground artist Sektor8 to design the dynamic paint job."
+   }
   },
   "CNOU_Nomad": {
    "powerplant": {
@@ -7264,7 +8369,20 @@
      "name": "WEAPON_RACK_CNOU_NOMAD",
      "slot": "hardpoint_weapon_rack_02"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Freight",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27,
+     "y": 19,
+     "z": 10
+    },
+    "label": "C.O. Nomad",
+    "desc": "Manufacturer: Consolidated Outland \\nFocus: Starter / Light Freight\\n\\nWith the versatility of a medium-sized multi-purpose freighter packed into a stylish, compact frame, the Consolidated Outland Nomad is the model of self-sufficiency, the spirit of the open sky, and the perfect solution for anyone yearning to start a brand-new adventure."
+   }
   },
   "CRUS_Intrepid": {
    "powerplant": {
@@ -7308,7 +8426,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_main"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Freight",
+    "career": "Starter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 20.18,
+     "y": 23.07,
+     "z": 6.13
+    },
+    "label": "Crusader Intrepid",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Starter / Light Freight\\n\\nFor those eager to meet their future head on, the renowned ship engineers at Crusader Industries proudly present the Intrepid. A bold ship ready to tackle any number of jobs and conquer numerous challenges, the Intrepid features efficient cargo space and comfortable living quarters to make the most of your solo journey across the"
+   }
   },
   "CRUS_Intrepid_Collector_Indust": {
    "powerplant": {
@@ -7352,7 +8483,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_main"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Freight",
+    "career": "Starter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 20.18,
+     "y": 23.07,
+     "z": 6.13
+    },
+    "label": null,
+    "desc": ""
+   }
   },
   "CRUS_Spirit_A1": {
    "powerplant": {
@@ -7412,7 +8556,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Bomber",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 47.5,
+     "y": 44,
+     "z": 10
+    },
+    "label": "Crusader A1 Spirit",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Bomber\\n\\nCrusader Industries brings its usual commitment to excellence directly to the civilian market with the A1 Spirit, a mid-size multi-purpose starship equipped as a light bomber but packing enough versatility to tackle multiple roles and unpredictable jobs."
+   }
   },
   "CRUS_Spirit_C1": {
    "powerplant": {
@@ -7472,7 +8629,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 47.5,
+     "y": 44,
+     "z": 10
+    },
+    "label": "Crusader C1 Spirit",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Light Freight\\n\\nCrusader Industries brings its usual commitment to excellence directly to the civilian market with the C1 Spirit, a mid-size multi-purpose starship built for cargo transport and delivery but packing enough versatility to tackle multiple roles and unpredictable jobs."
+   }
   },
   "CRUS_Spirit_C1_Civilian": {
    "powerplant": {
@@ -7532,7 +8702,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 47.5,
+     "y": 44,
+     "z": 10
+    },
+    "label": "Crusader C1 Spirit Wikelo Special",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Light Freight\\n\\nCrusader Industries brings its usual commitment to excellence directly to the civilian market with the C1 Spirit, a mid-size multi-purpose starship built for cargo transport and delivery but packing enough versatility to tackle multiple roles and unpredictable jobs.\\n\\nWikelo here. Made useful modifications to make much more impressive."
+   }
   },
   "CRUS_Starfighter_Inferno": {
    "powerplant": {
@@ -7576,7 +8759,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_s7"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 30,
+     "y": 27,
+     "z": 6
+    },
+    "label": "Crusader Ares Star Fighter Inferno",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Fighter\\n\\nWhether heading up a crew or hunting big ships solo, the Ares Inferno is a force to be reckoned with. This ballistic Gatling-equipped variant tears through gunship armor and turns smaller fighters to dust in seconds."
+   }
   },
   "CRUS_Starfighter_Inferno_Collector_Military": {
    "powerplant": {
@@ -7620,7 +8816,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_s7"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 30,
+     "y": 27,
+     "z": 6
+    },
+    "label": "Crusader Ares Star Fighter Inferno Wikelo War Special",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Fighter\\n\\nWhether heading up a crew or hunting big ships solo, the Ares Inferno is a force to be reckoned with. This ballistic Gatling-equipped variant tears through gunship armor and turns smaller fighters to dust in seconds.\\n\\nWikelo here. Made useful modifications to make ship much more fighter like. Very impressive."
+   }
   },
   "CRUS_Starfighter_Ion": {
    "powerplant": {
@@ -7664,7 +8873,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_s7"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 30,
+     "y": 27,
+     "z": 6
+    },
+    "label": "Crusader Ares Star Fighter Ion",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Fighter\\n\\nSpark fear in the corridors of the most formidable gunships and frigates with the Ares Ion. This laser-equipped variant delivers extremely powerful shots to quickly disable the shields of even the biggest enemy vessels."
+   }
   },
   "CRUS_Starfighter_Ion_Collector_Stealth": {
    "powerplant": {
@@ -7708,7 +8930,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_s7"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 30,
+     "y": 27,
+     "z": 6
+    },
+    "label": "Crusader Ares Star Fighter Ion Wikelo Sneak Special",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Fighter\\n\\nSpark fear in the corridors of the most formidable gunships and frigates with the Ares Ion. This laser-equipped variant delivers extremely powerful shots to quickly disable the shields of even the biggest enemy vessels.\\n\\nWikelo here. Made useful modifications to make ship much tougher to see. Sneaky."
+   }
   },
   "CRUS_Starlifter_A2": {
    "cooler": {
@@ -7776,7 +9011,20 @@
      "name": "WEAPON_RACK_STARLIFTER_ARMORY_LARGE_SPECIAL",
      "slot": "hardpoint_weapon_rack_special_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Bomber",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 94,
+     "y": 70,
+     "z": 23
+    },
+    "label": "Crusader A2 Hercules Starlifter",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Bomber\\n\\nThe A2 Starlifter has been used to devastating effect in airborne assaults, search and rescue operations, and landing initiatives. With more than double the firepower of the M2, and a custom bomb bay capable of delivering a staggering payload, the A2 caters to anyone hauling massive amounts of cargo through potentially unfriendly skies."
+   }
   },
   "CRUS_Starlifter_A2_Bombless": {
    "cooler": {
@@ -7844,7 +9092,20 @@
      "name": "WEAPON_RACK_STARLIFTER_ARMORY_LARGE_SPECIAL",
      "slot": "hardpoint_weapon_rack_special_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Bomber",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 94,
+     "y": 70,
+     "z": 23
+    },
+    "label": "Crusader A2 Hercules Starlifter",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Bomber\\n\\nThe A2 Starlifter has been used to devastating effect in airborne assaults, search and rescue operations, and landing initiatives. With more than double the firepower of the M2, and a custom bomb bay capable of delivering a staggering payload, the A2 caters to anyone hauling massive amounts of cargo through potentially unfriendly skies."
+   }
   },
   "CRUS_Starlifter_A2_Collector_Military": {
    "cooler": {
@@ -7912,7 +9173,20 @@
      "name": "WEAPON_RACK_STARLIFTER_ARMORY_LARGE_SPECIAL",
      "slot": "hardpoint_weapon_rack_special_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Bomber",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 94,
+     "y": 70,
+     "z": 23
+    },
+    "label": "Crusader A2 Hercules Starlifter Wikelo War Special",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Bomber\\n\\nThe A2 Starlifter has been used to devastating effect in airborne assaults, search and rescue operations, and landing initiatives. With more than double the firepower of the M2, and a custom bomb bay capable of delivering a staggering payload, the A2 caters to anyone hauling massive amounts of cargo through potentially unfriendly skies.\\n\\n"
+   }
   },
   "CRUS_Starlifter_A2_EA_PIR": {
    "cooler": {
@@ -7980,7 +9254,20 @@
      "name": "WEAPON_RACK_STARLIFTER_ARMORY_LARGE_SPECIAL",
      "slot": "hardpoint_weapon_rack_special_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Bomber",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 94,
+     "y": 70,
+     "z": 23
+    },
+    "label": "Crusader A2 Hercules Starlifter",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Bomber\\n\\nThe A2 Starlifter has been used to devastating effect in airborne assaults, search and rescue operations, and landing initiatives. With more than double the firepower of the M2, and a custom bomb bay capable of delivering a staggering payload, the A2 caters to anyone hauling massive amounts of cargo through potentially unfriendly skies."
+   }
   },
   "CRUS_Starlifter_A2_S3Bombs": {
    "cooler": {
@@ -8048,7 +9335,20 @@
      "name": "WEAPON_RACK_STARLIFTER_ARMORY_LARGE_SPECIAL",
      "slot": "hardpoint_weapon_rack_special_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Bomber",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 94,
+     "y": 70,
+     "z": 23
+    },
+    "label": "Crusader A2 Hercules Starlifter",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Bomber\\n\\nThe A2 Starlifter has been used to devastating effect in airborne assaults, search and rescue operations, and landing initiatives. With more than double the firepower of the M2, and a custom bomb bay capable of delivering a staggering payload, the A2 caters to anyone hauling massive amounts of cargo through potentially unfriendly skies."
+   }
   },
   "CRUS_Starlifter_C2": {
    "cooler": {
@@ -8100,7 +9400,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 94,
+     "y": 70,
+     "z": 23
+    },
+    "label": "Crusader C2 Hercules Starlifter",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Freight\\n\\nUtilizing the patented Hercules military-grade spaceframe and expanding cargo capacity, while sacrificing barely any firepower, the C2 has taken the private sector by storm. It has become the industry standard for racing teams, ship dealers and manufacturers, construction orgs, mining corporations, and even large-scale touring entertainmen"
+   }
   },
   "CRUS_Starlifter_M2": {
    "cooler": {
@@ -8168,7 +9481,20 @@
      "name": "WEAPON_RACK_STARLIFTER_ARMORY_LARGE_SPECIAL",
      "slot": "hardpoint_weapon_rack_special_2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 94,
+     "y": 70,
+     "z": 23
+    },
+    "label": "Crusader M2 Hercules Starlifter",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Heavy Freight\\n\\nThe M2 Hercules is the UEE's premier tactical starlifter. The large-scale transport's potent combination of capacity, maneuverability, durability, and robust weapons package assures your cargo and crew get to where they’re going in one piece."
+   }
   },
   "CRUS_Star_Runner": {
    "powerplant": {
@@ -8236,7 +9562,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 55,
+     "y": 51,
+     "z": 19
+    },
+    "label": "Crusader Mercury Star Runner",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Medium Freight\\n\\nIf you need it there fast and unscathed, the Mercury checks all the boxes expected of a dependable courier vessel and then some. Built with the same engineering and design principles that have made Crusader Industries the go-to manufacturer for galactic transport on any scale, the Mercury Star Runner will let you stay ahead of schedule, t"
+   }
   },
   "CRUS_Star_Runner_Mission_PIR_Package": {
    "powerplant": {
@@ -8304,7 +9643,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 55,
+     "y": 51,
+     "z": 19
+    },
+    "label": "Crusader Mercury Star Runner",
+    "desc": "Manufacturer: Crusader Industries\\nFocus: Medium Freight\\n\\nIf you need it there fast and unscathed, the Mercury checks all the boxes expected of a dependable courier vessel and then some. Built with the same engineering and design principles that have made Crusader Industries the go-to manufacturer for galactic transport on any scale, the Mercury Star Runner will let you stay ahead of schedule, t"
+   }
   },
   "DRAK_Buccaneer": {
    "powerplant": {
@@ -8338,6 +9690,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.75,
+     "y": 15.25,
+     "z": 5.5
+    },
+    "label": "Drake Buccaneer",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Light Fighter\\n\\nThe Buccaneer has been designed from the ground up to fly and fight the way you live. No leather interiors or hyperpillows here: the Bucc is a scrapper designed to maneuver and fight above its weight class. This rough-and-tumble frontier fighter can be maintained in the worst of conditions in order to keep real, working space crews alive."
    }
   },
   "DRAK_Buccaneer_EA_Outlaws": {
@@ -8372,6 +9737,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.75,
+     "y": 15.25,
+     "z": 5.5
+    },
+    "label": "Drake Buccaneer",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Light Fighter\\n\\nThe Buccaneer has been designed from the ground up to fly and fight the way you live. No leather interiors or hyperpillows here: the Bucc is a scrapper designed to maneuver and fight above its weight class. This rough-and-tumble frontier fighter can be maintained in the worst of conditions in order to keep real, working space crews alive."
    }
   },
   "DRAK_Caterpillar": {
@@ -8440,7 +9818,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 39.5,
+     "y": 13.4,
+     "z": 111.5
+    },
+    "label": "Drake Caterpillar",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Medium Freight\\n\\nFirst introduced in 2871, Drake Interplanetary's Caterpillar has long proven to be a reliable, cost-effective multi-role vessel, capable of being outfitted for everything from mercantile operations to combat support. Long hailed as a hard-fought alternative to the ubiquitous Hull series, the Caterpillar is a freighter that doesn't skimp "
+   }
   },
   "DRAK_Caterpillar_Boarded": {
    "powerplant": {
@@ -8508,7 +9899,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 39.5,
+     "y": 13.4,
+     "z": 111.5
+    },
+    "label": "Drake Caterpillar",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Medium Freight\\n\\nFirst introduced in 2871, Drake Interplanetary's Caterpillar has long proven to be a reliable, cost-effective multi-role vessel, capable of being outfitted for everything from mercantile operations to combat support. Long hailed as a hard-fought alternative to the ubiquitous Hull series, the Caterpillar is a freighter that doesn't skimp "
+   }
   },
   "DRAK_Caterpillar_Pirate": {
    "powerplant": {
@@ -8576,7 +9980,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 39.5,
+     "y": 13.4,
+     "z": 111.5
+    },
+    "label": "Drake Caterpillar Pirate",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Medium Freight\\n\\nFirst introduced in 2871, Drake Interplanetary's Caterpillar has long proven to be a reliable, cost-effective multi-role vessel, capable of being outfitted for everything from mercantile operations to combat support. Long hailed as a hard-fought alternative to the ubiquitous Hull series, the Caterpillar is a freighter that doesn't skimp "
+   }
   },
   "DRAK_Clipper": {
    "powerplant": {
@@ -8644,7 +10061,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Generalist",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 26.5,
+     "z": 21
+    },
+    "label": "Drake Clipper",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Generalist\\n \\nIf there’s one thing every captain needs to take to heart as they prepare to journey across the stars it’s “expect the unexpected.” With a cargo bay, medical facilities, and crafting capabilities, along with Drake’s practical design sensibility, the Clipper is the perfect all-arounder for any new spacefaring enterprise."
+   }
   },
   "DRAK_Clipper_Collector_Military": {
    "powerplant": {
@@ -8712,7 +10142,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Generalist",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 18,
+     "y": 26.5,
+     "z": 21
+    },
+    "label": "Drake Clipper Wikelo War Special",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Generalist\\n \\nIf there’s one thing every captain needs to take to heart as they prepare to journey across the stars it’s “expect the unexpected.” With a cargo bay, medical facilities, and crafting capabilities, along with Drake’s practical design sensibility, the Clipper is the perfect all-arounder for any new spacefaring enterprise."
+   }
   },
   "DRAK_Command_Module": {
    "quantum": {
@@ -8764,7 +10207,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Transport",
+    "career": "Transport",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16,
+     "y": 20,
+     "z": 6
+    },
+    "label": "Drake Command Module",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Logistics\\n\\nEven the most experienced captains know when the best course of action is to cut their losses and live to fight another day. With this detachable command module, Drake has made sure that cautious operators can extract themselves from the ship’s main body and make a hasty exit with ease, should the need arise."
+   }
   },
   "DRAK_Command_Module_Boarded": {
    "quantum": {
@@ -8816,7 +10272,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Transport",
+    "career": "Transport",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16,
+     "y": 20,
+     "z": 6
+    },
+    "label": "Drake Command Module",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Logistics\\n\\nEven the most experienced captains know when the best course of action is to cut their losses and live to fight another day. With this detachable command module, Drake has made sure that cautious operators can extract themselves from the ship’s main body and make a hasty exit with ease, should the need arise."
+   }
   },
   "DRAK_Corsair": {
    "powerplant": {
@@ -8916,7 +10385,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 30,
+     "y": 53,
+     "z": 25
+    },
+    "label": "Drake Corsair",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Expedition\\n\\nHeed the call of uncharted space and harness the spirit of exploration with the Drake Corsair. Utilizing a unique asymmetrical hull design, this versatile explorer can go wherever the winds of adventure may steer you."
+   }
   },
   "DRAK_Cutlass_Black": {
    "powerplant": {
@@ -8968,7 +10450,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight / Medium Fighter",
+    "career": "Multi-Role",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Drake Cutlass Black",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Light Freight / Medium Fighter\\n\\nDrake Interplanetary claims that the Cutlass Black is a low-cost, easy-to-maintain solution for local in-system militia units. The larger-than-average cargo hold, RIO seat and dedicated tractor mount are, the company literature insists, for facilitating search and rescue operations."
+   }
   },
   "DRAK_Cutlass_Black_Mission_PIR_Package": {
    "powerplant": {
@@ -9020,7 +10515,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight / Medium Fighter",
+    "career": "Multi-Role",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Drake Cutlass Black",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Light Freight / Medium Fighter\\n\\nDrake Interplanetary claims that the Cutlass Black is a low-cost, easy-to-maintain solution for local in-system militia units. The larger-than-average cargo hold, RIO seat and dedicated tractor mount are, the company literature insists, for facilitating search and rescue operations."
+   }
   },
   "DRAK_Cutlass_Blue": {
    "powerplant": {
@@ -9072,7 +10580,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Interdiction",
+    "career": "Combat",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Drake Cutlass Blue",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Interdiction\\n\\nSleek, mean, and royal. The Cutlass Blue adds missiles, a more aggressive engine, and Durasteel holding cells in the cargo bay to the standard model. The Cutlass Blue is the outworld militia standard ship of choice for patrols."
+   }
   },
   "DRAK_Cutlass_Red": {
    "powerplant": {
@@ -9106,6 +10627,19 @@
     "class": "Industrial",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Drake Cutlass Red",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Medical\\n\\nThe Cutlass Red converts the standard cargo hold to a well-equiped medical facility including an Autodoc. This starbound ambulance features the Nav-E7 Echo Transponder, a long range scanner, and a Secure Plus Docking Collar, making it ideal for search and rescue. This model also features a unique Red Crossbones skin."
    }
   },
   "DRAK_Cutlass_Steel": {
@@ -9158,7 +10692,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Drake Cutlass Steel",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Drop Ship\\n\\nWith the Cutlass Steel, Drake Interplanetary has once again reinvented their classic design to create a next generation combat transport ship through the addition of dedicated jump seats and an expanded arsenal. It’s a dangerous ‘verse out there, and the Cutlass Steel is ready to cut a path through whatever stands in the way of you and your d"
+   }
   },
   "DRAK_Cutter": {
    "cooler": {
@@ -9214,7 +10761,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16,
+     "y": 20,
+     "z": 6
+    },
+    "label": "Drake Cutter",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Starter / Pathfinder\\n\\nDesigned for hard-working folks of all stripes, the Cutter packs 4 SCU of cargo room and plenty of wallop into a rough and tumble, compact frame. It's a ship that truly embodies the spirit of Drake: that no matter who you are or what you do, you can reach the stars."
+   }
   },
   "DRAK_Cutter_Rambler": {
    "cooler": {
@@ -9258,7 +10818,20 @@
      "name": "WEAPON_RACK_DRAK_CUTTER_RAMBLER_9_SLOT",
      "slot": "hardpoint_weapon_locker_expo"
     }
-   ]
+   ],
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16,
+     "y": 20,
+     "z": 6
+    },
+    "label": "Drake Cutter Rambler",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Expedition\\n\\nThe brass at Drake heard what you had to say, and their answer was the Cutter Rambler. Building upon the original, the Rambler preserves a full 2 SCU of cargo room while adding in requested creature comforts and enough personal storage to make even the longest journey go by in a flash."
+   }
   },
   "DRAK_Cutter_Scout": {
    "weapons": [
@@ -9282,7 +10855,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16,
+     "y": 20,
+     "z": 6
+    },
+    "label": "Drake Cutter Scout",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Pathfinder\\n\\nPairing down the rough and tumble, compact frame of the Cutter to the bare essentials, Drake took an already impressive ship and transformed it into the ideal scouting vessel. Featuring improved radar and scanning capabilities paired with more power and cooling, the Cutter Scout is ready to fly ahead of the pack."
+   }
   },
   "DRAK_Dragonfly": {
    "powerplant": {
@@ -9318,7 +10904,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 2.5,
+     "y": 7,
+     "z": 2
+    },
+    "label": "Drake Dragonfly",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Racing\\n\\nThe Drake Dragonfly is the perfect snub ship for anyone looking to live on the edge. With nothing separating the pilot from the dangers of space, the Dragonfly is as much an adventure as a ship! Dual-mode conversion allows the Dragonfly to operate on the ground or in space, and a rear-facing second seat means you can even take a passenger!"
+   }
   },
   "DRAK_Dragonfly_Pink": {
    "powerplant": {
@@ -9354,7 +10953,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 2.5,
+     "y": 7,
+     "z": 2
+    },
+    "label": "Drake Dragonfly Star Kitten",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Racing\\n\\nThe Drake Dragonfly is the perfect snub ship for anyone looking to live on the edge. With nothing separating the pilot from the dangers of space, the Dragonfly is as much an adventure as a ship! Dual-mode conversion allows the Dragonfly to operate on the ground or in space, and a rear-facing second seat means you can even take a passenger! This "
+   }
   },
   "DRAK_Dragonfly_Yellow": {
    "powerplant": {
@@ -9390,7 +11002,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 2.5,
+     "y": 7,
+     "z": 2
+    },
+    "label": "Drake Dragonfly Yellowjacket",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Racing\\n\\nThe Drake Dragonfly is the perfect snub ship for anyone looking to live on the edge. With nothing separating the pilot from the dangers of space, the Dragonfly is as much an adventure as a ship! Dual-mode conversion allows the Dragonfly to operate on the ground or in space, and a rear-facing second seat means you can even take a passenger! This "
+   }
   },
   "DRAK_Golem": {
    "cooler": {
@@ -9442,7 +11067,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Mining",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15.5,
+     "y": 7,
+     "z": 5
+    },
+    "label": "Drake Golem",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Starter / Light Mining\\n\\nWith the Golem, Drake designed the ideal ship for those interested in starting a mining career. The ship features a bespoke mining laser and the capacity to carry 32 SCU of valuable resources. In classic Drake fashion, the Golem is a purpose-built ship that prioritizes function over frills."
+   }
   },
   "DRAK_Golem_BTALA": {
    "cooler": {
@@ -9494,7 +11132,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Mining",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15.5,
+     "y": 7,
+     "z": 5
+    },
+    "label": "Drake Golem Alliance",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Starter / Light Mining\\n\\nWith the Golem, Drake designed the ideal ship for those interested in starting a mining career. The ship features a bespoke mining laser and the capacity to carry 32 SCU of valuable resources. In classic Drake fashion, the Golem is a purpose-built ship that prioritizes function over frills.\\n\\nThis Golem shows your support for th"
+   }
   },
   "DRAK_Golem_Collector_Indust": {
    "cooler": {
@@ -9546,7 +11197,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Mining",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15.5,
+     "y": 7,
+     "z": 5
+    },
+    "label": "Drake Golem Wikelo Work Special",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Starter / Light Mining\\n\\nWith the Golem, Drake designed the ideal ship for those interested in starting a mining career. The ship features a bespoke mining laser and the capacity to carry 32 SCU of valuable resources. In classic Drake fashion, the Golem is a purpose-built ship that prioritizes function over frills.\\n\\nWikelo hi. Made useful modifications"
+   }
   },
   "DRAK_Golem_OX": {
    "cooler": {
@@ -9598,7 +11262,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15.5,
+     "y": 7,
+     "z": 5
+    },
+    "label": "Drake Golem OX",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Light Freight\\n \\nWith the Golem OX, Drake has transformed the dependable workhorse into the ideal cargo ship for hauling supplies and equipment. Made for pilots who prefer function over frills, the OX doubles the capacity of the original with room for 64 SCU and features a tractor beam to make cargo transfers smooth as silk."
+   }
   },
   "DRAK_Herald": {
    "powerplant": {
@@ -9658,7 +11335,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_s02_right_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Data",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12.5,
+     "y": 24.75,
+     "z": 9
+    },
+    "label": "Drake Herald",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Medium Data\\n\\nThe Drake Herald is a small, armored ship designed to safely get information from Point A to Point B. Featuring a powerful central engine (for high speed transit and generating the power needed for effective data encryption/containment), advanced encryption software and an armored computer core, the Herald is unique among personal spacecraf"
+   }
   },
   "DRAK_Ironclad": {
    "cooler": {
@@ -9702,7 +11392,20 @@
      "itype": "Misc",
      "slot": "hardpoint_weapon_shroud"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Freight",
+    "career": "Transporter",
+    "crew": 7,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 50,
+     "y": 117,
+     "z": 25
+    },
+    "label": "Drake Ironclad",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Heavy Freight\\n \\nThe universe has steadily grown more dangerous, and simply trying to earn a living has become a potentially lethal affair. That’s why Drake built the hardiest freighter to fly the shipping lanes armed with an intimidating array of turrets, a generous cargo hold, and a convenient tractor beam."
+   }
   },
   "DRAK_Ironclad_Assault": {
    "cooler": {
@@ -9762,7 +11465,20 @@
      "itype": "Misc",
      "slot": "hardpoint_weapon_shroud"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Dropship",
+    "career": "Combat",
+    "crew": 7,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 50,
+     "y": 117,
+     "z": 25
+    },
+    "label": "Drake Ironclad Assault",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Drop Ship\\n \\nWhen the special delivery you have to make is a full-blown incursion, you need the Drake Ironclad Assault. Not only can it fit multiple ground vehicles into its hold, it has turrets along its underside to clear the way for landing, and even a fabrication bay for emergency repairs."
+   }
   },
   "DRAK_Pitbull": {
    "cooler": {
@@ -9838,7 +11554,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right_lower"
     }
-   ]
+   ],
+   "info": {
+    "role": "Snub Fighter",
+    "career": "Snub Fighter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 6,
+     "y": 6,
+     "z": 3
+    },
+    "label": null,
+    "desc": ""
+   }
   },
   "DRAK_Vulture": {
    "powerplant": {
@@ -9894,7 +11623,20 @@
      "name": "WEAPON_RACK_DRAK_VULTURE",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Salvage",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16,
+     "y": 34,
+     "z": 9
+    },
+    "label": "Drake Vulture",
+    "desc": "Manufacturer: Drake Interplanetary\\nFocus: Light Salvage\\n\\nAnswer to no one, cut out the middle man, and throw caution to the wind. Rip wrecks like a pro and carve out your own place in the great big empty behind the stick of this rough, rugged salvage machine from Drake Interplanetary."
+   }
   },
   "ESPR_Prowler": {
    "powerplant": {
@@ -10034,7 +11776,20 @@
      "name": "WEAPON_RACK_POWERED_ESPR_PROWLER",
      "slot": "hardpoint_weapon_rack_16"
     }
-   ]
+   ],
+   "info": {
+    "role": "Dropship",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 32,
+     "y": 34,
+     "z": 15
+    },
+    "label": "Esperia Prowler",
+    "desc": "Manufacturer: Esperia\\nFocus: Drop Ship\\n\\nNamed after the UPE military designation, the Prowler is a modernized version of the infamous Tevarin boarding craft from the First Tevarin War. The Prowler’s effectiveness as a rapid personnel deployment vehicle was mainly due to its silence. With the Prowler, you will find the perfect fusion of two cultures: the elegance and effectiveness of the Tevarin"
+   }
   },
   "ESPR_Prowler_Utility": {
    "powerplant": {
@@ -10126,7 +11881,20 @@
      "name": "WEAPON_RACK_POWERED_ESPR_PROWLER",
      "slot": "hardpoint_weapon_rack_04"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 32,
+     "y": 34,
+     "z": 15
+    },
+    "label": "Esperia Prowler Utility",
+    "desc": "Manufacturer: Esperia\\nFocus: Light Freight\\n\\nWhile no known Tevarin-made examples of this historical ship exist, historians at Esperia studied contemporary UPE military field reports to reconstruct this modified Prowler. Used by the Tevarin military to deliver urgently needed supplies to the frontlines, the Prowler Utility pairs a tractor beam with a fully accessible hold, alongside the warship’"
+   }
   },
   "ESPR_Prowler_Utility_Collector_Indust": {
    "powerplant": {
@@ -10218,7 +11986,20 @@
      "name": "WEAPON_RACK_POWERED_ESPR_PROWLER",
      "slot": "hardpoint_weapon_rack_04"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 32,
+     "y": 34,
+     "z": 15
+    },
+    "label": "Esperia Prowler Utility Wikelo Work Special",
+    "desc": "Manufacturer: Esperia\\nFocus: Light Freight\\n\\nWhile no known Tevarin-made examples of this historical ship exist, historians at Esperia studied contemporary UPE military field reports to reconstruct this modified Prowler. Used by the Tevarin military to deliver urgently needed supplies to the frontlines, the Prowler Utility pairs a tractor beam with a fully accessible hold, alongside the warship’"
+   }
   },
   "ESPR_Talon": {
    "powerplant": {
@@ -10250,7 +12031,20 @@
      "name": "WEAPON_RACK_ESPR_TALON",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15,
+     "y": 24,
+     "z": 8
+    },
+    "label": "Esperia Talon",
+    "desc": "Manufacturer: Esperia\\nFocus: Light Fighter\\n\\nThe Talon represents Esperia's continuing effort to preserve historically significant Tevarin ship designs. A maneuverable single-seat combat ship with light armor but powerful, directional \"Phalanx\" shields, the Talon is made to strike first and strike hard before using the shields to cover its escape."
+   }
   },
   "ESPR_Talon_Shrike": {
    "powerplant": {
@@ -10282,7 +12076,20 @@
      "name": "WEAPON_RACK_ESPR_TALON",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15,
+     "y": 24,
+     "z": 8
+    },
+    "label": "Esperia Talon Shrike",
+    "desc": "Manufacturer: Esperia\\nFocus: Light Fighter\\n\\nThe Talon represents Esperia's continuing effort to preserve historically significant Tevarin ship designs. A maneuverable single-seat combat ship with light armor but powerful, directional \"Phalanx\" shields, the Talon is made to strike first and strike hard before using the shields to cover its escape. The infamous Shrike variant model is armed with "
+   }
   },
   "GAMA_Railen": {
    "powerplant": {
@@ -10382,7 +12189,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 53,
+     "y": 52,
+     "z": 67
+    },
+    "label": "Gatac Railen",
+    "desc": "Manufacturer: Gatac Manufacture\\nFocus: Cargo\\n\\nGatac’s first foray into the Human market, the Railen is an elegant interspecies vessel perfect for any Human or Xi’an pilot looking for a safe, reliable solution for commercial-grade medium cargo hauling, and is a prime example of why the Xi’an Empire has trusted House Gatac with production of its industrial vessels for centuries."
+   }
   },
   "GAMA_Syulen": {
    "cooler": {
@@ -10442,7 +12262,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Pathfinder",
+    "career": "Multi-Role",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 28,
+     "y": 25,
+     "z": 16
+    },
+    "label": "Gatac Syulen",
+    "desc": "Manufacturer: Gatac Manufacture\\nFocus: Starter / Pathfinder\\n\\nThe Syulen cargo vessel has been artfully crafted by the renowned House Gatac to be well suited for both Human and Xi’an pilots. With a refined agile frame, the Syulen lends itself to ferrying important deliveries across the universe, or as the ideal ship for those making their transport career debut."
+   }
   },
   "GAMA_Tyilui": {
    "powerplant": {
@@ -10542,7 +12375,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Snub Carrier",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 58.75,
+     "y": 52,
+     "z": 67.25
+    },
+    "label": "Gatac Tyilui",
+    "desc": "Manufacturer: Gatac Manufacture\\nFocus: Combat\\n\\nTrue to the nature of the Xi'an, the Tyilui takes innovation to the next level with Gatac's most ambitious ship yet. In addition to hosting several turrets, the mini-carrier's rear-facing hangar is capable of storing multiple snub ships, providing greater operational flexibility in combat scenarios and beyond."
+   }
   },
   "GLSN_Basher": {
    "powerplant": {
@@ -10626,7 +12472,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_nose_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 11.3,
+     "y": 13.7,
+     "z": 4.5
+    },
+    "label": "Grey's Basher",
+    "desc": "Manufacturer: Unknown\\nFocus: Interceptor\\nA testament to making something out of nothing, the Basher comes together to form a beast to be reckoned with. The long development of this ship, due to Greycat's trial-and-error approach to mixing ship parts until they figured out the best combinations, goes to show the work put in to elevate this machine from the scraps it was built from."
+   }
   },
   "GLSN_Shiv": {
    "powerplant": {
@@ -10694,7 +12553,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Grey's Shiv",
+    "desc": "Manufacturer: Unknown\\nFocus: Heavy Fighter\\nCrudely constructed from a patchwork amalgamation of various spaceships, this brutal fighter's made to survive the harsh realities of unclaimed space proving that it's not the brand of your ship that matters, it's what you do with it."
+   }
   },
   "GLSN_Shiv_TEMP_CosA": {
    "powerplant": {
@@ -10762,7 +12634,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Grey's Shiv",
+    "desc": "Manufacturer: Unknown\\nFocus: Heavy Fighter\\nCrudely constructed from a patchwork amalgamation of various spaceships, this brutal fighter's made to survive the harsh realities of unclaimed space proving that it's not the brand of your ship that matters, it's what you do with it."
+   }
   },
   "GLSN_Shiv_TEMP_CosB": {
    "powerplant": {
@@ -10830,7 +12715,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Grey's Shiv",
+    "desc": "Manufacturer: Unknown\\nFocus: Heavy Fighter\\nCrudely constructed from a patchwork amalgamation of various spaceships, this brutal fighter's made to survive the harsh realities of unclaimed space proving that it's not the brand of your ship that matters, it's what you do with it."
+   }
   },
   "GLSN_Shiv_TEMP_CosC": {
    "powerplant": {
@@ -10898,7 +12796,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 26.5,
+     "y": 37.5,
+     "z": 11.5
+    },
+    "label": "Grey's Shiv",
+    "desc": "Manufacturer: Unknown\\nFocus: Heavy Fighter\\nCrudely constructed from a patchwork amalgamation of various spaceships, this brutal fighter's made to survive the harsh realities of unclaimed space proving that it's not the brand of your ship that matters, it's what you do with it."
+   }
   },
   "KRIG_L21_Wolf": {
    "powerplant": {
@@ -10950,7 +12861,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 10.5,
+     "y": 21.5,
+     "z": 4.2
+    },
+    "label": "Kruger L-21 Wolf",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Light Fighter\\n\\nMeet a ship almost 400 years in the making, and well worth the wait. Kruger Intergalactic is excited to present their first independently manufactured ship, the Wolf. Combining speed, style, and an impeccably precise design, the L-21 Wolf is not only a showcase for Kruger but is battle-ready to hunt alone or in packs with a powerful array"
+   }
   },
   "KRIG_L21_Wolf_Collector_Military": {
    "powerplant": {
@@ -11002,7 +12926,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 10.5,
+     "y": 21.5,
+     "z": 4.2
+    },
+    "label": "Kruger L-21 Wolf Wikelo War Special",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Light Fighter\\n\\nMeet a ship almost 400 years in the making, and well worth the wait. Kruger Intergalactic is excited to present their first independently manufactured ship, the Wolf. Combining speed, style, and an impeccably precise design, the L-21 Wolf is not only a showcase for Kruger but is battle-ready to hunt alone or in packs with a powerful array"
+   }
   },
   "KRIG_L21_Wolf_Collector_Stealth": {
    "powerplant": {
@@ -11054,7 +12991,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 10.5,
+     "y": 21.5,
+     "z": 4.2
+    },
+    "label": "Kruger L-21 Wolf Wikelo Sneak Special",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Light Fighter\\n\\nMeet a ship almost 400 years in the making, and well worth the wait. Kruger Intergalactic is excited to present their first independently manufactured ship, the Wolf. Combining speed, style, and an impeccably precise design, the L-21 Wolf is not only a showcase for Kruger but is battle-ready to hunt alone or in packs with a powerful array"
+   }
   },
   "KRIG_L22_AlphaWolf": {
    "powerplant": {
@@ -11106,7 +13056,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 10.5,
+     "y": 21.5,
+     "z": 4.2
+    },
+    "label": "Kruger L-22 Alpha Wolf",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Light Fighter\\n\\nMeet a ship almost 400 years in the making, and well worth the wait. Kruger Intergalactic is excited to present their first independently manufactured ship, the Wolf. Combining speed, style, and an impeccably precise design, the L-22 Alpha Wolf is not only a showcase for Kruger but is battle-ready to hunt alone or in packs with a powerful"
+   }
   },
   "KRIG_L22_AlphaWolf_Collector_Military": {
    "powerplant": {
@@ -11158,7 +13121,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 10.5,
+     "y": 21.5,
+     "z": 4.2
+    },
+    "label": "Kruger L-22 Alpha Wolf Wikelo War Special",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Light Fighter\\n\\nMeet a ship almost 400 years in the making, and well worth the wait. Kruger Intergalactic is excited to present their first independently manufactured ship, the Wolf. Combining speed, style, and an impeccably precise design, the L-22 Alpha Wolf is not only a showcase for Kruger but is battle-ready to hunt alone or in packs with a powerful"
+   }
   },
   "KRIG_P52_Merlin": {
    "powerplant": {
@@ -11210,7 +13186,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_gun_right_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Snub Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 7.75,
+     "y": 12,
+     "z": 3.25
+    },
+    "label": "Kruger P-52 Merlin",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Snub Fighter\\n\\nDesigned in conjunction with RSI, this elegant short-range snub fighter represents the first ship produced under the Kruger Intergalactic brand. Utilizing centuries of manufacturing expertise, the compact precision of the Kruger hull blends perfectly with the trusted RSI thrusters to grant the Merlin exceptional handling and maneuverabilit"
+   }
   },
   "KRIG_P72_Archimedes": {
    "powerplant": {
@@ -11270,7 +13259,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_gun_innerright_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 7.75,
+     "y": 12,
+     "z": 3.25
+    },
+    "label": "Kruger P-72 Archimedes",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Racing\\n\\nWhether for added security, exploring a system or simply the joy of flying, the Kruger Intergalactic’s P-72 Archimedes snub craft was designed to deliver exceptional handling and nimble acceleration in a sleek and stylish package."
+   }
   },
   "KRIG_P72_Archimedes_Emerald": {
    "powerplant": {
@@ -11330,7 +13332,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_gun_innerright_wing"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 7.75,
+     "y": 12,
+     "z": 3.25
+    },
+    "label": "Kruger P-72 Archimedes Emerald",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Racing\\n\\nWhether for added security, exploring a system or simply the joy of flying, the Kruger Intergalactic P-72 Archimedes snub craft was designed to deliver exceptional handling and nimble acceleration in a sleek and stylish package.  The Emerald limited edition features a special \"lucky\" paint job."
+   }
   },
   "KRIG_S65_Stingray": {
    "cooler": {
@@ -11414,7 +13429,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15.1,
+     "y": 20.447,
+     "z": 8.231
+    },
+    "label": "Kruger S-65 Stingray",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Medium Fighter\\n\\nSleek, balanced, and uncompromising in its vision, the S-65 Stingray is a medium fighter that balances great maneuverability whilst still packing a punch. Taking after its namesake, the Stingray is no stranger to combat, able to swoop in, deliver sustained damage, and swoop out, unafraid to take a few hits in the process."
+   }
   },
   "KRIG_S65_Stingray_BALLISTIC": {
    "cooler": {
@@ -11498,7 +13526,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 15.1,
+     "y": 20.447,
+     "z": 8.231
+    },
+    "label": "Kruger S-65 Stingray",
+    "desc": "Manufacturer: Kruger Intergalactic\\nFocus: Medium Fighter\\n\\nSleek, balanced, and uncompromising in its vision, the S-65 Stingray is a medium fighter that balances great maneuverability whilst still packing a punch. Taking after its namesake, the Stingray is no stranger to combat, able to swoop in, deliver sustained damage, and swoop out, unafraid to take a few hits in the process."
+   }
   },
   "MISC_Fortune": {
    "powerplant": {
@@ -11550,7 +13591,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Salvage",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 26.5,
+     "z": 8
+    },
+    "label": "MISC Fortune",
+    "desc": "Manufacturer: MISC\\nFocus: Light Salvage\\n\\nFor those ready to elevate their profession to the next level, the engineers at MISC have carefully crafted the Fortune as a best-in-class small reclamation vessel. Equipped with a versatile salvage arm and a cargo lift, the MISC Fortune is built from the struts up to turn trash into treasure.\\n"
+   }
   },
   "MISC_Fortune_Collector_Industrial": {
    "powerplant": {
@@ -11602,7 +13656,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Salvage",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 26.5,
+     "z": 8
+    },
+    "label": "MISC Fortune Wikelo Special",
+    "desc": "Manufacturer: MISC\\nFocus: Salvage\\n\\nFor those ready to elevate their profession to the next level, the engineers at MISC have carefully crafted the Fortune as a best-in-class small reclamation vessel. Equipped with a versatile salvage arm and a cargo lift, the MISC Fortune is built from the struts up to turn trash into treasure.\\n\\nHello, I Wikelo. You like to find things to make other things. M"
+   }
   },
   "MISC_Freelancer": {
    "powerplant": {
@@ -11702,7 +13769,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right_wing_outer"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 23.5,
+     "y": 38,
+     "z": 9.5
+    },
+    "label": "MISC Freelancer",
+    "desc": "Manufacturer: MISC\\nFocus: Light Freight\\n\\nFreelancers are used as long haul merchant ships by major corporations, but they are just as frequently repurposed as dedicated exploration vessels by independent captains who want to operate on the fringes of the galaxy."
+   }
   },
   "MISC_Freelancer_DUR": {
    "powerplant": {
@@ -11802,7 +13882,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right_wing_outer"
     }
-   ]
+   ],
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 23.5,
+     "y": 38,
+     "z": 9.5
+    },
+    "label": "MISC Freelancer DUR",
+    "desc": "Manufacturer: MISC\\nFocus: Expedition \\n\\nThe Freelancer DUR variant specializes in exploration. Sacrificing 25% cargo capacity of the standard Freelancer for an enhanced jump drive, a more advanced scanner, and an expanded fuel tank may seem like a bad call to some, but those who value discovery over profit will find it to be their ship of choice."
+   }
   },
   "MISC_Freelancer_MAX": {
    "powerplant": {
@@ -11902,7 +13995,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right_wing_outer"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 34,
+     "y": 38,
+     "z": 9.5
+    },
+    "label": "MISC Freelancer MAX",
+    "desc": "Manufacturer: MISC\\nFocus: Medium Freight\\n\\nFreelancer variant with additional cargo capacity at the expense of weapons. The Freelancer MAX variant sacrifices weaponry for an increased cargo capacity making it ideal for equipment or raw materials transport."
+   }
   },
   "MISC_Freelancer_MIS": {
    "powerplant": {
@@ -12018,7 +14124,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilelauncher_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Gunship",
+    "career": "Combat",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 23.5,
+     "y": 38,
+     "z": 9.5
+    },
+    "label": "MISC Freelancer MIS",
+    "desc": "Manufacturer: MISC\\nFocus: Gunship\\n\\nThe Freelancer MIS is a limited edition militarized variant of the classic mercantile ship developed by the UEE. These were produced in very small quantity due to some early payload incidents. This version sacrifices the majority of the cargo capacity to make way for missiles."
+   }
   },
   "MISC_Fury": {
    "cooler": {
@@ -12078,7 +14197,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_bottom_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Snub Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 5.4,
+     "y": 7,
+     "z": 3
+    },
+    "label": "Mirai Fury",
+    "desc": "Manufacturer: Mirai\\nFocus: Snub Fighter\\n\\nFeaturing best-in-class maneuverability and fully integrated, cutting-edge Xi’an tech, the next-generation Fury snub fighter from Mirai uses its four halo-mounted size 2 laser repeaters to redefine short-range space combat."
+   }
   },
   "MISC_Hull_A": {
    "powerplant": {
@@ -12118,7 +14250,20 @@
      "name": "WEAPON_RACK_MISC_HULL_A",
      "slot": "hardpoint_weapon_locker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12.5,
+     "y": 30,
+     "z": 8
+    },
+    "label": "MISC Hull A",
+    "desc": "Manufacturer: MISC\\nFocus: Light Freight\\n\\nThe smallest, most affordable Hull. The Hull A is great for those just striking out in the galaxy on their own. The Hull A is most similar to the Aurora and Mustang, but lacks the ‘jack of all trades’ nature. Where the others trade cargo capacity for firepower or speed, the Hull A is 100% on-mission transport."
+   }
   },
   "MISC_Hull_B": {
    "cooler": {
@@ -12170,7 +14315,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.7,
+     "y": 71,
+     "z": 10.7
+    },
+    "label": "MISC Hull B",
+    "desc": "Manufacturer: MISC\\nFocus: Medium Freight\\n\\nThe MISC Hull B is a rugged option for pilots seeking a dedicated cargo transport. While not as large as some of the other Hull-series models, the Hull B's smaller profile provides greater flexibility and more access options."
+   }
   },
   "MISC_Hull_C": {
    "shield": {
@@ -12186,7 +14344,20 @@
      "name": "WEAPON_RACK_MISC_HULL_C",
      "slot": "hardpoint_weapons_locker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 36.05,
+     "y": 91.17,
+     "z": 26.28
+    },
+    "label": "MISC Hull C",
+    "desc": "Manufacturer: MISC\\nFocus: Heavy Freight\\n\\nOften called the most common ship in the galaxy, the Hull C is the most-produced of the range and is considered by many to be the most versatile. Intended to hit the ‘sweet spot’ between the smaller single-person transports and the massive superfreighters that make up the rest of the range, the Hull C offers the expansive modularity of the larger ships w"
+   }
   },
   "MISC_Prospector": {
    "powerplant": {
@@ -12238,7 +14409,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Mining",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 26.5,
+     "z": 8
+    },
+    "label": "MISC Prospector",
+    "desc": "Manufacturer: MISC\\nFocus: Light Mining\\n\\nFor years, the Prospector has been the universe’s preferred mining vessel for solo operators. Featuring MISC’s sleek design sensibility and a bevy of upgraded high-tech mining tools, the 2947 Prospector perfectly balances form and functionality."
+   }
   },
   "MISC_Prospector_BTALA": {
    "powerplant": {
@@ -12290,7 +14474,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Mining",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 26.5,
+     "z": 8
+    },
+    "label": "MISC Prospector Alliance",
+    "desc": "Manufacturer: MISC\\nFocus: Light Mining\\n\\nFor years, the Prospector has been the universe’s preferred mining vessel for solo operators. Featuring MISC’s sleek design sensibility and a bevy of upgraded high-tech mining tools, the 2947 Prospector perfectly balances form and functionality. \\n\\nThis Prospector shows your support for the People's Alliance's cause in building a better future in Nyx wit"
+   }
   },
   "MISC_Prospector_Collector_Indust": {
    "powerplant": {
@@ -12342,7 +14539,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Mining",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 26.5,
+     "z": 8
+    },
+    "label": "MISC Prospector Wikelo Work Special",
+    "desc": "Manufacturer: MISC\\nFocus: Light Mining\\n\\nFor years, the Prospector has been the universe’s preferred mining vessel for solo operators. Featuring MISC’s sleek design sensibility and a bevy of upgraded high-tech mining tools, the 2947 Prospector perfectly balances form and functionality. \\n\\nWikelo hi. Made useful modifications to make ship even more industrious. You will like."
+   }
   },
   "MISC_Razor": {
    "powerplant": {
@@ -12410,7 +14620,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 9,
+     "y": 12.5,
+     "z": 3
+    },
+    "label": "Mirai Razor",
+    "desc": "Manufacturer: Mirai \\nFocus: Racing\\n\\nThis advanced racer features an advanced composite spaceframe that puts pure speed ahead of everything else... it's the ship for pilots who want to leave the competition in the dust."
+   }
   },
   "MISC_Razor_EX": {
    "powerplant": {
@@ -12478,7 +14701,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Stealth Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 9,
+     "y": 12.5,
+     "z": 3
+    },
+    "label": "Mirai Razor EX",
+    "desc": "Manufacturer: Mirai\\nFocus: Stealth\\n\\nOutfitted with signature-reducing materials, the Razor EX was a specialty build for the UEE Advocacy for use in surveillance and extraction operations. Although the EX was ultimately rejected for widespread use, a variation of the model was released for members of the public looking to keep a lower profile."
+   }
   },
   "MISC_Razor_LX": {
    "powerplant": {
@@ -12546,7 +14782,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 9,
+     "y": 12.5,
+     "z": 3
+    },
+    "label": "Mirai Razor LX",
+    "desc": "Manufacturer: Mirai\\nFocus: Racing\\n\\nThe Razor gets supercharged. The LX features an overclocked engine to unleash blazing top speeds. This power comes at a cost with reduced maneuverability and armaments making it ideal for straight-shot racing. But who needs weapons when you’re leaving your competition in the dust."
+   }
   },
   "MISC_Reliant": {
    "powerplant": {
@@ -12622,7 +14871,20 @@
      "itype": "TractorBeam",
      "slot": "hardpoint_weapon_s2"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 28.5,
+     "y": 14.75,
+     "z": 4.5
+    },
+    "label": "MISC Reliant Kore",
+    "desc": "Manufacturer: MISC\\nFocus: Starter / Light Freight\\n\\nWith the Reliant Kore, MISC adds to its already impressive lineup of ships, a smaller introductory-class spacecraft. Utilizing advanced Xi’An designs, the Reliant features broad, sleek wings, omni-directional thrusters and a fully-articulated two-seat cockpit that supports horizontal and vertical flight modes. All of this combines with a larger"
+   }
   },
   "MISC_Reliant_Mako": {
    "powerplant": {
@@ -12690,7 +14952,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_tip_s3_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Reporting",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 28.5,
+     "y": 14.75,
+     "z": 4.5
+    },
+    "label": "MISC Reliant Mako",
+    "desc": "Manufacturer: MISC\\nFocus: Reporting\\n\\nThe Empire depends on up-to-the-second information, which is why reporters need to be able to go where the news is happening: wherever, whenever. Enter the Mako, all the flexibility and dependability of a MISC Reliant combined with a state-of-the-art Cernan camera package to capture every moment as it happens with the clarity and accuracy that makes headline"
+   }
   },
   "MISC_Reliant_Sen": {
    "powerplant": {
@@ -12758,7 +15033,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_tip_s3_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Science",
+    "career": "Industrial",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 28.5,
+     "y": 14.75,
+     "z": 4.5
+    },
+    "label": "MISC Reliant Sen",
+    "desc": "Manufacturer: MISC\\nFocus: Light Science\\n\\nMagellan, Pierce, Croshaw, names that echo through history thanks to their adventurous spirit, a curious nature, and a reliable ship. The Reliant Sen is a versatile mobile science platform; outfitted with long range capabilities to take you further, longer, and the advanced Samos sensor suite. Perfect for the aspiring explorer who wants to whisper their "
+   }
   },
   "MISC_Reliant_Tana": {
    "powerplant": {
@@ -12846,7 +15134,20 @@
      "name": "WEAPON_RACK_MISC_RELIANT_TANA_3_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 28.5,
+     "y": 14.75,
+     "z": 4.5
+    },
+    "label": "MISC Reliant Tana",
+    "desc": "Manufacturer: MISC\\nFocus: Light Fighter\\n\\nWith Humanity ever-expanding through the universe, the need for a versatile lightweight fighter has expanded with it. Easy to maintain with a rugged construction, the Reliant Tana makes for an ideal choice for frontier and outpost defense thanks to its custom high-yield power plant, stronger shields, and additional weapon mounts."
+   }
   },
   "MISC_Starfarer": {
    "powerplant": {
@@ -12914,7 +15215,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_02"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Refueling",
+    "career": "Support",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 48.5,
+     "y": 102,
+     "z": 24.5
+    },
+    "label": "MISC Starfarer",
+    "desc": "Manufacturer: MISC\\nFocus: Heavy Refueling\\n\\nThe Starfarer differs from traditional bulk freighters in one key way: it is a dedicated fuel platform. The Starfarer is designed not only to load, store and protect fuel stasis units, it is designed to take in spaceborne gases and refine them for use without landing. And while it excels at this, the Starfarer can also be used to ferry traditional bulk"
+   }
   },
   "MISC_Starfarer_Gemini": {
    "powerplant": {
@@ -12982,7 +15296,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_02"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Refueling",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 48.5,
+     "y": 102,
+     "z": 24.5
+    },
+    "label": "MISC Starfarer Gemini",
+    "desc": "Manufacturer: MISC\\nFocus: Heavy Refueling\\n\\nThe United Empire of Earth military uses an adapted ‘rough and tumble’ variant of the Starfarer for their front line operations. The G2M Gemini, more commonly the Starfarer Gemini or ‘Star G,’ trades some cargo capacity and maneuverability in exchange for reinforced armor, increased shielding, more powerful engines and stronger versions of the three ma"
+   }
   },
   "MISC_Starlancer_Max": {
    "powerplant": {
@@ -13070,7 +15397,20 @@
      "name": "WEAPON_RACK_MISC_STARLANCER",
      "slot": "hardpoint_weapon_locker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 60,
+     "y": 90,
+     "z": 20
+    },
+    "label": "MISC Starlancer MAX",
+    "desc": "Manufacturer: MISC\\nFocus: Medium Freight\\n \\nFor those looking to expand their hauling operations, the engineers at MISC have upgraded the Starlancer MAX with an extra spacious hold ready to transport cargo and vehicles. Paired with comfortable accommodations for longer trips and a full defensive package for when you go off the beaten path, it’s easy to see why the Starlancer MAX is the hauler of"
+   }
   },
   "MISC_Starlancer_Max_Collector_Indust": {
    "powerplant": {
@@ -13158,7 +15498,20 @@
      "name": "WEAPON_RACK_MISC_STARLANCER",
      "slot": "hardpoint_weapon_locker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 60,
+     "y": 90,
+     "z": 20
+    },
+    "label": null,
+    "desc": ""
+   }
   },
   "MISC_Starlancer_TAC": {
    "powerplant": {
@@ -13274,7 +15627,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Gunship",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 60,
+     "y": 90,
+     "z": 20
+    },
+    "label": "MISC Starlancer TAC",
+    "desc": "Manufacturer: MISC\\nFocus: Gunship\\n \\nFor those looking to for a versatile ship that can stand on its own in a fight, the engineers have upgraded the Starlancer TAC with an aggressive offensive package ready to face down the fiercest of foes. When you take on a high risk, high reward job, the Starlancer TAC is there to make sure you and your crew are able to see it through to the very end."
+   }
   },
   "MISC_Starlancer_TAC_Collector_Military": {
    "powerplant": {
@@ -13390,7 +15756,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Gunship",
+    "career": "Combat",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 60,
+     "y": 90,
+     "z": 20
+    },
+    "label": "MISC Starlancer TAC Wikelo War Special",
+    "desc": "Manufacturer: MISC\\nFocus: Gunship\\n \\nFor those looking to for a versatile ship that can stand on its own in a fight, the engineers have upgraded the Starlancer TAC with an aggressive offensive package ready to face down the fiercest of foes. When you take on a high risk, high reward job, the Starlancer TAC is there to make sure you and your crew are able to see it through to the very end.\\n\\nWik"
+   }
   },
   "MISC_Starlite": {
    "quantum": {
@@ -13434,7 +15813,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Refueling",
+    "career": "Support",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 19.9,
+     "y": 32,
+     "z": 9.07
+    },
+    "label": "MISC Starlite",
+    "desc": "Manufacturer: MISC\\nFocus: Light Refueling\\n\\nIf there’s one constant in the universe, it’s that ships will eventually run out of fuel. That’s where the Starlite come in. Featuring two standard fuel pods and a scaled back, elegant design, the Starlite was meticulously crafted by the engineers at MISC to offer refueling services to ships in need wherever they may be stranded."
+   }
   },
   "MRAI_Guardian": {
    "powerplant": {
@@ -13468,6 +15860,19 @@
     "class": "Military",
     "itype": "Shield",
     "count": 1
+   },
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.3,
+     "y": 24.3,
+     "z": 9.1
+    },
+    "label": "Mirai Guardian",
+    "desc": "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. \\n"
    }
   },
   "MRAI_Guardian_Military": {
@@ -13502,6 +15907,19 @@
     "class": "Military",
     "itype": "Shield",
     "count": 1
+   },
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.3,
+     "y": 24.3,
+     "z": 9.1
+    },
+    "label": "Mirai Guardian Wikelo War Special",
+    "desc": "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. \\n\\nWikelo here. Made useful modifications to make ship much more fighter like."
    }
   },
   "MRAI_Guardian_MX": {
@@ -13570,7 +15988,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_bottom_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 26,
+     "z": 10
+    },
+    "label": "Mirai Guardian MX",
+    "desc": "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the framework of the Guardian fighter and adding even more offensive options, the Mirai Guardian MX packs additional firepower and armor ideal for overwhelming opponents. While not as nimble as the base Guardian, this heavy fighter is still more agile than many other ships in its class.\\n"
+   }
   },
   "MRAI_Guardian_MX_Collector_Military": {
    "quantum": {
@@ -13638,7 +16069,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_bottom_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 26,
+     "z": 10
+    },
+    "label": "Mirai Guardian MX Wikelo War Special",
+    "desc": "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the framework of the Guardian fighter and adding even more offensive options, the Mirai Guardian MX packs additional firepower and armor ideal for overwhelming opponents. While not as nimble as the base Guardian, this heavy fighter is still more agile than many other ships in its class.\\n\\nWikelo here. Made useful modifications to make ship much "
+   }
   },
   "MRAI_Guardian_QI": {
    "powerplant": {
@@ -13672,6 +16116,19 @@
     "class": "Military",
     "itype": "Shield",
     "count": 1
+   },
+   "info": {
+    "role": "Interdiction",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.3,
+     "y": 24.3,
+     "z": 9.1
+    },
+    "label": "Mirai Guardian QI",
+    "desc": "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. \\n"
    }
   },
   "MRAI_Guardian_QI_Collector_Indust": {
@@ -13706,6 +16163,19 @@
     "class": "Competition",
     "itype": "Shield",
     "count": 1
+   },
+   "info": {
+    "role": "Interdiction",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.3,
+     "y": 24.3,
+     "z": 9.1
+    },
+    "label": "Mirai Guardian QI Wikelo Special",
+    "desc": "Manufacturer: Mirai\\nFocus: Interdiction\\n\\nIt’s not too surprising that hostiles may run when confronted with a powerful opponent, but thanks to its quantum dampening capabilities, the Mirai Guardian QI ensures that your enemies won’t be able to fight another day. Taking the best features of the base Guardian, the engineers at Mirai have made the QI variant the ideal complement to any protective "
    }
   },
   "MRAI_Pulse": {
@@ -13742,7 +16212,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_mount_pos"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 1.5,
+     "y": 3.5,
+     "z": 2.5
+    },
+    "label": "Mirai Pulse",
+    "desc": "Manufacturer: Mirai\\nFocus: Combat\\n \\nThe engineers at Mirai set out to craft an open-canopy bike capable of more. A more intimate connection between pilot and performance with a form-fitting silhouette. A more intuitive way to tame formidable landscapes with a responsive grav-lev system. A more intelligent combat experience with a custom weapon fully integrated into the spirit of the vehicle. Th"
+   }
   },
   "MRAI_Pulse_Collector_Civ": {
    "powerplant": {
@@ -13778,7 +16261,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_mount_pos"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 1.5,
+     "y": 3.5,
+     "z": 2.5
+    },
+    "label": "Mirai Pulse Wikelo Special",
+    "desc": "Manufacturer: Mirai\\nFocus: Combat\\n \\nThe engineers at Mirai set out to craft an open-canopy bike capable of more. A more intimate connection between pilot and performance with a form-fitting silhouette. A more intuitive way to tame formidable landscapes with a responsive grav-lev system. A more intelligent combat experience with a custom weapon fully integrated into the spirit of the vehicle. Th"
+   }
   },
   "MRAI_Pulse_LX": {
    "powerplant": {
@@ -13806,7 +16302,20 @@
      "itype": "FuelIntake",
      "slot": "hardpoint_weapon"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 1.5,
+     "y": 3.5,
+     "z": 2.5
+    },
+    "label": "Mirai Pulse LX",
+    "desc": "Manufacturer: Mirai\\nFocus: Racing\\n \\nSeamlessly pairing pilot and pure speed, the Mirai Pulse LX grav-lev bike soars over terrain like no open-canopy racer before. Feel your heartrate quicken as you experience first-hand the Pulse’s ground-breaking responsiveness and form-fitting silhouette.   \\n"
+   }
   },
   "Orbital_Sentry_SecurityNetwork": {
    "powerplant": {
@@ -13832,6 +16341,19 @@
     "class": "Civilian",
     "itype": "Shield",
     "count": 1
+   },
+   "info": {
+    "role": "Turret",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 40,
+     "y": 18,
+     "z": 13
+    },
+    "label": "Broad & Rabiee Overseer Orbital Sentry",
+    "desc": "The Overseer, from manufacturer Broad & Raibee, allows for defensive activity monitoring in a given area. When a threat is detected, the Overseer is capable of targeting and engaging trespassing hostiles with brutal efficiency making it perfect for providing extra security to any station, facility, or controlled sector."
    }
   },
   "ORIG_100i": {
@@ -13888,7 +16410,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilebay_front"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12,
+     "y": 19,
+     "z": 5
+    },
+    "label": "Origin 100i",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Starter / Pathfinder\\n\\nTour the universe with the perfect coupling of luxury and performance. The 100i features Origin Jumpworks' patented AIR fuel system, making it the most efficient and eco-friendly ship on the market. Capable of long distance flights that most ships of its size aren't equipped for, the 100i is perfect for solo pilots looking to turn head"
+   }
   },
   "ORIG_125a": {
    "cooler": {
@@ -13952,7 +16487,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilebay_125a"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12,
+     "y": 19,
+     "z": 5
+    },
+    "label": "Origin 125a",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Light Fighter\\n\\nRisks were meant to be taken, but why risk running out of fuel in the heat of battle? With the AIR fuel system, a souped-up weapons package, and all the luxury and refinement you've come to expect from Origin Jumpworks, the 125a has been designed for the discerning maverick."
+   }
   },
   "ORIG_135c": {
    "cooler": {
@@ -14008,7 +16556,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilebay_front"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 12,
+     "y": 19,
+     "z": 5
+    },
+    "label": "Origin 135c",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Light Freight\\n\\nWith a deceptive amount of storage space in its sleek, stylish frame, and Origin's patented AIR fuel system, the 135c model is the obvious choice for musicians, couriers, and anyone trying to get the party started. Get it there fast, and look good while you're doing it."
+   }
   },
   "ORIG_400i": {
    "cooler": {
@@ -14060,7 +16621,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 32,
+     "y": 56,
+     "z": 12.5
+    },
+    "label": "Origin 400i",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Expedition\\n\\nTo explore the stars is a most noble endeavor, and Origin Jumpworks has risen to the occasion in crafting the 400i high-performance pathfinder. With class-leading range, substantial defensive capabilities, and a factory-equipped scanning array, the 400i is ready to take on the harshest corners of the galaxy while maintaining the comfort and eleg"
+   }
   },
   "ORIG_600i": {
    "powerplant": {
@@ -14120,7 +16694,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 5,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 52,
+     "y": 91.5,
+     "z": 17
+    },
+    "label": "Origin 600i",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Expedition\\n\\nThis multi-role luxury vessel from Origin Jumpworks features an exquisitely detailed hull design that balances performance and versatility in a sleek and timeless form. The 600i is designed with a cutting-edge modular technology, allowing you to customize your ship for your needs."
+   }
   },
   "ORIG_600i_Executive_Edition": {
    "powerplant": {
@@ -14180,7 +16767,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 5,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 52,
+     "y": 91.5,
+     "z": 17
+    },
+    "label": "Origin 600i Executive Edition",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Expedition\\n\\nThis multi-role luxury vessel from Origin Jumpworks features an exquisitely detailed hull design that balances performance and versatility in a sleek and timeless form. The 600i is designed with a cutting-edge modular technology, allowing you to customize your ship for your needs."
+   }
   },
   "ORIG_600i_Touring": {
    "powerplant": {
@@ -14240,7 +16840,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Luxury Touring",
+    "career": "Exploration",
+    "crew": 5,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 52,
+     "y": 91.5,
+     "z": 17
+    },
+    "label": "Origin 600i Touring",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Luxury Touring\\n\\nThis multi-role luxury vessel from Origin Jumpworks features an exquisitely detailed hull design that balances performance and versatility in a sleek and timeless form. The 600i is designed with a cutting-edge modular technology, allowing you to customize your ship for your needs."
+   }
   },
   "ORIG_85X": {
    "powerplant": {
@@ -14292,7 +16905,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Touring",
+    "career": "Exploration",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 14,
+     "y": 13.5,
+     "z": 4
+    },
+    "label": "Origin 85X Limited",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Touring\\n\\nElegantly styled and meticulously constructed, the 85X is a versatile and comprehensive away-vessel that features precision control in and out of atmosphere. Utilizing much of the same thruster technology as the 300 series, it has the power of a racer with the reliability of a touring ship. Whether descending down to the planet surface or taking in"
+   }
   },
   "ORIG_890Jump": {
    "powerplant": {
@@ -14326,6 +16952,19 @@
     "class": "Industrial",
     "itype": "Shield",
     "count": 2
+   },
+   "info": {
+    "role": "Luxury Touring",
+    "career": "Exploration",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 80,
+     "y": 210,
+     "z": 45
+    },
+    "label": "Origin 890 Jump",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Luxury Touring\\n\\nWith an elegant, sleek exterior that belies its spacious interior, the 890 Jump is a true engineering marvel; crafted to impress from every angle by combining a unique, innovative design with the finest materials and the most advanced technology. The result is a vessel that is in a class all of its own, a masterpiece worthy of the name Origi"
    }
   },
   "ORIG_890Jump_Drug_01": {
@@ -14360,6 +16999,19 @@
     "class": "Industrial",
     "itype": "Shield",
     "count": 2
+   },
+   "info": {
+    "role": "Luxury Touring",
+    "career": "Exploration",
+    "crew": 8,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 80,
+     "y": 210,
+     "z": 45
+    },
+    "label": "Origin 890 Jump",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Luxury Touring\\n\\nWith an elegant, sleek exterior that belies its spacious interior, the 890 Jump is a true engineering marvel; crafted to impress from every angle by combining a unique, innovative design with the finest materials and the most advanced technology. The result is a vessel that is in a class all of its own, a masterpiece worthy of the name Origi"
    }
   },
   "ORIG_m50": {
@@ -14428,7 +17080,20 @@
      "itype": "MissileLauncher",
      "slot": "hardpoint_weapon_missilerack_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 11,
+     "y": 11.5,
+     "z": 3.5
+    },
+    "label": "Origin M50 Interceptor",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Racing\\n\\nIf you want to get from point A to point B as quickly as possible and with as much style as possible then Origin's M50 is for you. Featuring supercharged engines that counter a tiny weapons loadout, the M50 is a ship for going FAST."
+   }
   },
   "ORIG_m80": {
    "powerplant": {
@@ -14496,7 +17161,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_rearright"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 11,
+     "y": 11.5,
+     "z": 3.5
+    },
+    "label": "Origin M80",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Heavy Fighter\\n\\nEmbrace elegance without compromising defense with the M80. Featuring Origin's famous sleek and sophisticated design, the ship's hull slyly hides an aggressive weapons systems that can be unfurled and unleashed on assailants at a moment's notice."
+   }
   },
   "ORIG_X1": {
    "powerplant": {
@@ -14532,7 +17210,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon"
     }
-   ]
+   ],
+   "info": {
+    "role": "Passenger",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 5.19,
+     "y": 1.55,
+     "z": 1.87
+    },
+    "label": "Origin X1",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Passenger\\n\\nWelcome to the next level with the X1, Origin Jumpworks' high performance open-canopy vehicle. Built from lightweight polymers, the X1 takes speed and agility to the next level thanks to seamlessly integrated engine technology and joint vector thruster placement. Innovative design and high-quality engineering weave together to create a flight exp"
+   }
   },
   "ORIG_X1_Force": {
    "powerplant": {
@@ -14568,7 +17259,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon"
     }
-   ]
+   ],
+   "info": {
+    "role": "Passenger",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 5.19,
+     "y": 1.55,
+     "z": 1.87
+    },
+    "label": "Origin X1 Force",
+    "desc": "Manufacturer: Origin Jumpworks\\nFocus: Passenger\\n\\nBuilt to endure tougher environments and look good doing it, the X1 Force is a modified version of the base X1 model featuring additional defensive elements to toughen up this speedy and agile open-canopy bike, allowing it to serve in a variety of roles, from exploring worlds to potential security infiltration ops."
+   }
   },
   "RSI_Apollo_Medivac": {
    "powerplant": {
@@ -14636,7 +17340,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Medivac",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nAlong with superior armor and dual missile racks, the 2948 Apollo Medivac model pays homage to the classic 2910 film, Astromedics: Back from the Brink, with livery that accurately recreates the headlining Kithara."
+   }
   },
   "RSI_Apollo_Medivac_Tier_1": {
    "powerplant": {
@@ -14704,7 +17421,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Medivac",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nAlong with superior armor and dual missile racks, the 2948 Apollo Medivac model pays homage to the classic 2910 film, Astromedics: Back from the Brink, with livery that accurately recreates the headlining Kithara."
+   }
   },
   "RSI_Apollo_Medivac_Tier_2": {
    "powerplant": {
@@ -14772,7 +17502,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Medivac",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nAlong with superior armor and dual missile racks, the 2948 Apollo Medivac model pays homage to the classic 2910 film, Astromedics: Back from the Brink, with livery that accurately recreates the headlining Kithara."
+   }
   },
   "RSI_Apollo_Medivac_Tier_3": {
    "powerplant": {
@@ -14840,7 +17583,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Medivac",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nAlong with superior armor and dual missile racks, the 2948 Apollo Medivac model pays homage to the classic 2910 film, Astromedics: Back from the Brink, with livery that accurately recreates the headlining Kithara."
+   }
   },
   "RSI_Apollo_Triage": {
    "powerplant": {
@@ -14908,7 +17664,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Triage",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nThe legendary Apollo Triage from Roberts Space Industries is the gold standard in medevac and rapid emergency response vehicles. Updated to support regeneration technology, the Apollo has a long history providing critical aid to the Empire and beyond for well over two centuries."
+   }
   },
   "RSI_Apollo_Triage_Collector_Stealth": {
    "powerplant": {
@@ -14976,7 +17745,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Triage Wikelo Sneak Special",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nThe legendary Apollo Triage from Roberts Space Industries is the gold standard in medevac and rapid emergency response vehicles. Updated to support regeneration technology, the Apollo has a long history providing critical aid to the Empire and beyond for well over two centuries.\\n\\nWikelo here. Made useful modifications to make ship much tougher to see. Sneaky."
+   }
   },
   "RSI_Apollo_Triage_Tier_1": {
    "powerplant": {
@@ -15044,7 +17826,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Triage",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nThe legendary Apollo Triage from Roberts Space Industries is the gold standard in medevac and rapid emergency response vehicles. Updated to support regeneration technology, the Apollo has a long history providing critical aid to the Empire and beyond for well over two centuries."
+   }
   },
   "RSI_Apollo_Triage_Tier_2": {
    "powerplant": {
@@ -15112,7 +17907,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Triage",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nThe legendary Apollo Triage from Roberts Space Industries is the gold standard in medevac and rapid emergency response vehicles. Updated to support regeneration technology, the Apollo has a long history providing critical aid to the Empire and beyond for well over two centuries."
+   }
   },
   "RSI_Apollo_Triage_Tier_3": {
    "powerplant": {
@@ -15180,7 +17988,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medical",
+    "career": "Support",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 54,
+     "z": 14
+    },
+    "label": "RSI Apollo Triage",
+    "desc": "Manufacturer: RSI\\nFocus: Medical\\n\\nThe legendary Apollo Triage from Roberts Space Industries is the gold standard in medevac and rapid emergency response vehicles. Updated to support regeneration technology, the Apollo has a long history providing critical aid to the Empire and beyond for well over two centuries."
+   }
   },
   "RSI_Aurora_GS_CL": {
    "powerplant": {
@@ -15248,7 +18069,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Freight",
+    "career": "Transporter",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 8.75,
+     "y": 19,
+     "z": 4.5
+    },
+    "label": "RSI Aurora Mk I CL",
+    "desc": "Manufacturer: RSI\\nFocus: Light Freight\\n\\nCustomized for mercantile and trading excursions, the Aurora Clipper is the perfect vessel for aspiring entrepreneurs and seasoned traders alike. Swapping a smaller power plant and armor capabilities for an expanded cargo capacity, the Clipper ups the ante for personal merchant craft."
+   }
   },
   "RSI_Aurora_GS_ES": {
    "powerplant": {
@@ -15316,7 +18150,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Pathfinder",
+    "career": "Multi-Role",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 8.75,
+     "y": 19,
+     "z": 4.5
+    },
+    "label": "RSI Aurora Mk I ES",
+    "desc": "Manufacturer: RSI\\nFocus: Starter / Pathfinder\\n\\nThe Aurora is the modern day descendant of the Roberts Space Industries X-7 spacecraft which tested the very first jump engines. Utilitarian to a T, the Aurora is the perfect beginner's ship: what it lacks in style it makes up for in ample room for upgrade modules."
+   }
   },
   "RSI_Aurora_GS_LN": {
    "powerplant": {
@@ -15384,7 +18231,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 8.75,
+     "y": 19,
+     "z": 4.5
+    },
+    "label": "RSI Aurora Mk I LN",
+    "desc": "Manufacturer: RSI\\nFocus: Light Fighter\\n\\nWith a more robust shield generator and a pair of additional weapon hard points, the Legionnaire is a dedicated combat fighter, built to handle any obstacle the universe can throw at you."
+   }
   },
   "RSI_Aurora_GS_LX": {
    "powerplant": {
@@ -15452,7 +18312,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Pathfinder",
+    "career": "Exploration",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 8.75,
+     "y": 19,
+     "z": 4.5
+    },
+    "label": "RSI Aurora Mk I  LX",
+    "desc": "Manufacturer: RSI\\nFocus: Pathfinder\\n\\nBe proud of your roots with the brand-new Aurora Deluxe, built for the discerning pilot who never forgets where he or she came from. The LX features patent leather interior to guarantee comfort for those long stretches in the deep black."
+   }
   },
   "RSI_Aurora_GS_MR": {
    "powerplant": {
@@ -15520,7 +18393,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 8.75,
+     "y": 19,
+     "z": 4.5
+    },
+    "label": "RSI Aurora Mk I MR",
+    "desc": "Manufacturer: RSI\\nFocus: Starter / Light Fighter\\n\\nPerhaps you're looking for something that offers carrying capacity but has combat capabilities too? The Aurora Marque comes with a pair of Behring-quality lasers and a high quality gun cooler system."
+   }
   },
   "RSI_Aurora_GS_SE": {
    "powerplant": {
@@ -15588,7 +18474,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_top_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 8.75,
+     "y": 19,
+     "z": 4.5
+    },
+    "label": "RSI Aurora Mk I SE",
+    "desc": "Manufacturer: RSI\\nFocus: Multi-Role\\n\\nIntegrating the best of what made the Aurora Mk I series so beloved by generations, this special edition strikes an impressive balance to allow pilots to tackle a wide array of tasks. With the Aurora Mk I SE parked in your hangar, this all-arounder is sure to become a daily flyer thanks to its ability to handle whatever life throws your way. \\n"
+   }
   },
   "RSI_Aurora_Mk2": {
    "powerplant": {
@@ -15656,7 +18555,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_bottom_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Fighter",
+    "career": "Multi-Role",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.7,
+     "y": 27.4,
+     "z": 8
+    },
+    "label": "RSI Aurora Mk II",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Starter / Light Freight\\n \\nA new take of the classic ship, Roberts Space Industries has reimagined the tried-and-true Aurora from the struts up. Introducing the Aurora Mk II. Everything from the ship’s performance, usability, to its styling has been overhauled with a new generation of pilots in mind. Plus, this latest version introduces a new trick f"
+   }
   },
   "RSI_Aurora_Mk2_MissileModule_TEMP": {
    "powerplant": {
@@ -15724,7 +18636,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_bottom_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Fighter",
+    "career": "Multi-Role",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.7,
+     "y": 27.4,
+     "z": 8
+    },
+    "label": "RSI Aurora Mk II",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Starter / Light Freight\\n \\nA new take of the classic ship, Roberts Space Industries has reimagined the tried-and-true Aurora from the struts up. Introducing the Aurora Mk II. Everything from the ship’s performance, usability, to its styling has been overhauled with a new generation of pilots in mind. Plus, this latest version introduces a new trick f"
+   }
   },
   "RSI_Constellation_Andromeda": {
    "powerplant": {
@@ -15796,7 +18721,20 @@
      "name": "WEAPON_RACK_RSI_CONSTELLATION_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight / Gun Ship",
+    "career": "Multi-Role",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.75,
+     "y": 63.5,
+     "z": 15.25
+    },
+    "label": "RSI Constellation Andromeda",
+    "desc": "Manufacturer: RSI\\nFocus: Medium Freight / Gunship\\n\\nThe Constellation Andromeda is a dependable multi-crew freighter that appeals to merchants across the empire thanks to its versatility. One of the most popular ships that RSI produces, the iconic Andromeda features a well-appointed cargo bay, a snub-fighter docking port, and a signature wrap-around bridge."
+   }
   },
   "RSI_Constellation_Aquila": {
    "powerplant": {
@@ -15852,7 +18790,20 @@
      "name": "WEAPON_RACK_RSI_CONSTELLATION_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.75,
+     "y": 63.5,
+     "z": 15.25
+    },
+    "label": "RSI Constellation Aquila",
+    "desc": ""
+   }
   },
   "RSI_Constellation_Phoenix": {
    "powerplant": {
@@ -15924,7 +18875,20 @@
      "name": "WEAPON_RACK_RSI_CONSTELLATION_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Luxury Touring",
+    "career": "Exploration",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.75,
+     "y": 63.5,
+     "z": 15.25
+    },
+    "label": "RSI Constellation Phoenix",
+    "desc": "Manufacturer: RSI\\nFocus: Luxury Touring\\n\\nA dedicated luxury spacecraft for the discerning star captain. The Constellation Phoenix can be operated as an organization command ship and features a luxurious redesigned interior. Includes a hidden sensor-dampened area for your most precious cargo. The Phoenix comes with a Lynx rover and a Kruger P-72 Archimedes Fighter."
+   }
   },
   "RSI_Constellation_Phoenix_Emerald": {
    "powerplant": {
@@ -15996,7 +18960,20 @@
      "name": "WEAPON_RACK_RSI_CONSTELLATION_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Luxury Touring",
+    "career": "Exploration",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.75,
+     "y": 63.5,
+     "z": 15.25
+    },
+    "label": "RSI Constellation Phoenix Emerald",
+    "desc": "Manufacturer: RSI \\nFocus: Luxury Touring\\n\\nWhether you are a discerning socialite or a freewheeling party animal, the Constellation Phoenix Emerald is your personal passport to entertainment. With a swank interior cabin designed specifically for revelry, and a limited edition \"lucky\" paint job, the Emerald is the perfect venue to sip a glass of Radegast Gold or throw back a green Sleeping Tiger "
+   }
   },
   "RSI_Constellation_Phoenix_Piano": {
    "powerplant": {
@@ -16068,7 +19045,20 @@
      "name": "WEAPON_RACK_RSI_CONSTELLATION_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Luxury Touring",
+    "career": "Exploration",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.75,
+     "y": 63.5,
+     "z": 15.25
+    },
+    "label": "RSI Constellation Phoenix",
+    "desc": "Manufacturer: RSI\\nFocus: Luxury Touring\\n\\nA dedicated luxury spacecraft for the discerning star captain. The Constellation Phoenix can be operated as an organization command ship and features a luxurious redesigned interior. Includes a hidden sensor-dampened area for your most precious cargo. The Phoenix comes with a Lynx rover and a Kruger P-72 Archimedes Fighter."
+   }
   },
   "RSI_Constellation_Taurus": {
    "powerplant": {
@@ -16132,7 +19122,20 @@
      "name": "WEAPON_RACK_RSI_CONSTELLATION_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.75,
+     "y": 70,
+     "z": 15.25
+    },
+    "label": "RSI Constellation Taurus",
+    "desc": "Manufacturer: RSI\\nFocus: Medium Freight\\n\\nPaired down to fully focus on hauling, the Taurus provides the most cargo space of any ship in RSI’s Constellation line-up. What it loses in versatility it more than makes up for in potential profits thanks to its tractor beams, a cargo release system for quick unloading, and a security hold reinforced with tech plating."
+   }
   },
   "RSI_Constellation_Taurus_Military": {
    "powerplant": {
@@ -16196,7 +19199,20 @@
      "name": "WEAPON_RACK_RSI_CONSTELLATION_2_SLOTS",
      "slot": "hardpoint_weapon_rack"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 4,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 27.75,
+     "y": 70,
+     "z": 15.25
+    },
+    "label": "RSI Constellation Taurus Wikelo War Special",
+    "desc": "Manufacturer: RSI\\nFocus: Medium Freight\\n\\nPaired down to fully focus on hauling, the Taurus provides the most cargo space of any ship in RSI’s Constellation line-up. What it loses in versatility it more than makes up for in potential profits thanks to its tractor beams, a cargo release system for quick unloading, and a security hold reinforced with tech plating.\\n\\nWikelo here. Made useful modif"
+   }
   },
   "RSI_Hermes": {
    "powerplant": {
@@ -16272,7 +19288,20 @@
      "itype": "TractorBeam",
      "slot": "hardpoint_weapon"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 73,
+     "y": 58,
+     "z": 14
+    },
+    "label": "RSI Hermes",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Medium Freight\\n\\nUnlike its mythical namesake, the RSI Hermes is no trickster - it really is that fast. Featuring a bespoke, innovative thruster-package, an impressive array of defensive measures, and a sizeable cargo hold, the Hermes is ready to speed deliveries to their final destinations. Even to dangerous drop-offs other haulers wouldn’t dare to "
+   }
   },
   "RSI_Mantis": {
    "powerplant": {
@@ -16324,7 +19353,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Interdiction",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 30,
+     "z": 7.5
+    },
+    "label": "RSI Mantis",
+    "desc": "Manufacturer: RSI\\nFocus: Interdiction\\n\\nStop ships dead in their tracks with RSI’s premier Quantum Enforcement ship. The Mantis features a tailor-made Quantum Enforcement Device from Wei-Tek, capable of ripping ships out of QT with its Quantum Snare and preventing hasty escapes with its Quantum Dampener."
+   }
   },
   "RSI_Meteor": {
    "powerplant": {
@@ -16408,7 +19450,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_main_cannon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 30,
+     "z": 7.5
+    },
+    "label": "RSI Meteor",
+    "desc": "Manufacturer: RSI\\nFocus: Medium Fighter\\n\\nPacking some serious firepower, the Meteor is a sight enemies won't want to see. Taking inspiration from the iconic Mantis, this heavy fighter forgoes quantum enforcement and instead features two bespoke S5 ballistic cannons and four single-load S4 missile racks; making the Meteor a force that can light up the sky like a shooting star."
+   }
   },
   "RSI_Meteor_Collector_Military": {
    "powerplant": {
@@ -16492,7 +19547,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_main_cannon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 30,
+     "z": 7.5
+    },
+    "label": "RSI Meteor PYAM Exec",
+    "desc": "Manufacturer: RSI\\nFocus: Medium Fighter\\n\\nPacking some serious firepower, the Meteor is a sight enemies won't want to see. Taking inspiration from the iconic Mantis, this heavy fighter forgoes quantum enforcement and instead features two bespoke S5 ballistic cannons and four single-load S4 missile racks; making the Meteor a force that can light up the sky like a shooting star.\\n\\nThis variant fe"
+   }
   },
   "RSI_Meteor_Collector_Stealth": {
    "powerplant": {
@@ -16576,7 +19644,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_main_cannon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 30,
+     "z": 7.5
+    },
+    "label": "RSI Meteor Wikelo Sneak Special",
+    "desc": "Manufacturer: RSI\\nFocus: Medium Fighter\\n\\nPacking some serious firepower, the Meteor is a sight enemies won't want to see. Taking inspiration from the iconic Mantis, this heavy fighter forgoes quantum enforcement and instead features two bespoke S5 ballistic cannons and four single-load S4 missile racks; making the Meteor a force that can light up the sky like a shooting star.\\n\\nWikelo here. Ma"
+   }
   },
   "RSI_Meteor_TEMP_LaserRepeater": {
    "powerplant": {
@@ -16660,7 +19741,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_main_cannon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 17,
+     "y": 30,
+     "z": 7.5
+    },
+    "label": "RSI Meteor",
+    "desc": "Manufacturer: RSI\\nFocus: Medium Fighter\\n\\nPacking some serious firepower, the Meteor is a sight enemies won't want to see. Taking inspiration from the iconic Mantis, this heavy fighter forgoes quantum enforcement and instead features two bespoke S5 ballistic cannons and four single-load S4 missile racks; making the Meteor a force that can light up the sky like a shooting star."
+   }
   },
   "RSI_Perseus": {
    "powerplant": {
@@ -16694,6 +19788,19 @@
     "class": "Military",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Heavy Gunship",
+    "career": "Combat",
+    "crew": 6,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 50,
+     "y": 100,
+     "z": 25
+    },
+    "label": "RSI Perseus",
+    "desc": "Manufacturer: RSI\\nFocus: Heavy Gunship\\n\\nWhen RSI set out to make the definitive modern statement in persuasive prevention, they looked into their own past, to the historic gunships designated Perseus. Capable of shredding sub-capital class goliaths, the mere presence of a Perseus gunship in a blockade or patrol squad is enough to make your most aggressive enemies think twice before engaging, ju"
    }
   },
   "RSI_Polaris": {
@@ -16810,7 +19917,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Corvette",
+    "career": "Combat",
+    "crew": 12,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 87,
+     "y": 181,
+     "z": 40
+    },
+    "label": "RSI Polaris",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Corvette\\n\\nThe Polaris is a nimble corvette-class capital ship that packs a powerful punch with a full armament of turrets and torpedoes. Intended for use as both a naval patrol ship and to serve as the flagship of militia operations, Polaris has the capacity to perform search and rescue operations, light strike missions and general security patrols."
+   }
   },
   "RSI_Polaris_Collector_Military": {
    "powerplant": {
@@ -16926,7 +20046,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Corvette",
+    "career": "Combat",
+    "crew": 12,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 87,
+     "y": 181,
+     "z": 40
+    },
+    "label": "RSI Polaris",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Corvette\\n\\nThe Polaris is a nimble corvette-class capital ship that packs a powerful punch with a full armament of turrets and torpedoes. Intended for use as both a naval patrol ship and to serve as the flagship of militia operations, Polaris has the capacity to perform search and rescue operations, light strike missions and general security patrols."
+   }
   },
   "RSI_Salvation": {
    "cooler": {
@@ -16978,7 +20111,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Starter / Light Salvage",
+    "career": "Industrial",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 8.5,
+     "y": 14.5,
+     "z": 4
+    },
+    "label": "RSI Salvation",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Salvage\\n \\nFor centuries, Roberts Space Industries' has prided itself on crafting vehicles that not only meets the pilots needs but exceeds expectations. While the RSI Salvation may seem like a simple salvaging craft at first glance, every detail from the salvaging arm, the onboard processing plant, to the convenient external storage has been refined"
+   }
   },
   "RSI_Scorpius": {
    "cooler": {
@@ -17050,7 +20196,20 @@
      "name": "WEAPON_RACK_RSI_SCORPIUS",
      "slot": "hardpoint_weaponlocker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 32,
+     "z": 13
+    },
+    "label": "RSI Scorpius",
+    "desc": "Manufacturer: RSI\\nFocus: Heavy Fighter\\n\\nWith an adaptable bi-wing configuration and revolutionary rail-mounted remote turret, the Scorpius offers unprecedented fire coverage, allowing for both defensive and assault-minded applications."
+   }
   },
   "RSI_Scorpius_Antares": {
    "cooler": {
@@ -17122,7 +20281,20 @@
      "name": "WEAPON_RACK_RSI_SCORPIUS",
      "slot": "hardpoint_weaponlocker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 32,
+     "z": 13
+    },
+    "label": "RSI Scorpius Antares",
+    "desc": "Manufacturer: RSI\\nFocus: Heavy Fighter\\n\\nRSI has updated the signature Scorpius adaptable bi-wing configuration and added a bespoke Quantum Dampener and EMP Device exclusively designed by their in-house team to create the powerful Scorpius Antares. Built with stopping power in mind, the Scorpius Antares is engineered to bring any chase to a quick finish."
+   }
   },
   "RSI_Scorpius_Stealth": {
    "cooler": {
@@ -17194,7 +20366,20 @@
      "name": "WEAPON_RACK_RSI_SCORPIUS",
      "slot": "hardpoint_weaponlocker"
     }
-   ]
+   ],
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 2,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 32,
+     "z": 13
+    },
+    "label": "RSI Scorpius Wikelo Sneak Special",
+    "desc": "Manufacturer: RSI\\nFocus: Heavy Fighter\\n\\nWith an adaptable bi-wing configuration and revolutionary rail-mounted remote turret, the Scorpius offers unprecedented fire coverage, allowing for both defensive and assault-minded applications.\\n\\nWikelo here. Made useful modifications to make ship much tougher to see. Sneaky."
+   }
   },
   "RSI_Zeus_CL": {
    "cooler": {
@@ -17228,6 +20413,19 @@
     "class": "Industrial",
     "itype": "Shield",
     "count": 3
+   },
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 35,
+     "y": 46,
+     "z": 9
+    },
+    "label": "RSI Zeus Mk II CL",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Medium Freight\\n\\nReady to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standard"
    }
   },
   "RSI_Zeus_CL_Collector_Indust": {
@@ -17262,6 +20460,19 @@
     "class": "Industrial",
     "itype": "Shield",
     "count": 3
+   },
+   "info": {
+    "role": "Medium Freight",
+    "career": "Transporter",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 35,
+     "y": 46,
+     "z": 9
+    },
+    "label": "RSI Zeus Mk II CL",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Medium Freight\\n\\nReady to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standard"
    }
   },
   "RSI_Zeus_ES": {
@@ -17296,6 +20507,19 @@
     "class": "Civilian",
     "itype": "Shield",
     "count": 4
+   },
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 35,
+     "y": 46,
+     "z": 9
+    },
+    "label": "RSI Zeus Mk II ES",
+    "desc": "Manufacturer: Roberts Space Industries\\nFocus: Expedition\\n\\nReady to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standards wh"
    }
   },
   "RSI_Zeus_ES_Collector_Indust": {
@@ -17330,6 +20554,19 @@
     "class": "Industrial",
     "itype": "Shield",
     "count": 4
+   },
+   "info": {
+    "role": "Expedition",
+    "career": "Exploration",
+    "crew": 3,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 35,
+     "y": 46,
+     "z": 9
+    },
+    "label": null,
+    "desc": ""
    }
   },
   "VNCL_Blade": {
@@ -17398,7 +20635,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 20.5,
+     "z": 5.5
+    },
+    "label": "Esperia Blade",
+    "desc": "Manufacturer: Vanduul Clans\\nFocus: Light Fighter\\n\\nThese light fighters, designation 'Blade', are often used by Vanduul as scouts and first wave assault crafts. They have also served well as skirmisher units due to their speed allowing them to chase down any ships attempting to flee the area. For some decades, United Empire of Earth aggressor squadrons have operated replica Blade fighters produc"
+   }
   },
   "VNCL_Blade_Swarm": {
    "powerplant": {
@@ -17466,7 +20716,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_wing_right"
     }
-   ]
+   ],
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 16.5,
+     "y": 20.5,
+     "z": 5.5
+    },
+    "label": "Esperia Blade",
+    "desc": "Manufacturer: Vanduul Clans\\nFocus: Light Fighter\\n\\nThese light fighters, designation 'Blade', are often used by Vanduul as scouts and first wave assault crafts. They have also served well as skirmisher units due to their speed allowing them to chase down any ships attempting to flee the area. For some decades, United Empire of Earth aggressor squadrons have operated replica Blade fighters produc"
+   }
   },
   "VNCL_Glaive": {
    "powerplant": {
@@ -17500,6 +20763,19 @@
     "class": "Military",
     "itype": "Shield",
     "count": 2
+   },
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 33,
+     "z": 9
+    },
+    "label": "Esperia Glaive",
+    "desc": "Manufacturer: Esperia\\nFocus: Medium Fighter\\n\\nThe Glaive is a symmetrical version of the Scythe. Generally flown by Vanduul with more combat experience, they are better armed and have two huge blades/wings as opposed to one on the standard Scythe."
    }
   },
   "VNCL_Mauler": {
@@ -17544,7 +20820,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon_nose"
     }
-   ]
+   ],
+   "info": {
+    "role": "Destroyer",
+    "career": "Combat",
+    "crew": 19,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 125,
+     "y": 425,
+     "z": 112
+    },
+    "label": "Vanduul Mauler Destroyer",
+    "desc": "Manufacturer: Vanduul Clans\\nFocus: Destroyer\\n\\nThe Mauler is a massive escort craft essential to the Vanduul fleet. This tank of a ship gives its pilots a taste of power, with its multi-level angular design, vast array of weaponry and sharp points on the sides for both aerodynamics and fear-factor."
+   }
   },
   "VNCL_Scythe": {
    "powerplant": {
@@ -17578,6 +20867,19 @@
     "class": "Military",
     "itype": "Shield",
     "count": 2
+   },
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 24,
+     "y": 33,
+     "z": 9
+    },
+    "label": "Vanduul Scythe",
+    "desc": "Manufacturer: Esperia\\nFocus: Medium Fighter\\n\\nFast becoming the symbol of the Vanduul Race, the Scythe is the foot soldier in every raid and the target of every human fighter pilot. Featuring a hefty weapons payload, the Scythe's real asset is its maneuverability, found in the twin main and twelve maneuvering thrusters. This captured Vanduul-made Scythe has been modified by Esperia to be flyable"
    }
   },
   "VNCL_Stinger": {
@@ -17612,6 +20914,19 @@
     "class": "Industrial",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Heavy Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 32,
+     "y": 36,
+     "z": 11
+    },
+    "label": "Esperia Stinger",
+    "desc": "Manufacturer: Esperia\\nFocus: Heavy Fighter\\n \\nWreaking havoc along Humanity's border systems, this Vanduul heavy fighter, designated 'Stinger' by the UEE Navy, has earned itself a blood-stained legacy as a major threat to pilots and capital ships alike. Originally intended for training aggressor squadrons, Esperia is now making their detailed replica available to the broader civilian population."
    }
   },
   "XIAN_Nox": {
@@ -17648,7 +20963,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 1.32,
+     "y": 1.45,
+     "z": 5.15
+    },
+    "label": "Aopoa Nox",
+    "desc": "Manufacturer: Aopoa\\nFocus: Racing\\n\\nHit the skids with the 2947 Nox. This speedy and maneuverable open-canopy racer from Aopoa is capable of zipping along planet surfaces or deep space. Available for the first time in Human space, the Nox has been specifically redesigned for Human pilots and is ready to race."
+   }
   },
   "XIAN_Nox_Collector_Mod": {
    "powerplant": {
@@ -17684,7 +21012,20 @@
      "itype": "Turret",
      "slot": "hardpoint_weapon_left"
     }
-   ]
+   ],
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 1.32,
+     "y": 1.45,
+     "z": 5.15
+    },
+    "label": "Aopoa Nox Wikelo Special",
+    "desc": "Manufacturer: Aopoa\\nFocus: Racing\\n\\nHit the skids with the 2947 Nox. This speedy and maneuverable open-canopy racer from Aopoa is capable of zipping along planet surfaces or deep space. Available for the first time in Human space, the Nox has been specifically redesigned for Human pilots and is ready to race."
+   }
   },
   "XIAN_Nox_Kue": {
    "powerplant": {
@@ -17702,6 +21043,19 @@
     "class": "Civilian",
     "itype": "Cooler",
     "count": 1
+   },
+   "info": {
+    "role": "Racing",
+    "career": "Competition",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 1.32,
+     "y": 1.45,
+     "z": 5.15
+    },
+    "label": "Aopoa Nox Kue",
+    "desc": "Manufacturer: Aopoa \\nFocus: Racing\\n\\nDeriving its name from the Xi’an word for ‘thrust,’ the Nox Kue delivers that and more. This limited version of the open-canopy racer features a stunning brushed-silver finish and was specifically created to celebrate the inaugural sale of the first Nox for Human riders."
    }
   },
   "XIAN_Scout": {
@@ -17736,6 +21090,19 @@
     "class": "Civilian",
     "itype": "QuantumDrive",
     "count": 1
+   },
+   "info": {
+    "role": "Light Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 13.5,
+     "y": 32,
+     "z": 8.75
+    },
+    "label": "Aopoa Khartu-al",
+    "desc": "Manufacturer: Aopoa\\nFocus: Light Fighter\\n\\nThe Xi'an Aopoa corporation manufactures an export model of the Qhire Khartu, the Khartu-al, for sale to human civilians as a dedicated scout/explorer. The export model features the same Xi'an maneuvering rig, but control surfaces modified for Human use and a more limited armament."
    }
   },
   "XNAA_SanTokYai": {
@@ -17836,7 +21203,20 @@
      "itype": "WeaponGun",
      "slot": "hardpoint_weapon"
     }
-   ]
+   ],
+   "info": {
+    "role": "Medium Fighter",
+    "career": "Combat",
+    "crew": 1,
+    "movement": "Spaceship",
+    "dims": {
+     "x": 23,
+     "y": 24,
+     "z": 23
+    },
+    "label": "Aopoa San'tok.yāi",
+    "desc": "Manufacturer: Aopoa\\nFocus: Medium Fighter\\n\\nHarnessing the power of next-generation Xi'an flight systems, upgraded dual-vector thrusters, and a daunting weapons package, Aopoa has crafted a fighter that retains the nimble dexterity and tight handling the brand is known for."
+   }
   }
  }
 }
