@@ -1,0 +1,377 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "usable",
+ "count": 41,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Relay_Maintenance_Wallpanel_Bottom"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Relay_Maintenance_Wallpanel_Top"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_PrisonPod"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_PrisonPod_1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_PrisonPod_2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_PrisonPod_3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_PrisonPod_4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_PrisonPod_5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_PrisonPod_6"
+  },
+  {
+   "name": "Bed",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_AEGS_Avenger"
+  },
+  {
+   "name": "Bed",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_AEGS_Hammerhead_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_AEGS_Reclaimer_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_AEGS_Retaliator_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ANVL_Terrapin"
+  },
+  {
+   "name": "Bed",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ANVL_Valkyrie"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_CNOU_Mustang_Beta"
+  },
+  {
+   "name": "Bed",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_CRUS_Starlifter_Single_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_DRAK_Cutlass_Black_Lower"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_DRAK_Cutlass_Black_Upper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_MISC_Starfarer_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_MISC_Starfarer_Crew"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_MISC_Starfarer_Gemini_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_MISC_Starfarer_Gemini_Crew"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_OpenClose"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ORIG_300I"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ORIG_600i_Crew_A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ORIG_600i_Crew_B"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ORIG_600i_Crew_C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ORIG_600i_Crew_D"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_ORIG_600I_Touring_Pod"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_RSI_Aurora"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_RSI_Phoenix_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_RSI_Phoenix_Master"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_RSI_Phoenix_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_Simple"
+  },
+  {
+   "name": "Bed",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_Simple_Prospector"
+  },
+  {
+   "name": "Bed",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Bed_Single_ORIG_400i_Crew_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_PrisonerPods"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Dropship_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Bump_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Usable",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Gemini_Bump_Seat"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "doorcontroller",
+ "count": 2,
+ "items": [
+  {
+   "name": "SECURITY",
+   "type": "DoorController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Door"
+  },
+  {
+   "name": "SECURITY",
+   "type": "DoorController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Door_MultiStage"
+  }
+ ]
+}

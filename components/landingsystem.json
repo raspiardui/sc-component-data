@@ -1,0 +1,71 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "landingsystem",
+ "count": 7,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingSystem",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_LandingGearSystem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingSystem",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_LandingGearSystem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingSystem",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Tiburon_LandingGearSystem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingSystem",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Default_LandingSystem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingSystem",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_Merlin_LandingGearSystem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingSystem",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890Jump_LandingGearSystem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingSystem",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_LandingGearSystem"
+  }
+ ]
+}

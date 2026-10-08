@@ -1,0 +1,683 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "attachedpart",
+ "count": 75,
+ "items": [
+  {
+   "name": "RSI Polaris Torpedo Rack",
+   "type": "AttachedPart",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRCK_S05_RSI_Perseus_Torpedo_Holder"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_Thruster_Flaps"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_Dashboard_Addon_TurretBTN"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Utility_Cargo_Doors_Housing"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_CargoButton_Addon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_CargoButton_Addon_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_CargoRack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Turret_Bubble"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Turret_Mount"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Turret_Ring"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_HangarButton_Addon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_TractorButton_Addon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_HangarMechanism_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_LandingPad_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Main_Flap"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Grin_floor_Module_MTC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Grin_Rear_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Grin_Rear_Module_MDC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Grin_Rear_Module_MTC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P52_Merlin_WingTip_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P52_Merlin_WingTip_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P72_Archimedes_WingTip_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P72_Archimedes_WingTip_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_S65_Stingray_Cockpit"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_L21_Wolf_Thruster_Pipe"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_L21_Wolf_Thruster_Pipe_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_L21_Wolf_Thruster_Pipe_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_L21_Wolf_Wingtip_Exterior"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_L21_Wolf_Wingtip_Interior"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Spindle_Arm"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Dashboard_Btn_Lights"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Elevator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_EmergencyLights"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_EmergencyLights_Center"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_EmergencyLights_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_EmergencyLights_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Scanner"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Skylight"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Cargo_Rack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Cargo_Rack_3SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_GS_Cargo_Rack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_GS_Cargo_Rack_3SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Intake_Top"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Intake_Top_LN"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Dashboard_Btn_Wings"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_LightCap"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_LightCap_Center"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_LightCap_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_LightCap_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_Nacelles"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_Nacelles_Mount"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_Skylight_Armor"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Cargo_Addon_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Cargo_Addon_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Torpedo_Tube_Inner_Geo_L"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Torpedo_Tube_Inner_Geo_R"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Collar_Cargo_L"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Collar_Cargo_R"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Decorative"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Mohawk"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Mohawk_Cargo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Stencil_CL"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Stencil_ES"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wings"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Bottom_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Bottom_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Left_Cargo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Right_Cargo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Top_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Wing_Top_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Stinger_Turret_Cap"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XNAA_SanTokYai_Gills"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "AttachedPart",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XNAA_SanTokYai_Gills_Right"
+  }
+ ]
+}

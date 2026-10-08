@@ -1,0 +1,17 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "targetselector",
+ "count": 1,
+ "items": [
+  {
+   "name": "TARGET SELECTOR",
+   "type": "TargetSelector",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_TargetSelector"
+  }
+ ]
+}

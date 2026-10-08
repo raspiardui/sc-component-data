@@ -1,0 +1,89 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "salvagemodifier",
+ "count": 9,
+ "items": [
+  {
+   "name": "Trawler Scraper Module",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Salvage_Modifier_Scraper_Large"
+  },
+  {
+   "name": "Abrade Scraper Module",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Salvage_Modifier_Scraper_Medium"
+  },
+  {
+   "name": "Comer Scraper Module",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Salvage_Modifier_Scraper_Salvation_Medium"
+  },
+  {
+   "name": "Hart Scraper Module",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Salvage_Modifier_Scraper_Salvation_Small"
+  },
+  {
+   "name": "Cinch Scraper Module",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Salvage_Modifier_Scraper_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Salvage_Modifier_Scraper_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Salvage_Modifier_Template"
+  },
+  {
+   "name": "ReadyGrip Tractor Module",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "SalvageModifier_TractorBeam",
+   "record": "Salvage_Modifier_Tractor_Small"
+  },
+  {
+   "name": "Tractor Beam Module",
+   "type": "SalvageModifier",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "SalvageModifier_TractorBeam",
+   "record": "Salvage_Modifier_Tractor_Template"
+  }
+ ]
+}

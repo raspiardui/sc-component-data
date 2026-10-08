@@ -1,0 +1,35 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "bomb",
+ "count": 3,
+ "items": [
+  {
+   "name": "Thunderball Bomb",
+   "type": "Bomb",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Utility",
+   "record": "BOMB_S03_FSKI_Thunderball"
+  },
+  {
+   "name": "Stormburst Bomb",
+   "type": "Bomb",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Utility",
+   "record": "BOMB_S05_FSKI"
+  },
+  {
+   "name": "Colossus Bomb",
+   "type": "Bomb",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Utility",
+   "record": "BOMB_S10_FSKI_Colossus"
+  }
+ ]
+}

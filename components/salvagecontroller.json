@@ -1,0 +1,152 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "salvagecontroller",
+ "count": 16,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_AEGS_Reclaimer_ArmOperator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_AEGS_Reclaimer_Turret"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_ARGO_MOTH_FrontCab"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_ARGO_MOTH_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_ARGO_MOTH_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_ARGO_MOTH_ToolArm"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_ARGO_SRV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_Crus_C1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_DRAK_Golem_OX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_DRAK_Vulture"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_MISC_Fortune"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_MISC_Fortune_Secondary"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_RSI_Salvation"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_TractorBeamOnly"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Salvage_TractorBeamOnly_PowerSuit"
+  }
+ ]
+}

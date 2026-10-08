@@ -1,0 +1,2033 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "cooler",
+ "count": 81,
+ "items": [
+  {
+   "name": "IcePlunge",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "COOL_ACOM_S01_IcePlunge_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "QuikCool",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 4,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "COOL_ACOM_S01_QuickCool_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "ZeroRush",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "COOL_ACOM_S01_ZeroRush_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "AbsoluteZero",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "COOL_ACOM_S02_AbsoluteZero_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 46.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "IceDive",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "COOL_ACOM_S02_IceDive_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 46.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "RapidCool",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 4,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "COOL_ACOM_S02_RapidCool_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 43.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Bracer",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S01_Bracer_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Glacier",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S01_Glacier_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 38.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Polar",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S01_Polar_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Tundra",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S01_Tundra_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Arctic",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S02_Arctic_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 46.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Avalanche",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S02_Avalanche_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 50.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Boreal",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S02_Boreal_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 41.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Permafrost",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S02_Permafrost_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 46.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Blizzard",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S03_Blizzard_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 60.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Galinstan",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S03_Galinstan_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 50.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Mercury",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S03_Mercury_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 56.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Tempest",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S03_Tempest_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 56.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Exotherm",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S04_Idris_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 102.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S04_Javelin_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 74.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Algid",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_AEGS_S04_Reclaimer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 69.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Cryo-Star SL",
+   "type": "Cooler",
+   "size": 0,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S00_CryoStarSL_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 16.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Frost-Star SL",
+   "type": "Cooler",
+   "size": 0,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S00_FrostStarSL_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 16.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Winter-Star SL",
+   "type": "Cooler",
+   "size": 0,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S00_WinterStarSL_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 14.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Cryo-Star",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S01_CryoStar_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 26.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Frost-Star",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S01_FrostStar_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 26.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Winter-Star",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S01_WinterStar_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 23.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Cryo-Star EX",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S02_CryoStarEX_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Frost-Star EX",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S02_FrostStarEX_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Winter-Star EX",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S02_WinterStarEX_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Cryo-Star XL",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S03_CryoStarXL_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 45.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Frost-Star XL",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S03_FrostStarXL_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 45.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Winter-Star XL",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JSPN_S03_WinterStarXL_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 41.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Eco-Flow",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S01_EcoFlow_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Hydrocel",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S01_Hydrocel_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 29.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Thermax",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S01_Thermax_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Ultra-Flow",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S01_UltraFlow_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "CoolCore",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S02_CoolCore_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 41.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "HydroJet",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S02_Hydrojet_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 38.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Snowfall",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S02_Snowfall_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 41.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Snowpack",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S02_Snowpack_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 46.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Chill-Max",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S03_ChillMax_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 58.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Hydropulse",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S03_Hydropulse_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 48.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Ice-Flush",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S03_IceFlush_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 52.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "ThermalCore",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "COOL_JUST_S03_ThermalCore_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 52.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "ArcticStorm",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S01_ArcticStorm_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 26.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "BlastChill",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S01_BlastChill_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 23.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "FlashFreeze",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S01_FlashFreeze_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 26.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "ColdSnap",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S02_ColdSnap_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "FullFrost",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S02_FullFrost_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "WhiteOut",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S02_WhiteOut_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "ColdSurge",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S03_ColdSurge_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 41.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "FrostBite",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S03_FrostBite_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 45.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "FrostBurn",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_LPLT_S03_FrostBurn_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 45.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Serac",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_ORIG_S04_890J_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 65.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_RSI_S04_Bengal_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 72.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Serac",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_RSI_S04_Polaris_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 65.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_S01_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 27.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_S02_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 39.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_S03_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 49.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_S04_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 60.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 17.6
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "HeatSafe",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "COOL_TYDT_S01_HeatSafe_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 22.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SnowBlind",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "COOL_TYDT_S01_SnowBlind_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 24.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "VaporBlock",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "COOL_TYDT_S01_VaporBlock_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 22.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "HeatSink",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "COOL_TYDT_S02_HeatSink_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "IceBox",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "COOL_TYDT_S02_IceBox_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 32.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "NightFall",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "COOL_TYDT_S02_NightFall_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Mauler Cooler",
+   "type": "Cooler",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "COOL_VNCL_S04_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 100.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Fridan",
+   "type": "Cooler",
+   "size": 0,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S00_Fridan_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 16.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Kelvid",
+   "type": "Cooler",
+   "size": 0,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S00_Kelvid_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 16.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Tepilo",
+   "type": "Cooler",
+   "size": 0,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S00_Tepilo_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 17.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Berian",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S01_Berian_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 26.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Endo",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S01_Endo_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 26.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Gelid",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S01_Gelid_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 29.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Aufeis",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S02_Aufeis_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 39.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Graupel",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S02_Graupel_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Taiga",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S02_Taiga_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 34.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Draug",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S03_Draug_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 49.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Elsen",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S03_Elsen_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 49.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "Kragen",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "COOL_WCPR_S03_Kragen_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 49.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "door",
+ "count": 20,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Anvl_Carrack_Cargopod"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_100i_Cover_Back"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_300i_Cargo_Cover_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_350r_Cargo_Cover_Front"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_TV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Terrapin_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Nomad_Component_Power"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fortune_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Guardian_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Guardian_MX_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_X1_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "TMBL_Storm_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XNAA_SanTokYai_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_Kitchen_Door"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_Toilet_Door"
+  }
+ ]
+}

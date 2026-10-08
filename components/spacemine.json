@@ -1,0 +1,26 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "spacemine",
+ "count": 2,
+ "items": [
+  {
+   "name": "Argos IX Torpedo",
+   "type": "SpaceMine",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MINE_Test"
+  },
+  {
+   "name": "Argos IX Torpedo",
+   "type": "SpaceMine",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MINE_Test_Placeable"
+  }
+ ]
+}

@@ -1,0 +1,5983 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "flightcontroller",
+ "count": 239,
+ "items": [
+  {
+   "name": "Avenger Stalker Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Stalker",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Stalker PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Stalker_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Stalker TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Stalker_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Titan Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Titan",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Titan PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Titan_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Titan TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Titan_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Warlock Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Warlock",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Warlock PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Warlock_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Avenger Warlock TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Avenger_Warlock_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Eclipse",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Gladius Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Gladius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Gladius PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Gladius_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Gladius TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Gladius_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Gladius Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Gladius_MM_322",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Gladius Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Gladius_MM_High_Agility",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Hammerhead Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Hammerhead",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Hammerhead PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Hammerhead_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Hammerhead TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Hammerhead_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Hammerhead Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Hammerhead_MM_322",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Idris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Javelin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Reclaimer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Redeemer Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Redeemer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Redeemer PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Redeemer_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Redeemer TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Redeemer_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Retaliator",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Sabre",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Sabre_Firebird",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Sabre_Peregrine",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Sabre_Raven",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Sabre_Raven_EX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Tiburon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Vanguard",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Vanguard_Harbinger",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Vanguard_Hoplite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Vanguard_MM_322",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_AEGS_Vanguard_Sentinel",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Arrow Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Arrow",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Arrow PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Arrow_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Arrow TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Arrow_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Anvil Asgard Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Asgard",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Anvil Asgard PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Asgard_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Anvil Asgard TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Asgard_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Anvil Carrack Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Carrack",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Anvil Carrack PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Carrack_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Anvil Carrack TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Carrack_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Gladiator",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hawk",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7A_Mk1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7A_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7C",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7CM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7CM_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7CM_MM_322",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7CR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7CR_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7CS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7CS_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hornet_F7C_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Hurricane",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Lightning_F8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Lightning_F8C",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Paladin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Pisces Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "C8R Pisces Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_C8R",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "C8R Pisces PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_C8R_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "C8R Pisces TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_C8R_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "C8X Pisces Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_C8X",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "C8X Pisces PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_C8X_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "C8X Pisces TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_C8X_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Pisces PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Pisces TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Pisces_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Terrapin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Terrapin_Medic",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ANVL_Valkyrie",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MOLE",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MOTH",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1C Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1T Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_1T",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1T PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_1T_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1T TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_1T_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1C PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1C TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1P Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_Transport",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1P PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_Transport_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MPUV-1P TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_MPUV_Transport_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_RAFT",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ARGO_SRV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_BANU_Defender",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CNOU_HoverQuad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CNOU_Mustang_Alpha",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CNOU_Mustang_Beta",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CNOU_Mustang_Delta",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CNOU_Mustang_Gamma",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CNOU_Mustang_Omega",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CNOU_Nomad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Intrepid",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Spirit_A1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Spirit_C1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Starfighter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Starfighter_Inferno",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Starlifter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Starlifter_A2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Starlifter_M2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_CRUS_Star_Runner",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Buccaneer Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Buccaneer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Buccaneer PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Buccaneer_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Buccaneer TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Buccaneer_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Buccaneer Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Buccaneer_MM_322",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Caterpillar",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Clipper Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Clipper",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Clipper PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Clipper_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Clipper TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Clipper_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Command_Module",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Corsair Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Corsair",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Corsair PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Corsair_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drake Corsair TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Corsair_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Cutlass_Black",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Cutlass_Blue",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Cutlass_Red",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Cutlass_Steel",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Cutter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Cutter_Expo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Cutter_Scout",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Dragonfly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Golem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Golem_OX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Herald",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Ironclad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Ironclad_Assault",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Pitbull",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_DRAK_Vulture",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ESPR_Prowler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ESPR_Prowler_Utility",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ESPR_Talon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ESPR_Talon_Shrike",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_GAMA_Railen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_GAMA_Syulen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_GAMA_Tyilui",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_GLSN_Basher",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Shiv Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_GLSN_Shiv",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Shiv PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_GLSN_Shiv_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Shiv TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_GLSN_Shiv_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Kruger L-21 Wolf Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_Krig_l21_wolf",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Kruger L-21 Wolf PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_Krig_l21_wolf_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Kruger L-21 Wolf TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_Krig_l21_wolf_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Kruger L-22 AlphaWolf Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_Krig_l22_alphawolf",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Kruger L-22 AlphaWolf PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_Krig_l22_alphawolf_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Kruger L-22 AlphaWolf TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_Krig_l22_alphawolf_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_KRIG_P52_Merlin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_KRIG_P52_Merlin_MM_322",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_KRIG_P72_Archimedes",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_KRIG_S65_Stingray",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Fortune",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Freelancer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Freelancer_DUR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Freelancer_MAX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Freelancer_MIS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Fury",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Fury_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Fury_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Hull_A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Hull_B",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Hull_C",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Prospector",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Razor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Razor_EX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Razor_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Reliant_Kore",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Reliant_Mako",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Reliant_Sen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Reliant_Tana",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Starfarer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Starfarer_Gemini",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Starlancer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Starlancer_TAC",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MISC_Starlite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MRAI_Guardian",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MRAI_Guardian_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MRAI_Guardian_QI",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MRAI_Pulse",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_MRAI_Pulse_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_100i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_125a",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_135c",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_300i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_315p",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_325a",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_350r",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_400i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_600i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_85X",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_890J",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_m50",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_m80",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_X1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_ORIG_X1_Velocity",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Apollo_Medivac",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Apollo_Triage",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_CL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_ES",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_LN",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_MR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Bengal",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Andromeda",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Andromeda_MM_322",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Aquila",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Phoenix",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Taurus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Hermes",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Mantis",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Meteor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Perseus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Polaris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Salvation",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Scorpius Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Scorpius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Scorpius Antares Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Scorpius_Antares",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Scorpius Antares PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Scorpius_Antares_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Scorpius Antares TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Scorpius_Antares_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Scorpius PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Scorpius_Flight_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Scorpius TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Scorpius_Flight_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus_CL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus_ES",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Blade",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Blade_PU_AI_VAN",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Glaive",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Glaive_PU_AI_VAN",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Scythe",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Scythe_PU_AI_VAN",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Stinger",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_VNCL_Stinger_PU_AI_VAN",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_XIAN_Nox",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_XIAN_Scout",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_FLGT_BL_Controller",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_XNAA_SanTokYai",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  }
+ ]
+}

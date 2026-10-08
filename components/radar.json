@@ -1,0 +1,1764 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "radar",
+ "count": 76,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_AntiPersonnel_Turret",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Hunter",
+   "type": "Radar",
+   "size": 1,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_BLTR_S01_Hunter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Pelerous",
+   "type": "Radar",
+   "size": 1,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_BLTR_S01_Pelerous",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Prophet",
+   "type": "Radar",
+   "size": 1,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_BLTR_S01_Prophet",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Cassandra",
+   "type": "Radar",
+   "size": 2,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_BLTR_S02_Cassandra",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Predator",
+   "type": "Radar",
+   "size": 2,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_BLTR_S02_Predator",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Spyglass",
+   "type": "Radar",
+   "size": 2,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_BLTR_S02_Spyglass",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "BroadSpec-Go",
+   "type": "Radar",
+   "size": 0,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S00_BroadSpecGo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FullSpec-Go",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S00_FullSpecGo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Observer-Go",
+   "type": "Radar",
+   "size": 0,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S00_ObserverGo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Surveyor-Go",
+   "type": "Radar",
+   "size": 0,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S00_SurveyorGo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Observer-Lite",
+   "type": "Radar",
+   "size": 1,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S01_ObserverLite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Surveyor-Lite",
+   "type": "Radar",
+   "size": 1,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S01_SurveyorLite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "BroadSpec",
+   "type": "Radar",
+   "size": 2,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S02_BroadSpec_Lite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FullSpec",
+   "type": "Radar",
+   "size": 2,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S02_FullSpec",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Observer",
+   "type": "Radar",
+   "size": 2,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S02_Observer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Surveyor",
+   "type": "Radar",
+   "size": 2,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S02_Surveyor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "BroadSpec",
+   "type": "Radar",
+   "size": 3,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S03_BroudSpec",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FullSpec-Max",
+   "type": "Radar",
+   "size": 3,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S03_FullSpecMax",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Observer-Max",
+   "type": "Radar",
+   "size": 3,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S03_ObserverMax",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Surveyor-Max",
+   "type": "Radar",
+   "size": 3,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S03_SurveyorMax",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "BroadSpec-Max",
+   "type": "Radar",
+   "size": 4,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_CHCO_S04_BroadSpecMax",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Radar",
+   "type": "Radar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Default",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_RADR_GNRP_S03_Idris",
+   "type": "Radar",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GNRP_S03_Idris_TEMP",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Agure",
+   "type": "Radar",
+   "size": 0,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNO_S00_Agure",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Prevenir",
+   "type": "Radar",
+   "size": 0,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S00_Prevenir",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sens",
+   "type": "Radar",
+   "size": 0,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S00_Sens",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "V60-26",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S00_V6026",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Ecouter",
+   "type": "Radar",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S01_Ecouter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Ecouter",
+   "type": "Radar",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S01_Ecouter_Piercing",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Tige",
+   "type": "Radar",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S01_Tige",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "V801-11",
+   "type": "Radar",
+   "size": 1,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S01_V80111",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Voir",
+   "type": "Radar",
+   "size": 1,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S01_Voir",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Epier",
+   "type": "Radar",
+   "size": 2,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S02_Epier",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Savoir",
+   "type": "Radar",
+   "size": 2,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S02_Savoir",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "V801-12",
+   "type": "Radar",
+   "size": 2,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S02_VB80112",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Vigilance",
+   "type": "Radar",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S02_Vigilance",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Devoue",
+   "type": "Radar",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S03_Devoue",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fidele",
+   "type": "Radar",
+   "size": 3,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S03_Fidele",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Resolu",
+   "type": "Radar",
+   "size": 3,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S03_Resolu",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "V880",
+   "type": "Radar",
+   "size": 3,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_GRNP_S03_V880",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SNSR5",
+   "type": "Radar",
+   "size": 1,
+   "grade": 4,
+   "class": "Competition",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_NAVE_S01_SNSR5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SNS-R6",
+   "type": "Radar",
+   "size": 1,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_NAVE_S01_SNSR6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SNSR7",
+   "type": "Radar",
+   "size": 1,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_NAVE_S01_SNSR7",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SNS-R5x",
+   "type": "Radar",
+   "size": 2,
+   "grade": 4,
+   "class": "Competition",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_NAVE_S02_SNSR5x",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SNS-R7x",
+   "type": "Radar",
+   "size": 2,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_NAVE_S02_SNSR7x",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SNS-R6x",
+   "type": "Radar",
+   "size": 2,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_NAVE_S02_SNS_R6x",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_RADR_RSI_S04_Polaris",
+   "type": "Radar",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_RSI_S04_Polaris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_S00_Fake"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_S01_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Radar",
+   "type": "Radar",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_S02_Fake"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_S02_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 9,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_S03_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 12,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Unmanned_AI_S00"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Unmanned_AI_S01"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Unmanned_AI_S02"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Unmanned_AI_S03"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Unmanned_AI_S04"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Unmanned_AI_S05"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_Unmanned_AI_S05_TSGLaser"
+  },
+  {
+   "name": "Mauler Radar",
+   "type": "Radar",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_VNCL_S02_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Denning",
+   "type": "Radar",
+   "size": 0,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S00_Denning",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fabian",
+   "type": "Radar",
+   "size": 0,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S00_Fabian",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Vogel",
+   "type": "Radar",
+   "size": 0,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S00_Vogel",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Abetti",
+   "type": "Radar",
+   "size": 1,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S01_Abetti",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Backlund",
+   "type": "Radar",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S01_Backlund",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Capston",
+   "type": "Radar",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S01_Capstan",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fleming",
+   "type": "Radar",
+   "size": 1,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S01_Fleming",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Agrippa",
+   "type": "Radar",
+   "size": 2,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S02_Agrippa",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Battani",
+   "type": "Radar",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S02_Battani",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Chernykh",
+   "type": "Radar",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S02_Chernykh",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fawad",
+   "type": "Radar",
+   "size": 2,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S02_Fawad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Anysta",
+   "type": "Radar",
+   "size": 3,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S03_Anysta",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Capsulo",
+   "type": "Radar",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S03_Capsulo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_Name_RADR_WLOP_S03_Lephari",
+   "type": "Radar",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S03_Lephari",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Socoria",
+   "type": "Radar",
+   "size": 3,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_WLOP_S03_Socoria",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  }
+ ]
+}

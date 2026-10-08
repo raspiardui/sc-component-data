@@ -1,0 +1,134 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "utilityturret",
+ "count": 14,
+ "items": [
+  {
+   "name": "Manned Turret",
+   "type": "UtilityTurret",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ARGO_MOLE_Turret_Front"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "UtilityTurret",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ARGO_MOLE_Turret_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "UtilityTurret",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ARGO_MOLE_Turret_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "UtilityTurret",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ARGO_MOTH_Turret_Front"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "UtilityTurret",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ARGO_MOTH_Turret_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "UtilityTurret",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ARGO_MOTH_Turret_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "UtilityTurret",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "GRIN_ROC_DS_Turret_Mining"
+  },
+  {
+   "name": "Tractor Beam",
+   "type": "UtilityTurret",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_Remote_Tractor_Turret"
+  },
+  {
+   "name": "ROC Mining Arm",
+   "type": "UtilityTurret",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "BallTurret",
+   "record": "GRIN_ROC_Mining_Turret"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "UtilityTurret",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "GunTurret",
+   "record": "Mount_Gimbal_Mining"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "UtilityTurret",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "GunTurret",
+   "record": "Mount_Gimbal_Mining_Golem"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "UtilityTurret",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "GunTurret",
+   "record": "Mount_Gimbal_Mining_MPUV"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "UtilityTurret",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "GunTurret",
+   "record": "Mount_Gimbal_Mining_S0"
+  },
+  {
+   "name": "VariPuck S2 Gimbal Mount",
+   "type": "UtilityTurret",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GunTurret",
+   "record": "Mount_Gimbal_S2_Mining"
+  }
+ ]
+}

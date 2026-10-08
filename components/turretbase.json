@@ -1,0 +1,1142 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "turretbase",
+ "count": 126,
+ "items": [
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_GS_SCItem_Turret_Rear"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_GS_SCItem_Turret_Side"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_GS_SCItem_Turret_Side_BackLeft"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_GS_SCItem_Turret_Side_BackRight"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_GS_SCItem_Turret_Side_FrontLeft"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_GS_SCItem_Turret_Side_FrontRight"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_GS_SCItem_Turret_Top"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Rear"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Rear_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_BackLeft"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_BackLeft_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_BackRight"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_BackRight_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_FrontLeft"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_FrontLeft_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_FrontRight"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Side_FrontRight_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Top"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Hammerhead_SCItem_Turret_Top_LowPoly"
+  },
+  {
+   "name": "IFR-MS7 Turret",
+   "type": "TurretBase",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_K_Turret_Large"
+  },
+  {
+   "name": "IFR-A77 Turret",
+   "type": "TurretBase",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Large"
+  },
+  {
+   "name": "IFR-A77 Turret",
+   "type": "TurretBase",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Large_LowPoly"
+  },
+  {
+   "name": "IFR-W57 Turret",
+   "type": "TurretBase",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Large_P"
+  },
+  {
+   "name": "IFR-A77 Turret",
+   "type": "TurretBase",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Large_Stanton"
+  },
+  {
+   "name": "IFR-BC7 Turret",
+   "type": "TurretBase",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Large_T"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower_Short"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower_Short_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower_Short_Left_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower_Short_Left_Stanton"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower_Short_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower_Short_Right_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Lower_Short_Right_Stanton"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Front"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Front_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Front_Left_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Front_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Front_Right_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Rear_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Rear_Left_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Rear_Left_Stanton"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Rear_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Rear_Right_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Rear_Right_Stanton"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Stanton"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Stanton_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Idris_SCItem_Turret_Upper_Stanton_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Lower_Manned"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Lower_Manned_Invulnerable"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Lower_Manned_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Manned"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Manned_Invulnerable"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Manned_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Manned_Left_Invulnerable"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_SCItem_Turret_Manned_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_Side_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_Side_Turret_Invulnerable"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_Side_Turret_LowPoly"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Javelin_Side_Turret_Player_C01"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Reclaimer_SCItem_Turret"
+  },
+  {
+   "name": "Remote Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Reclaimer_Tractor_Beam"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Redeemer_Front_SCItem_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Redeemer_Rear_SCItem_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Retaliator_SCItem_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Retaliator_SCItem_Turret_Lower_Rear"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Retaliator_SCItem_Turret_Upper"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Retaliator_SCItem_Turret_Upper_Rear_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Retaliator_SCItem_Turret_Upper_Rear_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Vanguard_Harbinger_SCItem_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "AEGS_Vanguard_SCItem_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Asgard_Turret_Bubble"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Carrack_SCItem_Turret_Bubble"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Carrack_SCItem_Turret_Side"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Carrack_SCItem_Turret_Side_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Carrack_SCItem_Turret_Side_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Gladiator_SCItem_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Hurricane_SCItem_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Valkyrie_Turret_Bubble"
+  },
+  {
+   "name": "Turret",
+   "type": "TurretBase",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Valkyrie_Turret_Door"
+  },
+  {
+   "name": "Turret",
+   "type": "TurretBase",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Valkyrie_Turret_Door_Left"
+  },
+  {
+   "name": "Turret",
+   "type": "TurretBase",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Valkyrie_Turret_Door_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Valkyrie_Turret_Top"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ANVL_Valkyrie_Turret_Top_CitizenCon"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "CRUS_Star_Runner_Turret_Bottom"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "CRUS_Star_Runner_Turret_Top"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Caterpillar_SCItem_Turret_Bottom"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Caterpillar_SCItem_Turret_Top"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Corsair_Turret_Manned"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Cutlass_SCItem_Turret_Black"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Cutlass_SCItem_Turret_Blue"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Ironclad_MannedTurret_Bottom"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Ironclad_MannedTurret_Bottom_Assault"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Ironclad_MannedTurret_Nose"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "GAMA_Railen_Turret_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "GAMA_Railen_Turret_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Freelancer_Base_SCItem_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starfarer_Gemini_SCItem_Turret_Large"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starfarer_Gemini_SCItem_Turret_Large_Derelict"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starfarer_Gemini_SCItem_Turret_Small"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starfarer_Gemini_SCItem_Turret_Small_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starfarer_SCItem_Turret_Large"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starfarer_SCItem_Turret_Small"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starfarer_SCItem_Turret_Small_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starlancer_TAC_Side_Turret"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starlancer_TAC_Side_Turret_Left"
+  },
+  {
+   "name": "Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starlancer_TAC_Turret_Door_Left"
+  },
+  {
+   "name": "Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "MISC_Starlancer_TAC_Turret_Door_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ORIG_890J_SCItem_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "ORIG_890J_SCItem_Turret_Upper"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Aquila_SCItem_Turret_Radar"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Phoenix_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Phoenix_Turret_Upper"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_SCItem_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_SCItem_Turret_Upper"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Taurus_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Perseus_MannedTurret_Bottom"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Perseus_MannedTurret_Top"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Polaris_Turret_Front"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Polaris_Turret_Side_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Polaris_Turret_Side_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Polaris_Turret_Top_Left"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Polaris_Turret_Top_Right"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "TurretManned_Template"
+  },
+  {
+   "name": "Cutlass Flashfire Specialty Mount",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "DRAK_Fixed_Mount_S4"
+  },
+  {
+   "name": "Nav-E7 Echo Scanner",
+   "type": "TurretBase",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Unmanned",
+   "record": "DRAK_Cutlass_Red_Sensor_Turret_S4"
+  }
+ ]
+}

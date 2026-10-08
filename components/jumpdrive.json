@@ -1,0 +1,224 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "jumpdrive",
+ "count": 12,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "JumpDrive",
+   "size": 4,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_AEGS_S04_Javelin_SCItem",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_NameJDRV_ORIG_S04_890J",
+   "type": "JumpDrive",
+   "size": 4,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_ORIG_S04_890J_SCItem",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "JumpDrive",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_RSI_S04_Bengal_SCItem",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "JumpDrive",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_S01_Template",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "JumpDrive",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_S02_Template",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "JumpDrive",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_S03_Template",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "JumpDrive",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_S04_Template",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Explorer",
+   "type": "JumpDrive",
+   "size": 1,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "JDRV_TARS_S01_Explorer_SCItem",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Excelsior",
+   "type": "JumpDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "JDRV_TARS_S02_Excelsior_SCItem",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Exodus",
+   "type": "JumpDrive",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "JDRV_TARS_S03_Exodus_SCItem",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "JumpDrive",
+   "size": 4,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_TARS_S04_C_Explorer",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Exfiltrate",
+   "type": "JumpDrive",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "JDRV_WETK_S04_Idris_SCItem",
+   "resources": [
+    {
+     "state": "Transiting",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "miningcontroller",
+ "count": 4,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MiningController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Mining"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MiningController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Mining_ATLS_GEO"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MiningController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Mining_Vehicle"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MiningController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Mining_Vehicle_ROCds"
+  }
+ ]
+}

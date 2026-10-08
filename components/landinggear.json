@@ -1,0 +1,44 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "landinggear",
+ "count": 4,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingGear",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Landing_Gear_Front"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingGear",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Landing_Gear_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingGear",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Landing_Gear_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "LandingGear",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Landing_Gear_Right"
+  }
+ ]
+}

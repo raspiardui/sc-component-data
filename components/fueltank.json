@@ -1,0 +1,4351 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "fueltank",
+ "count": 175,
+ "items": [
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Avenger_Stalker",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Avenger_Stalker_LowFuel",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Avenger_Titan",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Avenger_Warlock",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Eclipse",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Gladius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Hammerhead",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Hammerhead_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Idris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Javelin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Reclaimer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Redeemer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Retaliator",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Sabre",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Sabre_Firebird",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Sabre_Peregrine",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Sabre_Raven",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Tiburon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Vanguard_Harbinger",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Vanguard_Hoplite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Vanguard_Sentinel",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_AEGS_Vanguard_Warden",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Arrow",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Asgard",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Carrack",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Gladiator",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hawk",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7A_Mk1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7A_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7C",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7CM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7CM_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7CR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7CR_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7CS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hornet_F7CS_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Hurricane",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Lightning_F8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Paladin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Pisces",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Terrapin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Terrapin_Medic",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ANVL_Valkyrie",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_MOLE",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_MOTH",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_MPUV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_MPUV_1T",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_MPUV_Transport",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_RAFT_Large",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_RAFT_Small",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ARGO_SRV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_BANU_Defender",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CNOU_HoverQuad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CNOU_Mustang_Alpha",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CNOU_Mustang_Beta",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CNOU_Mustang_Delta",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CNOU_Mustang_Gamma",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CNOU_Mustang_Omega",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CNOU_Nomad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CRUS_Intrepid",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CRUS_Spirit",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CRUS_Starfighter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CRUS_Starlifter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_CRUS_Star_Runner",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Hydrogen Fuel Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_Default",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Buccaneer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Caterpillar",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Clipper",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Command_Module",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Corsair",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Cutlass_Black",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Cutlass_Blue",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Cutlass_Red",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Cutlass_Steel",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Cutter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Cutter_Expo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Dragonfly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Golem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Herald",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Ironclad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Ironclad_Assault",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Pitbull",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_DRAK_Vulture",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ESPR_Prowler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ESPR_Prowler_Utility",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ESPR_Talon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_GAMA_Railen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_GAMA_Syulen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_GAMA_Tyilui",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_GLSN_Basher",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_GLSN_Shiv",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_GRIN_MTC",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_GRIN_UTV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_Krig_l21_wolf",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_Krig_l22_alphawolf",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_KRIG_P52_Merlin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_KRIG_P72_Archimedes",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_KRIG_S65_Stingray",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Fortune",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Freelancer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Freelancer_DUR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Freelancer_MAX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Freelancer_MIS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Fury",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Fury_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Hull_A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Hull_B",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Hull_C",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Prospector",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Razor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Reliant_Kore",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Reliant_Mako",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Reliant_Sen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Reliant_Tana",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Starfarer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Starfarer_Gemini",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Starlancer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Starlancer_TAC",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MISC_Starlite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MRAI_Guardian",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MRAI_Guardian_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MRAI_Pulse",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_MRAI_Pulse_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_100i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_300i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_315p",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_325a",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_350r",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_400i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_600i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_85x",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_890J",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_M50",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_m80",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_ORIG_X1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Apollo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Apollo_Medivac",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_CL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_ES",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_GS_CL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_GS_ES",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_GS_LN",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_GS_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_GS_MR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_LN",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Aurora_MR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Bengal",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Andromeda",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Aquila",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Taurus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Hermes",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Mantis",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Meteor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Perseus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Polaris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Salvation",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Scorpius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Zeus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Zeus_ES",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_TMBL_Storm",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_VNCL_Blade",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_VNCL_Glaive",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Hydrogen Fuel Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_VNCL_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_VNCL_Scythe",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_VNCL_Stinger",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_XIAN_Nox",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_XIAN_Scout",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_XNAA_SanTokYai",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelTank",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "MISC_FuelRefinery_L"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelTank",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "MISC_FuelRefinery_R"
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INNK_ANVL_Lightning_F8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  }
+ ]
+}

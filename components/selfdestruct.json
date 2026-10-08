@@ -1,0 +1,71 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "selfdestruct",
+ "count": 7,
+ "items": [
+  {
+   "name": "Self Destruct Unit",
+   "type": "SelfDestruct",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VHCL_SelfDestruct_10s"
+  },
+  {
+   "name": "Self Destruct Unit",
+   "type": "SelfDestruct",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VHCL_SelfDestruct_120s"
+  },
+  {
+   "name": "Self Destruct Unit",
+   "type": "SelfDestruct",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VHCL_SelfDestruct_20s"
+  },
+  {
+   "name": "Self Destruct Unit",
+   "type": "SelfDestruct",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VHCL_SelfDestruct_30s"
+  },
+  {
+   "name": "Self Destruct Unit",
+   "type": "SelfDestruct",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VHCL_SelfDestruct_45s"
+  },
+  {
+   "name": "Self Destruct Unit",
+   "type": "SelfDestruct",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VHCL_SelfDestruct_60s"
+  },
+  {
+   "name": "Self Destruct Unit",
+   "type": "SelfDestruct",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VHCL_SelfDestruct_80s"
+  }
+ ]
+}

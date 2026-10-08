@@ -1,0 +1,200 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "battery",
+ "count": 6,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Battery",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BATT_AMRS_S00_FortCell",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Battery",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BATT_AMRS_S01_FortCell",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Battery",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BATT_S00_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Battery",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BATT_S01_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Battery",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BATT_S03_CitizenConDemo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Battery",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BATT_S03_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  }
+ ]
+}

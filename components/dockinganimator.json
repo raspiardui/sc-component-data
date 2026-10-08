@@ -1,0 +1,35 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "dockinganimator",
+ "count": 3,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingAnimator",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingAnimator_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingAnimator",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Station_DockingAnimator_Docking_Arm_Ht_A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingAnimator",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Station_DockingAnimator_Docking_Arm_Util_A"
+  }
+ ]
+}

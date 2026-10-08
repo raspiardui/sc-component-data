@@ -1,0 +1,1403 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "fuelintake",
+ "count": 155,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Avenger_Stalker"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Avenger_Titan"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Avenger_Warlock"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Eclipse"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Gladius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Hammerhead"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Idris"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Javelin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Reclaimer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Redeemer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Retaliator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Sabre"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Sabre_Firebird"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Sabre_Peregrine"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Sabre_Raven"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Tiburon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Vanguard_Harbinger"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Vanguard_Hoplite"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Vanguard_Sentinel"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_AEGS_Vanguard_Warden"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Arrow"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Asgard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Carrack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Gladiator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hawk"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7A_Mk1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7A_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7CM"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7CM_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7CR"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7CR_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7CS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hornet_F7CS_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Hurricane"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Lightning_F8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Paladin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Pisces"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Terrapin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Terrapin_Medic"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ANVL_Valkyrie"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ARGO_MOLE"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ARGO_MOTH"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ARGO_MPUV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ARGO_MPUV_1T"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ARGO_MPUV_Transport"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ARGO_RAFT"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ARGO_SRV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_BANU_Defender"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CNOU_HoverQuad"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CNOU_Mustang_Alpha"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CNOU_Mustang_Beta"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CNOU_Mustang_Delta"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CNOU_Mustang_Gamma"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CNOU_Mustang_Omega"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CNOU_Nomad"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CRUS_Spirit"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CRUS_Starfighter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CRUS_Starlifter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_CRUS_Star_Runner"
+  },
+  {
+   "name": "Fuel Intake",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_Default"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Buccaneer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Caterpillar"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Clipper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Command_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Corsair"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Cutlass_Black"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Cutlass_Blue"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Cutlass_Red"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Cutlass_Steel"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Cutter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Dragonfly"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Golem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Herald"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Ironclad"
+  },
+  {
+   "name": "Fuel Intake",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Pitbull"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_DRAK_Vulture"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ESPR_Prowler"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ESPR_Talon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_FuelIntake_CRUS_Intrepid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_FuelIntake_GAMA_Railen"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_FuelIntake_GAMA_Tyilui"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_GAMA_Syulen"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_GLSN_Basher"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_GLSN_Shiv"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_KRIG_P52_Merlin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_KRIG_P72_Archimedes"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_KRIG_S65_Stingray"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Fortune"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Freelancer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Freelancer_DUR"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Freelancer_MAX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Freelancer_MIS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Fury"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Fury_LX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Hull_A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Hull_B"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Hull_C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Prospector"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Razor"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Reliant_Kore"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Reliant_Mako"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Reliant_Sen"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Reliant_Tana"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Starfarer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Starfarer_Gemini"
+  },
+  {
+   "name": "MISC Starfarer Fuel Intake",
+   "type": "FuelIntake",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Starfarer_Nose_SCItem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Starlancer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MISC_Starlite"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MRAI_Guardian"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MRAI_Guardian_MX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MRAI_Pulse"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_MRAI_Pulse_LX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_100i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_300i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_315p"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_325a"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_350r"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_400i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_600i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_85x"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_890J"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_M50"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_ORIG_X1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Apollo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Aurora_CL"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Aurora_ES"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Aurora_LN"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Aurora_LX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Aurora_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Aurora_MR"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Constellation_Andromeda"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Constellation_Aquila"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Constellation_Taurus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Mantis"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Meteor"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Perseus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Polaris"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Salvation"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Scorpius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Zeus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_VNCL_Blade"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_VNCL_Glaive"
+  },
+  {
+   "name": "Fuel Intake",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_VNCL_Mauler"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_VNCL_Scythe"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_VNCL_Stinger"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_XIAN_Nox"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_XIAN_Scout"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_XNAA_SanTokYai"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 2,
+   "grade": 2,
+   "class": null,
+   "subtype": "NoseMounted",
+   "record": "KRIG_P72_Archimedes_Intake"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_300i_Intake"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_315p_Intake"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_325a_Intake"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_350r_Intake"
+  }
+ ]
+}

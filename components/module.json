@@ -1,0 +1,350 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "module",
+ "count": 38,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Front"
+  },
+  {
+   "name": "Retaliator Unladen Front Module",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Front_Base"
+  },
+  {
+   "name": "Retaliator Ordnance Front Module",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Front_Bomber"
+  },
+  {
+   "name": "Retaliator Cargo Front Module",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Front_Cargo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Rear"
+  },
+  {
+   "name": "Retaliator Unladen Rear Module",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Rear_Base"
+  },
+  {
+   "name": "Retaliator Ordnance Rear Module",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Rear_Bomber"
+  },
+  {
+   "name": "Retaliator Cargo Rear Module",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Module_Rear_Cargo"
+  },
+  {
+   "name": "Stor*All Big Box Model H",
+   "type": "Module",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7C_Cargo_Mod"
+  },
+  {
+   "name": "Stor*All Big Box Model H",
+   "type": "Module",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7C_Mk2_Cargo_Mod"
+  },
+  {
+   "name": "Basher Chopper Bodykit Top",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Addon_Mohawk_Default"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Addon_Mohawk_Template"
+  },
+  {
+   "name": "Shiv \"Slasher\" Bodykit Rear Center",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_Back_A"
+  },
+  {
+   "name": "Shiv \"Barebones\" Bodykit Rear Center",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_Back_B"
+  },
+  {
+   "name": "Shiv \"Lunatic\" Bodykit Rear Center",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_Back_C"
+  },
+  {
+   "name": "Shiv \"Slasher\" Bodykit Front",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_Front_A"
+  },
+  {
+   "name": "Shiv \"Barebones\" Bodykit Front",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_Front_B"
+  },
+  {
+   "name": "Shiv \"Lunatic\" Bodykit Front",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_Front_C"
+  },
+  {
+   "name": "Shiv \"Slasher\" Bodykit Rear Left",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_RearLeft_A"
+  },
+  {
+   "name": "Shiv \"Barebones\" Bodykit Rear Left",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_RearLeft_B"
+  },
+  {
+   "name": "Shiv \"Lunatic\" Bodykit Rear Left",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_RearLeft_C"
+  },
+  {
+   "name": "Shiv \"Slasher\" Bodykit Rear Right",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_RearRight_A"
+  },
+  {
+   "name": "Shiv \"Barebones\" Bodykit Rear Right",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_RearRight_B"
+  },
+  {
+   "name": "Shiv \"Lunatic\" Bodykit Rear Right",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GREY_Shiv_Cosmetic_RearRight_C"
+  },
+  {
+   "name": "Apollo Tier 1 Module Left",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Module_Left_Tier_1"
+  },
+  {
+   "name": "Apollo Tier 2 Module Left",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Module_Left_Tier_2"
+  },
+  {
+   "name": "Apollo Tier 3 Module Left",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Module_Left_Tier_3"
+  },
+  {
+   "name": "Apollo Tier 1 Module Right",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Module_Right_Tier_1"
+  },
+  {
+   "name": "Apollo Tier 2 Module Right",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Module_Right_Tier_2"
+  },
+  {
+   "name": "Apollo Tier 3 Module Right",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_Module_Right_Tier_3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Module"
+  },
+  {
+   "name": "Aurora Mk II TS Module",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Module_Cargo"
+  },
+  {
+   "name": "Aurora Mk II DM Module",
+   "type": "Module",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Module_Missile"
+  },
+  {
+   "name": "Anvil Hornet Ghost Center Cap",
+   "type": "Module",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "UMNT_ANVL_S5_Cap"
+  },
+  {
+   "name": "Anvil Hornet Ghost Mk II Center Cap",
+   "type": "Module",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "UMNT_ANVL_S5_Cap_Mk2"
+  },
+  {
+   "name": "WillsOp Long Look Radar",
+   "type": "Module",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "UMNT_ANVL_S5_Rotodome"
+  },
+  {
+   "name": "@item_NameUMNT_ANVL_S5_Rotodome_Mk2",
+   "type": "Module",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "UMNT_ANVL_S5_Rotodome_Mk2"
+  }
+ ]
+}

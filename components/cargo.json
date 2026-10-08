@@ -1,0 +1,890 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "cargo",
+ "count": 98,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "SCU_Cargo_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "SCU_Cargo_Template_16SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "SCU_Cargo_Template_1SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "SCU_Cargo_Template_24SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "SCU_Cargo_Template_2SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "SCU_Cargo_Template_32SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "SCU_Cargo_Template_8SCU"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Personal_Armory_Large"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Personal_Armory_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Personal_Large"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FakeCargo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1A_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1B"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1B_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1C_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1D"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_1D_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2A_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2B"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2B_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2C_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2D"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_FoldingStrut_2D_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Mustang_Cargo_Box_Fake"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MedicalStorage_ANVL_C8R"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_AEGS_Retaliator_Crew_Locker"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_C8R"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_Gladiator"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_Hawk"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_Hurricane"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_Hurricane_copilot"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_Terrapin"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_Terrapin_Medic_Crew"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ANVL_Terrapin_Medic_Patient"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_CNOU_Mustang"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_CRUS_Intrepid_1"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_CRUS_Spirit"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_CRUS_Starlifter"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Cutter"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Cutter_Rambler"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_DRAK_Clipper"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_DRAK_Clipper_Medical"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_DRAK_Corsair"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_DRAK_Cutlass_01"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_DRAK_Herald"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_DRAK_Vulture"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ESPR_Prowler"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_GAMA_Syulen"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_GLSN_Shiv"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Golem"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_GRIN_MDC"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_GRIN_MTC"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_GRIN_MXC"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_GRIN_STV"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MISC_Fortune"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MISC_Fury"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MISC_Fury_LX"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MISC_Fury_MX"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MISC_Starlite"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MRAI_Guardian"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MRAI_Guardian_Ext"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MRAI_Guardian_MX"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_MULE"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ORIG_350r"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Orig_m80"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_ORIG_X1"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Redeemer_01"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Redeemer_02"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Redeemer_03"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Redeemer_04"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Common_Personal_Locker"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Com_Suit_Locker_Overhead"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Lynx_Left"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Lynx_Right"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Polaris_Captain"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Polaris_Habs_L"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Polaris_Habs_R"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Polaris_Medical"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Ursa_Medivac"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Ursa_Medivac_L"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Ursa_Medivac_R"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Zeus"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Scorpius"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Scorpius_CoPilot"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Starlancer"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Starlancer_TAC"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Starlancer_TAC_DropRoom"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Starlancer_TAC_Lower"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Starlancer_TAC_Medical"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Template"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_Terrapin"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_TMBL_Storm"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_XNAA_SanTokYai"
+  }
+ ]
+}

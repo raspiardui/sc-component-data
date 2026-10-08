@@ -1,0 +1,2083 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "powerplant",
+ "count": 83,
+ "items": [
+  {
+   "name": "LumaCore",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": "Competition",
+   "subtype": "Power",
+   "record": "POWR_ACOM_S01_LumaCore_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "StarHeart",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "Power",
+   "record": "POWR_ACOM_S01_StarHeart_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SunFlare",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "Power",
+   "record": "POWR_ACOM_S01_SunFlare_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "LuxCore",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": "Competition",
+   "subtype": "Power",
+   "record": "POWR_ACOM_S02_LuxCore_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SolarFlare",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "Power",
+   "record": "POWR_ACOM_S02_SolarFlare_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "StarBurn",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "Power",
+   "record": "POWR_ACOM_S02_StarBurn_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Charger",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S01_Charger_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fierell Cascade",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S01_FierellCascade_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "QuadraCell",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S01_Quadracell_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 17,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Regulus",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S01_Regulus_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Bolide",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S02_Bolide_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Maelstrom",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S02_Maelstrom_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "QuadraCell MT",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S02_QuadracellMT_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 21,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Vortex",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S02_Vortex_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Centurion",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S03_Centurion_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drassik",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S03_Drassik_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fulgur",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S03_Fulgur_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "QuadraCell MX",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AEGS_S03_QuadracellMX_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 25,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Main Powerplant",
+   "type": "PowerPlant",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_AEGS_S04_Idris_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 29,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Main Powerplant",
+   "type": "PowerPlant",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_AEGS_S04_Reclaimer_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 28,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "DynaFlux",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S01_DynaFlux_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "HyperGen",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S01_HyperGen_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "JS-300",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S01_JS300_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 17,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "OverDrive",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S01_OverDrive_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "ExoGen",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S02_ExoGen_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "JS-400",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S02_JS400_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 21,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "TurboDrive",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S02_TurboDrive_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "UltraFlux",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S02_UltraFlux_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "JS-500",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S03_JS500_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 25,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MegaFlux",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S03_MegaFlux_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SmartGen",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S03_SmartGen_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SuperDrive",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_AMRS_S03_SuperDrive_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Defiant",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S00_Defiant_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 11,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Jennet",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S00_Jennet_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 11,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Steadfast",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S00_SteadFast_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 11,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Breton",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S01_Breton_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Endurance",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S01_Endurance_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 15,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fortitude",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S01_Fortitude_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 15,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Roughneck",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S01_Roughneck_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 15,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Diligence",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S02_Diligence_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 19,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Genoa",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S02_Genoa_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sedulity",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S02_Sedulity_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 19,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Trommel",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S02_Trommel_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 19,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Durango",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S03_Durango_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Ginzel",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S03_Ginzel_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 23,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Reliance",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_JUST_S03_Reliance_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 23,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "DuraJet",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S00_DuraJet_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "IonWave",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S00_IonWave_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Radix",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S00_Radix_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Radix",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S00_Radix_SCItem_SM_TE",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "IonBurst",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S01_IonBurst_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 14,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "PowerBolt",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S01_PowerBolt_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 14,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "ZapJet",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S01_ZapJet_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 14,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FullForce",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S02_FullForce_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 18,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "IonSurge",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S02_IonSurge_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 18,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SparkJet",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S02_SparkJet_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 18,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FullForce Pro",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S03_FullForcePro_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 22,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "IonSurge Pro",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S03_IonSurgePro_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 22,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SparkJet Pro",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_LPLT_S03_SparkJetPro_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 22,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Stellate",
+   "type": "PowerPlant",
+   "size": 4,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_ORIG_S04_890J_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 27,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "PowerPlant",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_PyroOutpost",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 10000,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Main Powerplant",
+   "type": "PowerPlant",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_RSI_S04_Bengal_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 29,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Stellate",
+   "type": "PowerPlant",
+   "size": 4,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_RSI_S04_Polaris_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 27,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_S01_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 15,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_S02_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 19,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_S03_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 23,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "PowerPlant",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_S04_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 27,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "LightBlossom",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S01_LightBlossom_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 14,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "MagnaBloom",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S01_MagnaBloom_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 14,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "WhiteRose",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S01_WhiteRose_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 15,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "DayBreak",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S02_DayBreak_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 18,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Lotus",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S02_Lotus_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 19,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Radiance",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S02_Radiance_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 18,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Celestial",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S03_Celestial_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 22,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "NewDawn",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S03_NewDawn_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 22,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "TigerLilly",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "Power",
+   "record": "POWR_SASU_S03_TigerLilly_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 23,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "DeltaMax",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "Power",
+   "record": "POWR_TYDT_S01_DeltaMax_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 13,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Slipstream",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "Power",
+   "record": "POWR_TYDT_S01_Slipstream_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 14,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SonicLite",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "Power",
+   "record": "POWR_TYDT_S01_SonicLite_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 13,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Cirrus",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "Power",
+   "record": "POWR_TYDT_S02_Cirrus_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 17,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Eclipse",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "Power",
+   "record": "POWR_TYDT_S02_Eclipse_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 18,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "GammaMax",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "Power",
+   "record": "POWR_TYDT_S02_GammaMax_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 17,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Mauler Power Plant",
+   "type": "PowerPlant",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Power",
+   "record": "POWR_VNCL_S04_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 100,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 29.0
+    }
+   ]
+  }
+ ]
+}

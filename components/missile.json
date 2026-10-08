@@ -1,0 +1,611 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "missile",
+ "count": 67,
+ "items": [
+  {
+   "name": "Spark I-G Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S01_CS_FSKI_Spark"
+  },
+  {
+   "name": "Pioneer I-G Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S01_EM_BEHR_Pioneer"
+  },
+  {
+   "name": "TaskForce I-G Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S01_EM_THCN_TaskForce"
+  },
+  {
+   "name": "Marksman I-G Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S01_IR_BEHR_Marksman"
+  },
+  {
+   "name": "Tempest II-G Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S02_CS_FSKI_Tempest"
+  },
+  {
+   "name": "StrikeForce II-G Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S02_CS_THCN_StrikeForce"
+  },
+  {
+   "name": "Dominator II-G Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S02_EM_TALN_Dominator"
+  },
+  {
+   "name": "Ignite II-G Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S02_IR_FSKI_Ignite"
+  },
+  {
+   "name": "Argos IX-G Torpedo",
+   "type": "Missile",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S03_CS_FSKI_Arrester"
+  },
+  {
+   "name": "Thunderbolt III-G Missile",
+   "type": "Missile",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S03_EM_FSKI_Thunderbolt"
+  },
+  {
+   "name": "Viper III-G Missile",
+   "type": "Missile",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S03_IR_NOVP_Viper"
+  },
+  {
+   "name": "Assailant IV-G Missile",
+   "type": "Missile",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S04_CS_TALN_Assailant"
+  },
+  {
+   "name": "Pathfinder IV-G Missile",
+   "type": "Missile",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S04_IR_BEHR_Pathfinder"
+  },
+  {
+   "name": "Stalker V-G Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S05_CS_TALN_Stalker"
+  },
+  {
+   "name": "Reaper V-G Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S05_EM_TALN_Reaper"
+  },
+  {
+   "name": "Scimitar V-G Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S05_EM_TALN_Scimitar"
+  },
+  {
+   "name": "Valkyrie V-G Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S05_IR_TALN_Valkyrie"
+  },
+  {
+   "name": "Hellion VII-G Missile",
+   "type": "Missile",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S07_IR_TALN_Hellion"
+  },
+  {
+   "name": "Argos IX-G Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S09_CS_TALN_Argos"
+  },
+  {
+   "name": "Seeker IX-G Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S09_EM_TALN_Seeker"
+  },
+  {
+   "name": "Typhoon IX-G Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissile",
+   "record": "GMISL_S09_IR_TALN_Typhoon"
+  },
+  {
+   "name": "Spark I Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S01_CS_FSKI_Spark"
+  },
+  {
+   "name": "Pioneer I Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S01_EM_BEHR_Pioneer"
+  },
+  {
+   "name": "TaskForce I Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S01_EM_THCN_TaskForce"
+  },
+  {
+   "name": "Marksman I Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S01_IR_BEHR_Marksman"
+  },
+  {
+   "name": "'Arrow' I Missile",
+   "type": "Missile",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S01_IR_VNCL_Arrow"
+  },
+  {
+   "name": "Tempest II Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S02_CS_FSKI_Tempest"
+  },
+  {
+   "name": "Tempest II Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S02_CS_FSKI_Tempest_CitCon"
+  },
+  {
+   "name": "StrikeForce II Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S02_CS_THCN_StrikeForce"
+  },
+  {
+   "name": "Dominator II Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S02_EM_TALN_Dominator"
+  },
+  {
+   "name": "Ignite II Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S02_IR_FSKI_Ignite"
+  },
+  {
+   "name": "Rattler II Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S02_IR_NOVP_Rattler"
+  },
+  {
+   "name": "'Bullet' II Missile",
+   "type": "Missile",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S02_IR_VNCL_Bullet"
+  },
+  {
+   "name": "Arrester III Missile",
+   "type": "Missile",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S03_CS_FSKI_Arrester"
+  },
+  {
+   "name": "Thunderbolt III Missile",
+   "type": "Missile",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S03_EM_FSKI_Thunderbolt"
+  },
+  {
+   "name": "Viper III Missile",
+   "type": "Missile",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S03_IR_NOVP_Viper"
+  },
+  {
+   "name": "'Chaos' III Missile",
+   "type": "Missile",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S03_IR_VNCL_Chaos"
+  },
+  {
+   "name": "Assailant IV Missile",
+   "type": "Missile",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S04_CS_TALN_Assailant"
+  },
+  {
+   "name": "Raptor IV Missile",
+   "type": "Missile",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S04_EM_TALN_Raptor"
+  },
+  {
+   "name": "Pathfinder IV Missile",
+   "type": "Missile",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S04_IR_BEHR_Pathfinder"
+  },
+  {
+   "name": "'Dragon' IV Missile",
+   "type": "Missile",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S04_IR_VNCL_Dragon"
+  },
+  {
+   "name": "Stalker V Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S05_CS_TALN_Stalker"
+  },
+  {
+   "name": "Reaper V Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S05_EM_TALN_Reaper"
+  },
+  {
+   "name": "Scimitar V Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S05_EM_TALN_Scimitar"
+  },
+  {
+   "name": "Valkyrie V Missile",
+   "type": "Missile",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S05_IR_TALN_Valkyrie"
+  },
+  {
+   "name": "Hellion VII Missile",
+   "type": "Missile",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Missile",
+   "record": "MISL_S07_IR_TALN_Hellion"
+  },
+  {
+   "name": "Argos IX Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S09_CS_TALN_Argos"
+  },
+  {
+   "name": "@item_NameMISL_S09_CS_TALN_Argos_2",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S09_CS_TALN_Argos_2"
+  },
+  {
+   "name": "Seeker IX Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S09_EM_TALN_Seeker"
+  },
+  {
+   "name": "Typhoon IX Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S09_IR_TALN_Typhoon"
+  },
+  {
+   "name": "EX-T10-CS \"Executor\" Torpedo",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_CS_BEHR_Executor"
+  },
+  {
+   "name": "Vanquisher X-CS Torpedo",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_CS_TALN_Vanquisher"
+  },
+  {
+   "name": "EX-T10-EM \"Executor\" Torpedo",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_EM_BEHR_Executor"
+  },
+  {
+   "name": "Vanquisher X-EM Torpedo",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_EM_TALN_Vanquisher"
+  },
+  {
+   "name": "EX-T10-IR \"Executor\" Torpedo",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_IR_BEHR_Executor"
+  },
+  {
+   "name": "VT-T10 \"Veritas\" Torpedo",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_IR_BEHR_Torpedo"
+  },
+  {
+   "name": "Vanquisher X-IR Torpedo",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_IR_TALN_Vanquisher"
+  },
+  {
+   "name": "Vanduul Cleaver",
+   "type": "Missile",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_IR_VNCL_Cleaver"
+  },
+  {
+   "name": "Argos IX Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S10_Template"
+  },
+  {
+   "name": "EX-T12-CS \"Executor\" Torpedo",
+   "type": "Missile",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S12_CS_BEHR_Executor"
+  },
+  {
+   "name": "Calamity XII-CS Torpedo",
+   "type": "Missile",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S12_CS_TALN_Calamity"
+  },
+  {
+   "name": "EX-T12-EM \"Executor\" Torpedo",
+   "type": "Missile",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S12_EM_BEHR_Executor"
+  },
+  {
+   "name": "Calamity XII-EM Torpedo",
+   "type": "Missile",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S12_EM_TALN_Calamity"
+  },
+  {
+   "name": "EX-T12-IR \"Executor\" Torpedo",
+   "type": "Missile",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S12_IR_BEHR_Executor"
+  },
+  {
+   "name": "Calamity XII-IR Torpedo",
+   "type": "Missile",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S12_IR_TALN_Calamity"
+  },
+  {
+   "name": "Argos IX Torpedo",
+   "type": "Missile",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Torpedo",
+   "record": "MISL_S12_Template"
+  },
+  {
+   "name": "Nova Pyrotechnica Venom Rocket",
+   "type": "Missile",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "NOVP_Rocket_Venom_S1_Strike_TL_IR"
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:37:47",
+ "type": "tractorbeam",
+ "count": 12,
+ "items": [
+  {
+   "name": "Durus Tractor Beam",
+   "type": "TractorBeam",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_ATLS_TractorBeam_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip S1 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_TractorBeam_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip S2 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_TractorBeam_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "ViseLock S1 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S1_Military_1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip TH1 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S1_template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip HV-S1 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S1_Utility_1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip PR-S1 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S1_Utility_2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "ViseLock S2 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S2_Military_1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip TH2 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S2_template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip HV-S2 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S2_Utility_1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip PR-S2 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S2_Utility_2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "SureGrip TH4 Tractor Beam",
+   "type": "TractorBeam",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "WEP_TractorBeam_S4_template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  }
+ ]
+}
