@@ -1,0 +1,2344 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "shield",
+ "count": 73,
+ "items": [
+  {
+   "name": "RS-Barrier",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_AEGS_S04_Reclaimer_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 14256.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Cloak",
+   "type": "Shield",
+   "size": 1,
+   "grade": 4,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S01_Cloak_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 404.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Mirage",
+   "type": "Shield",
+   "size": 1,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S01_Mirage_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 494.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Shimmer",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S01_Shimmer_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 426.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Veil",
+   "type": "Shield",
+   "size": 1,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S01_Veil_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 449.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Obscura",
+   "type": "Shield",
+   "size": 2,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S02_Obscura_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1421.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sheut",
+   "type": "Shield",
+   "size": 2,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S02_Sheut_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1496.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Shroud",
+   "type": "Shield",
+   "size": 2,
+   "grade": 4,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S02_Shroud_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1346.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Umbra",
+   "type": "Shield",
+   "size": 2,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ASAS_S02_Umbra_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1646.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Suldrath",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BANU_S01_Placeholder_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 438.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sukoran",
+   "type": "Shield",
+   "size": 2,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BANU_S02_Placeholder_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1459.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Castra",
+   "type": "Shield",
+   "size": 0,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S00_Castra_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 228.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Bulwark",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S01_Bulwark_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 410.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Guardian",
+   "type": "Shield",
+   "size": 1,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S01_Guardian_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 432.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Palisade",
+   "type": "Shield",
+   "size": 1,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S01_Palisade_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 475.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Steward",
+   "type": "Shield",
+   "size": 1,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S01_Steward_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 389.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Armada",
+   "type": "Shield",
+   "size": 2,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S02_Armada_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1296.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Aspis",
+   "type": "Shield",
+   "size": 2,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S02_Aspis_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1368.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Citadel",
+   "type": "Shield",
+   "size": 2,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S02_Citadel_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1440.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Rampart",
+   "type": "Shield",
+   "size": 2,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S02_Rampart_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1584.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Barbican",
+   "type": "Shield",
+   "size": 3,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S03_Barbican_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 14400.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Parapet",
+   "type": "Shield",
+   "size": 3,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S03_Parapet_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 15840.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Stronghold",
+   "type": "Shield",
+   "size": 3,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S03_Stronghold_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 13680.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Ward",
+   "type": "Shield",
+   "size": 3,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BASL_S03_Ward_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 12960.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "5SA 'Rhada'",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S01_5SA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 570.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "6SA 'Arbiter'",
+   "type": "Shield",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S01_6SA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 600.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "7SA 'Concord'",
+   "type": "Shield",
+   "size": 1,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S01_7SA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 660.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "5MA 'Chimalli'",
+   "type": "Shield",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S02_5MA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1900.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "6MA 'Kozane'",
+   "type": "Shield",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S02_6MA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 2000.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "7MA 'Lorica'",
+   "type": "Shield",
+   "size": 2,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S02_7MA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 2200.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "5CA 'Akura'",
+   "type": "Shield",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S03_5CA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 19000.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "6CA 'Bila'",
+   "type": "Shield",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S03_6CA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 20000.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "7CA 'Nargun'",
+   "type": "Shield",
+   "size": 3,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_BEHR_S03_7CA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 22000.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "AllStop",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S01_AllStop_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 602.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "AllStop",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S01_AllStop_SCItem_ResistGasclouds",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 602.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "ForceWall",
+   "type": "Shield",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S01_ForceWall_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 634.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FR-66",
+   "type": "Shield",
+   "size": 1,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S01_FR66_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 697.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SecureHyde",
+   "type": "Shield",
+   "size": 1,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S01_SecureHyde_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 570.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "CoverAll",
+   "type": "Shield",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S02_CoverAll_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 2112.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FR-76",
+   "type": "Shield",
+   "size": 2,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S02_FR76_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 2323.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FullStop",
+   "type": "Shield",
+   "size": 2,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S02_FullStop_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 2006.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SecureShield",
+   "type": "Shield",
+   "size": 2,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S02_SecureShield_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1901.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FR-86",
+   "type": "Shield",
+   "size": 3,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S03_FR86_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 23232.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "FullBlock",
+   "type": "Shield",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S03_FullBlock_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 21120.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SecureScreen",
+   "type": "Shield",
+   "size": 3,
+   "grade": 4,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S03_SecureScreen_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 19008.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SureStop",
+   "type": "Shield",
+   "size": 3,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S03_SureStop_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 20064.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S04_Bengal_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 232320.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Holdstrong",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S04_Idris_Pirate_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 77440.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Holdstrong",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S04_Idris_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 77440.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_GODI_S04_Javelin_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 154880.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Glacis",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_ORIG_S04_890J_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 26400.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Glacis",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_RSI_S04_Polaris_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 47520.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Shield",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_S01_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 475.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Shield",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_S02_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1584.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Shield",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_S03_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 15840.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_S04_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 14256.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 0,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "PIN",
+   "type": "Shield",
+   "size": 0,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S00_PIN_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 228.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 1,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "HEX",
+   "type": "Shield",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S01_HEX_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 432.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "INK",
+   "type": "Shield",
+   "size": 1,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S01_INK_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 389.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "WEB",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S01_WEB_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 410.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "BLOC",
+   "type": "Shield",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S02_BLOC_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1440.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "RPEL",
+   "type": "Shield",
+   "size": 2,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S02_RPEL_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1296.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "STOP",
+   "type": "Shield",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S02_STOP_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1368.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "ARMOR",
+   "type": "Shield",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S03_ARMOR_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 14400.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "GUARD",
+   "type": "Shield",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S03_GUARD_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 13680.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "HAVEN",
+   "type": "Shield",
+   "size": 3,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_SECO_S03_HAVEN_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 12960.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "@item_NameSHLD_VNCL_S04_Mauler",
+   "type": "Shield",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SHLD_VNCL_S04_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 77440.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 6.0
+    }
+   ]
+  },
+  {
+   "name": "Falco",
+   "type": "Shield",
+   "size": 1,
+   "grade": 4,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_YORM_S01_Falco_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 346.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Jaghte",
+   "type": "Shield",
+   "size": 1,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_YORM_S01_Jaghte_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 384.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Targa",
+   "type": "Shield",
+   "size": 1,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_YORM_S01_Targa_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 365.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 2,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Bamoty",
+   "type": "Shield",
+   "size": 2,
+   "grade": 4,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_YORM_S02_Bamoty_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1152.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Haltur",
+   "type": "Shield",
+   "size": 2,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_YORM_S02_Haltur_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1280.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Trenta",
+   "type": "Shield",
+   "size": 2,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "SHLD_YORM_S02_Trenta_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1216.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  }
+ ]
+}

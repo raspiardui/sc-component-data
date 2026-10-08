@@ -1,0 +1,1853 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "seatdashboard",
+ "count": 205,
+ "items": [
+  {
+   "name": "Aegis Avenger Stalker",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Eclipse_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Gladius_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_SCItem_Dashboard_Captain_Room"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_Dashboard_ATC_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_ATC_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_ATC_Right"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Bridge_Left"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Bridge_Left_Remote"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Bridge_Left_Remote_Back"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Bridge_Right"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Bridge_Right_Remote"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Bridge_Right_Remote_Back"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Brig"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Captain"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_CoPilot_Crashed"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Dashboard_Pilot_M_PU"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Bridge_Left"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Bridge_Left_Remote_Large_Turret"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Bridge_Right"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Bridge_Right_Remote_Large_Turret"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_CoPilot_DamagedJavelin"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Security"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Dashboard_TractorBeam_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Dashboard_TractorBeam_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Drone_Left_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Drone_Right_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Drone_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Dashboard_Esc_Pod"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Firebird_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Peregrine_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Raven_EX_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Raven_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Dashboard_Esc_Pod"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Arrow_Dashboard_Pilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Asgard_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Ballista_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Centurion_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "Anvil Gladiator",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Gladiator_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hawk_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7A_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7A_Mk1_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Dashboard_Copilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Mk2_Dashboard_Copilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Mk2_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7C_Mk2_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hurricane_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Lightning_F8_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Pisces_C8R_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Pisces_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Spartan_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Terrapin_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Terrapin_SCItem_Dashboard_Pilot_Medic"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Valkyrie_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOLE_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOLE_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOLE_SCItem_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_1T_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_RAFT_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_RAFT_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BANU_Defender_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_HoverQuad_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Mustang_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Nomad_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Intrepid_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Copilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starfighter_SCItem_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_Dashboard_Pilot_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Buccaneer_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Dashboard_Copilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Dashboard_Support"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Dashboard_SupportLeft"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Dashboard_SupportRight"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Dashboard_TractorBeam"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Dashboard_Copilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutter_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Dashboard_Pilot_Pink"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Dashboard_Pilot_YellowJacket"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Golem_OX_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Golem_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Herald_SCItem_Dashboard_Station"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Drone_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "Cockpit",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Krig_l21_wolf_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Krig_l22_alphawolf_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P52_Merlin_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P72_Archimedes_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_S65_Stingray_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_Esc_Pod_Lower_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_Esc_Pod_Lower_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_Esc_Pod_Upper_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_Esc_Pod_Upper_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_Passenger_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_Passenger_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_A_Dashboard_Pilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Copilot_Dashboard"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_Dashboard_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_Dashboard_Tractor"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Razor_Dashboard_EX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Razor_Dashboard_LX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Razor_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Base_SCItem_Dashboard_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Base_SCItem_Dashboard_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Base_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Base_SCItem_Dashboard_Sup_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Base_SCItem_Dashboard_Sup_Right"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Copilot_Dashboard"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Drone_Dashboard"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Pilot_Dashboard"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Support_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Pulse_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Orbital_Sentry_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_100i_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_300i_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_315p_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_350r_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_Dashboard_Bridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_Dashboard_Bridge_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_SCItem_Dashboard_Captain_Room"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Dashboard_Bridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Dashboard_Bridge_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Dashboard_Expl_Module_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Dashboard_Expl_Module_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_85X_SCItem_Dashboard_Copilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_85X_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Dashboard_BattleBridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Dashboard_BattleBridge_Middle"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Dashboard_BattleBridge_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Dashboard_Bridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Dashboard_Bridge_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_m50_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Orig_m80_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_X1_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_GS_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_GS_SE_Pilot_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_Dashboard_Large_Remote_Turret"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Dashboard_ATC_NoFlight"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Dashboard_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Dashboard_TurretSeat_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Dashboard_TurretSeat_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_Antares_SCItem_Dashboard_Gunner"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_Antares_SCItem_Dashboard_MissileControl"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_SCItem_Dashboard_Gunner"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Template_SCItem_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Blade_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Glaive_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Mauler_Support_Dashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Scythe_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Stinger_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XIAN_Nox_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XIAN_Scout_SCItem_Dashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XNAA_SanTokYai_Dashboard_Pilot"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_890J"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_AEGS_Retaliator"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_Drak"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_Freelancer"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_Grin_MTC"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_Hammerhead_GS"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_PolarisScaled"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_SRV"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_StandardShip"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_StandardShip_90"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_StandardShip_95"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_Template"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_Template_FlatInteraction"
+  },
+  {
+   "name": "Screen",
+   "type": "SeatDashboard",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SoftLock_EngineeringScreen_Tiburon"
+  }
+ ]
+}

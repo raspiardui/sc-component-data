@@ -1,0 +1,2510 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "shieldcontroller",
+ "count": 139,
+ "items": [
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Avenger",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Eclipse",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Gladius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Gladius_MM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Hammerhead",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Hammerhead_MM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Idris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Javelin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Reclaimer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Redeemer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Retaliator",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Sabre",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Sabre_Firebird",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Sabre_Peregrine",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Tiburon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Vanguard",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_AEGS_Vanguard_MM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Arrow",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Asgard",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Ballista",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Carrack",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Gladiator",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Hawk",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Hornet",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Hornet_MM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Hurricane",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Lightning",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Lightning_F8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Paladin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Pisces",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Terrapin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Terrapin_Medic",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ANVL_Valkyrie",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_CSV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_MOLE",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_MOTH",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_MPUV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_MPUV_1T",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_MPUV_Transport",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_RAFT",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ARGO_SRV",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_BANU_Defender",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CNOU_HoverQuad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CNOU_Mustang",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CNOU_Nomad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CRUS_Intrepid",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CRUS_Spirit",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CRUS_Starfighter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CRUS_Starlifter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_CRUS_Star_Runner",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_Destructible_Probe",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Buccaneer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Buccaneer_MM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Caterpillar",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Clipper",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Command_Module",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Corsair",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Cutlass",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Cutter",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Cutter_Scout",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Dragonfly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Golem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Herald",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Ironclad",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Ironclad_Assault",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Mule",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Pitbull",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_DRAK_Vulture",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ESPR_Prowler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ESPR_Talon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_GAMA_Railen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_GAMA_Syulen",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_GAMA_Tyilui",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_GLSN_Basher",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_GLSN_Shiv",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_GRIN_ROC",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_Krig_l21_wolf",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_Krig_l22_alphawolf",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_KRIG_Merlin",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_KRIG_Merlin_MM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_KRIG_S65_Stingray",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Fortune",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Freelancer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Freelancer_MAX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Freelancer_MIS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Fury",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Hull_A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Hull_B",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Hull_C",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Prospector",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Razor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Reliant",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Starfarer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Starlancer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MISC_Starlite",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MRAI_Guardian",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MRAI_Guardian_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MRAI_Pulse",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_MXC",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_Orbital_Sentry",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_Orbital_Sentry_Turret",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_100",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_300",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_400i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_600i",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_85x",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_890Jump",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_m50",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_m80",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_ORIG_X1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_Probe",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_Quadrant",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Apollo",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Aurora",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Aurora_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Bengal",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Constellation",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Constellation_MM",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Hermes",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Lynx",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Mantis",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Meteor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Perseus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Polaris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Salvation",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Scorpius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Ursa",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Zeus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_TMBL_Cyclone",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_TMBL_Nova",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_TMBL_Storm",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_VNCL_Blade",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_VNCL_Glaive",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_VNCL_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_VNCL_Scythe",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_VNCL_Stinger",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_XIAN_Nox",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_XIAN_Scout",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_XNAA_SanTokYai",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  }
+ ]
+}

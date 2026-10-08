@@ -1,0 +1,1205 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "cargogrid",
+ "count": 133,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_CargoGrid_Stalker"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_CargoGrid_Titan"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_GS_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid_AdditionalStorage"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid_CargoRoom_Back"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid_CargoRoom_Front"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid_CargoRoom_Medium"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid_CargoRoom_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid_MissileRoom_Back"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_CargoGrid_MissileRoom_Front"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_CargoGrid_Hangar"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_CargoGrid_Hangar_Aux"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_CargoGrid_M"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_CargoGrid_S"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_CargoGrid_XL"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_CargoGrid_Large"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_CargoGrid_Salvage_Front_TEMP"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_CargoGrid_Salvage_Rear_TEMP"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_CargoGrid_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_CargoGrid_Front"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_CargoGrid_Front_left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_CargoGrid_Front_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_CargoGrid_Front_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_CargoGrid_Rear_main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_CargoGrid_Mid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_CargoGrid_F7C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_CargoGrid_F7C_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Pisces_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Asgard_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Valkyrie_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_CargoGrid_RearLift"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_CargoGrid_Side"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_CargoGrid_Side_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_1T_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_RAFT_CargoGrid_192"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_RAFT_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Mustang_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Nomad_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Intrepid_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "orig_m80_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_C1_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Large"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Large_M2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Small_A2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_CargoGrid_Small_M2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_CargoGrid_Large"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_CargoGrid_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_CargoGrid_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_CargoGrid_Module_Ladder"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_CargoGrid_Module_Walkway"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_CargoGrid_Nose"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_CargoGrid_Nose_Access"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_CargoGrid_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Red_CargoGrid_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Red_CargoGrid_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Shiv_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutter_CargoGrid_2Stack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutter_CargoGrid_4Stack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Golem_OX_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_CargoGrid_Hold"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_CargoGrid_Hold_Center"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_CargoGrid_SecureHold"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_CargoGrid_SecureHold_Center"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Vulture_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Utility_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_CargoGrid_Large"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_CargoGrid_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Syulen_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_MTC_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_UTV_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fortune_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fortune_CargoGrid_Secondary"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_CargoGrid_Mid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_CargoGrid_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_CargoGrid_Rear_DUR"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_CargoGrid_Rear_MAX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_A_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_A_CargoPlate"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_CargoGrid_Outer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_CargoGrid_Kore"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_CargoGrid_Tana"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_CargoGrid_Center"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_CargoGrid_Side"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_CargoGrid_Side_Alcove"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_CargoGrid_Max"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_CargoGrid_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_100i_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_135c_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_300i_CargoGrid_Front"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_300i_CargoGrid_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600_CargoGrid_Main_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600_CargoGrid_Module_Large"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600_CargoGrid_Module_Small"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890Jump_CargoGrid_Hangar"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890Jump_CargoGrid_Hangar_Wide"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890Jump_CargoGrid_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_CL_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_ES_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_CargoGrid_LeftRight"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Module_CargoGrid_RightLeft"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Taurus_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Taurus_CargoGrid_Tail"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "RSI_Perseus_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_CargoGrid_CargoElevator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Salvation_CargoGrid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Cargo_CargoGrid_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Cargo_CargoGrid_Main"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Cargo_CargoGrid_Right"
+  }
+ ]
+}

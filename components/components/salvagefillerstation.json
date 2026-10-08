@@ -1,0 +1,80 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "salvagefillerstation",
+ "count": 8,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_AEGS_Reclaimer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_ARGO_MOTH_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_ARGO_MOTH_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_DRAK_Vulture"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_MISC_Fortune_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_MISC_Fortune_Right"
+  },
+  {
+   "name": "Filler Station",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_RSI_Salvation"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFillerStation",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFillerStation_Template"
+  }
+ ]
+}

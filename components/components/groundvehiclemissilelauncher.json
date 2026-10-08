@@ -1,0 +1,80 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "groundvehiclemissilelauncher",
+ "count": 8,
+ "items": [
+  {
+   "name": "Anvil Ballista S05 Missile Rack",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_ANVL_Ballista_Quad_S05"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_S01_TMBL_Storm_AA_Custom"
+  },
+  {
+   "name": "MSD-212 Missile Rack",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_S02_BEHR_Single_S02_Cyclone_AA"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_S02_TMBL_Storm_AA_Custom"
+  },
+  {
+   "name": "MSD-322 Missile Rack",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_S03_TMBL_Dual_S02_Cyclone_MT_Left"
+  },
+  {
+   "name": "MSD-322 Missile Rack",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_S03_TMBL_Dual_S02_Cyclone_MT_Right"
+  },
+  {
+   "name": "Reliant Tana Missile Launcher",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_S06_TMBL_Nova_Custom"
+  },
+  {
+   "name": "Anvil Ballista S07 Missile Rack",
+   "type": "GroundVehicleMissileLauncher",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "GroundVehicleMissileRack",
+   "record": "GMRCK_S07_ANVL_Ballista_Duel"
+  }
+ ]
+}

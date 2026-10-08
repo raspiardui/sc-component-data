@@ -1,0 +1,134 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "bomblauncher",
+ "count": 14,
+ "items": [
+  {
+   "name": "Aegis Eclipse 20xS3 Bomb Rack",
+   "type": "BombLauncher",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S03_AEGS_Eclipse"
+  },
+  {
+   "name": "Aegis Retaliator 64xS3 Front Bomb Rack",
+   "type": "BombLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S03_AEGS_Retaliator_Front"
+  },
+  {
+   "name": "Aegis Retaliator 48xS3 Rear Bomb Rack",
+   "type": "BombLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S03_AEGS_Retaliator_Rear"
+  },
+  {
+   "name": "Anvil Gladiator S3 Bomb Rack",
+   "type": "BombLauncher",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S03_ANVL_Gladiator"
+  },
+  {
+   "name": "CST-313 \"Castillo\"",
+   "type": "BombLauncher",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S03_BEHR_Single_S03"
+  },
+  {
+   "name": "Aegis Eclipse 4xS5 Bomb Rack",
+   "type": "BombLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S05_AEGS_Eclipse"
+  },
+  {
+   "name": "Aegis Retaliator 8xS5 Front Bomb Rack",
+   "type": "BombLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S05_AEGS_Retaliator_Front"
+  },
+  {
+   "name": "Aegis Retaliator 8xS5 Rear Bomb Rack",
+   "type": "BombLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S05_AEGS_Retaliator_Rear"
+  },
+  {
+   "name": "Anvil Gladiator S5 Bomb Rack",
+   "type": "BombLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S05_ANVL_Gladiator"
+  },
+  {
+   "name": "Aegis Eclipse 1xS10 Bomb Rack",
+   "type": "BombLauncher",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_S10_AEGS_Eclipse"
+  },
+  {
+   "name": "MSD-313 Missile Rack",
+   "type": "BombLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_CRUS_Spirit_A1"
+  },
+  {
+   "name": "MSD-313 Missile Rack",
+   "type": "BombLauncher",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_CRUS_STARL_Left"
+  },
+  {
+   "name": "MSD-313 Missile Rack",
+   "type": "BombLauncher",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "BMBRCK_CRUS_STARL_Right"
+  },
+  {
+   "name": "MSD-313 Missile Rack",
+   "type": "BombLauncher",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "BombRack",
+   "record": "MRCK_S03_TEMP_BOMB"
+  }
+ ]
+}

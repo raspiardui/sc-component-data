@@ -1,0 +1,17 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "salvagefieldsupporter",
+ "count": 1,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageFieldSupporter",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageFieldSupporter"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "missilecontroller",
+ "count": 15,
+ "items": [
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_16"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_8"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_A2_Bomber"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_Drak_Ironclad"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_DRAK_Pitbull"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_Gama_Syulen"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_MISC_Starlancer"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_Polaris_Torpedo"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_RSI_Aurora_Mk2"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_Sabre_Firebird"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_SanTokYai"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_Spirit_A1"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_TMBL_Storm_AA"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_VNCL_Mauler"
+  }
+ ]
+}

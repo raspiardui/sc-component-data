@@ -1,0 +1,62 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "salvageinternalstorage",
+ "count": 6,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageInternalStorage",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageInternalStorage"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageInternalStorage",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageInternalStorage_AEGS_Reclaimer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageInternalStorage",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageInternalStorage_ARGO_MOTH"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageInternalStorage",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageInternalStorage_DRAK_Vulture"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageInternalStorage",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageInternalStorage_MISC_Fortune"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SalvageInternalStorage",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "SalvageInternalStorage_RSI_Salvation"
+  }
+ ]
+}

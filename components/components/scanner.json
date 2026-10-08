@@ -1,0 +1,26 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "scanner",
+ "count": 2,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Scanner",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Scanner",
+   "record": "SCNR_S02_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Scanner",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Scanner",
+   "record": "SCNR_TARS_S02_Resonance"
+  }
+ ]
+}

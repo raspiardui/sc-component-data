@@ -1,0 +1,9558 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "mainthruster",
+ "count": 382,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Avenger_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Avenger_Titan_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Avenger_Warlock_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Eclipse_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Gladius_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Hammerhead_GS_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Hammerhead_GS_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Hammerhead_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Hammerhead_Thruster_Main_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "AEGS_Idris_Thruster_Main_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "AEGS_Idris_Thruster_Main_02",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "AEGS_Idris_Thruster_Main_Fixed_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Javelin_Thruster_Main_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Javelin_Thruster_Main_01_Invulnerable",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Javelin_Thruster_Main_02",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Javelin_Thruster_Main_02_Invulnerable",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Reclaimer_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Reclaimer_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Redeemer_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Redeemer_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Redeemer_Thruster_Nutcracker",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Retaliator_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Retaliator_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Sabre_Firebird_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Sabre_Peregrine_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Sabre_Raven_EX_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Sabre_Raven_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Sabre_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Tiburon_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Tiburon_Thruster_Main_bottom_left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Tiburon_Thruster_Main_bottom_right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Tiburon_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Tiburon_Thruster_Main_top_left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Tiburon_Thruster_Main_top_right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Harbinger_Thruster_Main_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Harbinger_Thruster_Main_02",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Hoplite_Thruster_Main_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Hoplite_Thruster_Main_02",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Sentinel_Thruster_Main_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Sentinel_Thruster_Main_02",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Thruster_Main_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "AEGS_Vanguard_Thruster_Main_02",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Arrow_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Asgard_Thruster_Main_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Asgard_Thruster_Main_Rear",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Carrack_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Carrack_Thruster_Main_Large",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Carrack_Thruster_Main_Small",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "ANVL_Gladiator_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hawk_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7A_Mk1_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7A_Mk2_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7A_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7CM_Mk2_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7CM_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7CR_Mk2_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7CS_Mk2_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7C_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hornet_F7_Mk2_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Hurricane_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Lightning_F8_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Lightning_F8_Thruster_Main_DarkBlue",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Lightning_F8_Thruster_Main_Grey",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Lightning_F8_Thruster_Main_LightBlue",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Lightning_F8_Thruster_Main_White",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_Thruster_Vtol",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_Thruster_Vtol_right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Pisces_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Pisces_Thruster_Main_Left_C8R",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Pisces_Thruster_Main_Left_C8X",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Pisces_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Pisces_Thruster_Main_Right_C8R",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Pisces_Thruster_Main_Right_C8X",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Terrapin_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Terrapin_Thruster_Main_Medic",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Valkyrie_Thruster_Main_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Valkyrie_Thruster_Main_Front",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ANVL_Valkyrie_Thruster_Main_Rear",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MOLE_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MOLE_Thruster_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MOLE_Thruster_VTOL_Rear",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MOTH_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MOTH_Thruster_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MOTH_Thruster_VTOL_Rear",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MPUV_1T_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MPUV_1T_Thruster_Main_Fixed",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "ARGO_MPUV_1T_Thruster_Main_Joint",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MPUV_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_MPUV_Thruster_Main_Fixed",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "ARGO_MPUV_Thruster_Main_Joint",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_RAFT_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_RAFT_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_RAFT_Thruster_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ARGO_RAFT_Thruster_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_Thruster_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_Thruster_VTOL_Front",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_Thruster_VTOL_Small",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "BANU_Defender_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_HoverQuad_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Beta_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Beta_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Delta_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Delta_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Gamma_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Gamma_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Mustang_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Nomad_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CNOU_Nomad_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Intrepid_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Intrepid_Thruster_Main_Large",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Thruster_Main_A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Thruster_Main_B",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Thruster_VTOL_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Thruster_VTOL_Aux_Front",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Thruster_VTOL_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starfighter_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starfighter_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_Main_A2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_Main_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_Main_Aux_1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_Main_M2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_VTOL_Side",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_VTOL_Side_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_VTOL_Wing_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "CRUS_Starlifter_Thruster_VTOL_Wing_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_Thruster_Main_Extra",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Buccaneer_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Caterpillar_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Caterpillar_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_Thruster_Main_Aux_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_Thruster_Main_Aux_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_Thruster_Main_Bottom",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_Thruster_Main_Top",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Command_Module_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Command_Module_Thruster_Main_Lower",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Thruster_Aux_B",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Thruster_Aux_C",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Thruster_Main_A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Blue_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Blue_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Red_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Red_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Steel_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Steel_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutlass_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutter_Rambler_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutter_Rambler_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutter_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutter_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutter_Thruster_Main_Scout",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Cutter_Thruster_Main_Scout_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Dragonfly_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Golem_OX_Thruster_Main_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Golem_OX_Thruster_Main_VTOL_R",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Golem_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Golem_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Golem_Thruster_Main_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Golem_Thruster_Main_VTOL_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Golem_Thruster_Main_VTOL_Small",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Herald_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Herald_Thruster_Aux_V2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Herald_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Herald_Thruster_Main_V2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Ironclad_Assault_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Ironclad_Assault_Thruster_Main_Secondary",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Ironclad_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Ironclad_Thruster_Main_Secondary",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Main Thruster",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Pitbull_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "DRAK_Vulture_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Thruster_Main_Utility",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ESPR_Talon_Thruster_Main_BL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ESPR_Talon_Thruster_Main_BR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ESPR_Talon_Thruster_Main_TL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ESPR_Talon_Thruster_Main_TR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Thruster_Main_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Retro",
+   "record": "GAMA_Railen_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Thruster_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Thruster_VTOL_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GAMA_Syulen_Thruster_Mains_Large",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GAMA_Syulen_Thruster_Mains_Small",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_Thruster_Main_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Retro",
+   "record": "GAMA_Tyilui_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_Thruster_VTOL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_Thruster_VTOL_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GLSN_Basher_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GLSN_Basher_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GLSN_Shiv_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GLSN_Shiv_Thruster_Main_Side",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GLSN_Shiv_Thruster_Main_Side_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GLSN_Shiv_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "GLSN_Shiv_Thruster_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_l21_Wolf_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_l21_Wolf_Thruster_Main_Wing",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_l22_AlphaWolf_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_l22_AlphaWolf_Thruster_Main_Wing",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "KRIG_P52_Merlin_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "KRIG_P72_Archimedes_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_S65_Stingray_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_S65_Stingray_Thruster_Main_Side",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Fortune_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Fortune_Thruster_Main_Front",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Fortune_Thruster_Main_Rear",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Fortune_Thruster_Main_Rear_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Fortune_Thruster_Main_Rear_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Freelancer_Thruster_DUR_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Freelancer_Thruster_DUR_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Freelancer_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Freelancer_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MISC_Fury_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MISC_Fury_Thruster_Main_Bottom",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MISC_Fury_Thruster_Main_Bottom_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MISC_Fury_Thruster_Main_Bottom_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MISC_Fury_Thruster_Main_LX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MISC_Fury_Thruster_Main_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Hull_A_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Hull_A_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Thruster_Main_Lower",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Thruster_Main_Upper",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Hull_C_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Prospector_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Prospector_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Razor_EX_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Razor_LX_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Razor_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Reliant_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starfarer_Gemini_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starfarer_Gemini_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starfarer_Gemini_Thruster_Main_Derelict",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starfarer_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starfarer_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlancer_TAC_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlancer_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlancer_Thruster_Main_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlancer_Thruster_Main_Side",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlite_Thruster_Main_Bottom_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlite_Thruster_Main_Bottom_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlite_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MISC_Starlite_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MRAI_Guardian_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MRAI_Guardian_Thruster_Main_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MRAI_Guardian_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "MRAI_Guardian_Thruster_Main_Right_MX",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Grav-Lev 1",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Pulse_LX_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MRAI_Pulse_LX_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "MRAI_Pulse_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_100i_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_100i_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_125a_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_125a_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_135c_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_135c_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_300i_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_315p_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_350r_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_400i_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_400i_Thruster_Main_Sub",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_400i_Thruster_Main_Sub_R",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_600i_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_85X_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_890_Jump_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_890_Jump_Thruster_Main_BL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_890_Jump_Thruster_Main_BR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_890_Jump_Thruster_Main_TL",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_890_Jump_Thruster_Main_TR",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_M50_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_M50_Thruster_Main_AT",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_M50_Thruster_Main_Dummy",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_m80_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_m80_Thruster_Main_left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_m80_Thruster_Main_middle",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_m80_Thruster_Main_right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_X1_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "ORIG_X1_Thruster_Main_Velocity",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Apollo_Medivac_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Apollo_Medivac_Thruster_Main_Nacelle",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Apollo_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Apollo_Thruster_Main_Nacelle",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_CL_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_CL_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_ES_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_ES_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_CL_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_CL_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_CL_Thruster_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_ES_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_ES_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_ES_Thruster_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_LN_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_LN_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_LX_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_LX_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_LX_Thruster_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_MR_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_MR_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_MR_Thruster_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_Thruster_LN_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_GS_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_LN_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_LN_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_LN_Thruster_SG_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_LX_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_LX_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Thruster_Main_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_MR_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_MR_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_Thruster_LN_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_Thruster_LN_SG_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_Thruster_LN_SG_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Aurora_Thruster_Retro_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "RSI_Bengal_Thruster_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "RSI_Bengal_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "RSI_Bengal_Thruster_Main_Large",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "RSI_Bengal_Thruster_Main_Medium",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "RSI_Bengal_Thruster_Main_Small",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Andromeda_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Andromeda_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Aquila_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Aquila_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Phoenix_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Phoenix_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Taurus_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Constellation_Taurus_Thruster_Retro",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Hermes_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Hermes_Thruster_Main_Nacelle",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Mantis_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Meteor_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Meteor_Thruster_Main_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Thruster_Main_Bottom_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Thruster_Main_Bottom_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Thruster_Main_Top_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Thruster_Main_Top_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Thruster_Main_Inner",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Thruster_Main_Outer",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Salvation_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Salvation_Thruster_Main_Large_Top_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Salvation_Thruster_Main_Large_Top_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Salvation_Thruster_Main_Small_Bottom_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Salvation_Thruster_Main_Small_Bottom_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Scorpius_Thruster_Main_Bottom_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Scorpius_Thruster_Main_Bottom_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Scorpius_Thruster_Main_Top_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "RSI_Scorpius_Thruster_Main_Top_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_CL_Thruster_Main_Bottom_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_CL_Thruster_Main_Bottom_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_CL_Thruster_Main_Top_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_CL_Thruster_Main_Top_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_ES_Thruster_Main_Bottom_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_ES_Thruster_Main_Bottom_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_ES_Thruster_Main_Top_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_ES_Thruster_Main_Top_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Thruster_Main_Bottom_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Thruster_Main_Bottom_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Thruster_Main_Top_Left",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Thruster_Main_Top_Right",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Blade_Thruster_Main_Fixed_01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Blade_Thruster_Main_Fixed_02",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Glaive_Thruster_Main_Fixed",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Mauler_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Thruster Main Aux",
+   "type": "MainThruster",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Mauler_Thruster_Main_Aux",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Scythe_Thruster_Main_Fixed",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Stinger_Thruster_Main_Fixed",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "VNCL_Stinger_Thruster_Main_Fixed_Small",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FixedThruster",
+   "record": "XIAN_Nox_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "XIAN_Scout_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "XNAA_SanTokYai_Thruster_Main",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "MainThruster",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "JointThruster",
+   "record": "XNAA_SanTokYai_Thruster_Main_Bottom",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  }
+ ]
+}

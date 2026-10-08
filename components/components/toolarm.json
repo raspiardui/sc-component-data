@@ -1,0 +1,161 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "toolarm",
+ "count": 17,
+ "items": [
+  {
+   "name": "RN-7s",
+   "type": "ToolArm",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_RefuelNozzle_ArmOnly_Starfarer"
+  },
+  {
+   "name": "RN-7s",
+   "type": "ToolArm",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_RefuelNozzle_ArmOnly_Starfarer_AI"
+  },
+  {
+   "name": "RN-7s",
+   "type": "ToolArm",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_RefuelNozzle_ArmOnly_StarLite"
+  },
+  {
+   "name": "Mining Arm",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_Arm"
+  },
+  {
+   "name": "Mining Arm",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Golem_Mining_Arm"
+  },
+  {
+   "name": "Mining Arm",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Prospector_Mining_Arm"
+  },
+  {
+   "name": "Mining Arm",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_MainTractorBeamArm"
+  },
+  {
+   "name": "Mining Arm",
+   "type": "ToolArm",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Utility_Tractor_Beam_Arm"
+  },
+  {
+   "name": "Tractor Turret",
+   "type": "ToolArm",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_Utility_Tractor_Beam_Arm"
+  },
+  {
+   "name": "Mining Arm",
+   "type": "ToolArm",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_Tractor_Beam_Arm"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Salvage_Arm"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_Salvage_Arm"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Vulture_Salvage_Arm_Left"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Vulture_Salvage_Arm_Right"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fortune_Salvage_Arm"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Salvation_Salvage_Arm_Left"
+  },
+  {
+   "name": "@itemPort_port_SalvageArmR",
+   "type": "ToolArm",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Salvation_Salvage_Arm_Right"
+  }
+ ]
+}

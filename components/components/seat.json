@@ -1,0 +1,3725 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "seat",
+ "count": 413,
+ "items": [
+  {
+   "name": "@item_TypeSeatDashboard",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Dashboard_Captain"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Avenger_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Eclipse_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Gladius_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_GS_SCItem_Pilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_GS_SeatDashboard_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_GS_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_SCItem_Copilot_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_SCItem_Engineer_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_SCItem_Pilot_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_SCItem_Seat_Captain_Room"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_ATC_Seat_NoArmrests"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_ATC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Left_Back"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Left_Back_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Left_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Right_Back"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Right_Back_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Bridge_Rear_Right_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Brig"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Captain_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Comms"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_CoPilot_Crashed"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Pilot_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Pilot_M"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Science"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Security"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_SCItem_Seat_Tactical"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Bridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Bridge_Left_RemoteTurret"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Bridge_Left_RemoteTurret_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Bridge_Right_RemoteTurret"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Bridge_Right_RemoteTurret_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Bridge_Right_Tactical"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Captain_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Pilot_Blocked"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_SCItem_Seat_Security"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Drone_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Remote_Turret_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Remote_Turret_Console_2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Scanning_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Scanning_Console_2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_SCItem_Engineer_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Seat_Drone_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Seat_Drone_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Seat_TractorBeam_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_Seat_TractorBeam_Right"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Seat_Bed_Lower_Left"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Seat_Bed_Lower_Right"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Seat_Bed_Upper_Left"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Seat_Bed_Upper_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Support_Seat_Front"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Redeemer_SCItem_Support_Seat_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Engineer_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Seat_Bed_Lower_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Seat_Bed_Lower_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Seat_Bed_Rear_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Seat_Bed_Rear_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Seat_Bed_Upper_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Seat_Bed_Upper_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Retaliator_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Firebird_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Peregrine_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Raven_EX_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_Raven_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Sabre_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Tiburon_Copilot_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Tiburon_SCItem_Remote_Turret_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Tiburon_SCItem_Remote_Turret_Seat_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Tiburon_SeatDashboard_Copilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Tiburon_SeatDashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Engineer_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Seat_Bed_Lower"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Seat_Bed_Lower_Sentinel"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Seat_Bed_Upper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Seat_Bed_Upper_Sentinel"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Vanguard_Sentinel_SCItem_Engineer_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Arrow_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Asgard_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Ballista_SCItem_SeatDashboard_Gunner"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Bridge_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Cart_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Seat_Drone_Left"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Seat_Drone_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Seat_Support_Left"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Carrack_SCItem_Seat_Support_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Centurion_SCItem_SeatDashboard_Gunner"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Gladiator_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hawk_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hawk_Seat_Prisoner"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7A_Mk1_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7A_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Mk2_Seat_Copilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Mk2_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Seat_Copilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7CM_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_F7C_Mk2_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hornet_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Hurricane_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Lightning_F8_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_co_pilot_seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_Pilot_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_SCItem_Remote_Turret_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_SCItem_Remote_Turret_Seat_Right"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_SCItem_Seat_Bed_Lower_Left"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_SCItem_Seat_Bed_Lower_Right"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_SCItem_Seat_Bed_Upper_Left"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Paladin_SCItem_Seat_Bed_Upper_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Pisces_C8R_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Pisces_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Terrapin_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Terrapin_SCItem_Seat_Support"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Valkyrie_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Valkyrie_Turret_Console_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ANVL_Valkyrie_Turret_Console_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOLE_SCItem_CoPilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOLE_SCItem_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_SCItem_CoPilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MOTH_SCItem_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_1T_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_SCItem_Seat_Cargo"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_RAFT_SCItem_Seat_Cargo"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_RAFT_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_RAFT_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_SRV_SCItem_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BANU_Defender_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "BANU_Defender_Seat_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_HoverQuad_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Mustang_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CNOU_Nomad_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Collector_SCItem_Seat_ATC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Herclues_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Intrepid_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Seat_Copilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Seat_Copilot_C1"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Spirit_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starfighter_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Bomb_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Turret_Seat_Bridge"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Turret_Seat_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Starlifter_SCItem_Turret_Seat_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "CRUS_Star_Runner_Seat_Scanning"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Buccaneer_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Seat_Copilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Seat_Engineering"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Seat_SupportLeft"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Seat_SupportRight"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_SCItem_Seat_TractorBeam"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Clipper_Pilot_Seat"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Command_Module_Bed_Lower_Right"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Command_Module_Bed_Upper_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Command_Module_SCItem_SeatDashboard_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Command_Module_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Command_Module_SCItem_Seat_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Command_Module_SCItem_Seat_Console_Turret"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Seat_Copilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Corsair_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_00"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_01"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_02"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_03"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_04"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_05"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_06"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_07"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_08"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_09"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_10"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Prison_Pod_11"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Blue_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Red_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutter_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutter_Scout_Radar_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Seat_Pilot_Pink"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Dragonfly_SCItem_Seat_Pilot_YellowJacket"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Golem_OX_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Golem_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Herald_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Herald_SCItem_Seat_Support"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_SCItem_Nose_Tractor_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_SCItem_SeatDashboard_Operations"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_SCItem_SeatDashboard_Operations_Assault_Rear"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_SCItem_SeatDashboard_TractorBeam"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Pitbull_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Vulture_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_A"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_A_01"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_A_02"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_A_04"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_A_13"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_A_14"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_B"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_B_03"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_B_15"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_B_16"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_05"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_06"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_07"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_08"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_09"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_10"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_11"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Drop_C_12"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Utility_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Prowler_Utility_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ESPR_Talon_Pilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_SeatDash_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_SeatDash_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Seat_TractorLeft"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Railen_Seat_TractorRight"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Syulen_Pilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_SeatDash_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_SeatDash_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_Seat_TurretLeft"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Tyilui_Seat_TurretRight"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Basher_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Shiv_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GLSN_Shiv_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_MDC_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_MTC_SCItem_SeatDashboard_Support"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_MXC_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GRIN_PTV_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Krig_l21_wolf_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P52_Merlin_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P72_Archimedes_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_S65_Stingray_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Levski_SCItem_Seat_ATC"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fortune_SCItem_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_Esc_Pod_Lower_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_Esc_Pod_Lower_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_Esc_Pod_Upper_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_Esc_Pod_Upper_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_Passenger_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_Passenger_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_Base_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_MAX_Derelict_SCItem_Seat_Esc_Pod_Lower_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_MAX_Derelict_SCItem_Seat_Esc_Pod_Lower_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_MAX_Derelict_SCItem_Seat_Esc_Pod_Upper_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_MAX_Derelict_SCItem_Seat_Esc_Pod_Upper_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_SCItem_Seat_Bed_Lower_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_SCItem_Seat_Bed_Lower_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_SCItem_Seat_Bed_Upper_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Freelancer_SCItem_Seat_Bed_Upper_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fury_Blastshield_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fury_LX_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Fury_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_A_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Copilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_Pilot_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_Engineer_Console"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_SCItem_Copilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_SCItem_Pilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_SCItem_Seat_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_SCItem_Tractor_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Prospector_SCItem_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Razor_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_Mako_Seat_Station_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_Seat_Bed_Lower"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_Seat_Bed_Upper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Reliant_Sen_Seat_Station_Rear"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Gemini_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_Gemini_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_SCItem_Seat_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_SCItem_Seat_Sup_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starfarer_SCItem_Seat_Sup_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Copilot_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Copilot_Seat_TAC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Drone_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Pilot_Seat"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_Support_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlite_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Guardian_MX_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Guardian_QI_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Guardian_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRAI_Pulse_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "OperatorSeat_Console_Sitting_Angled_ATCSeat_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "OperatorSeat_Console_Sitting_Angled_BridgeSeat_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "OperatorSeat_Console_Sitting_Angled_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "OperatorSeat_Console_Sitting_Template"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Orbital_Sentry_SCItem_Seat_Template"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_100i_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_100i_Seat_Bed"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_300i_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_300i_Seat_Bed"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_315p_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_325a_Seat_Bed"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_350r_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_SCItem_Seat_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_Seat_Bridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_Seat_Bridge_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_400i_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Seat_Bridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Seat_Bridge_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Seat_Expl_Module_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Seat_Expl_Module_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_600i_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_85X_SCItem_Seat_Copilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_85X_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Seat_BattleBridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Seat_BattleBridge_Middle"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Seat_BattleBridge_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Seat_Bridge_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Seat_Bridge_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890J_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_m50_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Orig_m80_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_X1_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_SCItem_SeatDashboard_Co_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_LX_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_Mk2_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Aurora_SE_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Captain"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Comms"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Generic"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Remote_Turret_Phalanx"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Science"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Security"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Seat_Tactical"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Turret_Seat_Single"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Bengal_SCItem_Turret_Seat_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_SCItem_Seat_CoPilot_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_SCItem_Seat_CoPilot_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_Seat_EscapePod_LeftLower"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_Seat_EscapePod_LeftUpper"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_Seat_EscapePod_RightLower"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_Seat_EscapePod_RightUpper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Archimedes"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_CoPilot_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_CoPilot_Left_MFD"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_CoPilot_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_CoPilot_Right_MFD"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_EscapePod_LeftLower"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_EscapePod_LeftUpper"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_EscapePod_RightLower"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_EscapePod_RightUpper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Merlin"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Pilot_MFD"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_SeatDashboard_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Hermes_Tractor_Station"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Lynx_SCItem_SeatDashboard_Gunner"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Lynx_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Mantis_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Meteor_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_CoPilot_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Gunner_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Pilot_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_Torpedo_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_CoPilot_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Pilot_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Seat_Bridge"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Seat_Bridge_MissileOnly"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Seat_Captain"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Torpedo_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Polaris_Tractor_Console"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Salvation_SCItem_SeatDashboard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_Antares_SCItem_Seat_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_SCItem_Seat_Gunner"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Scorpius_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_SCItem_SeatDashboard_CoPilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_SCItem_SeatDashboard_Gunner"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_SCItem_SeatDashboard_Pilot"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_SCItem_Seat_Bed_Lower_Left"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_SCItem_Seat_Bed_Lower_Right"
+  },
+  {
+   "name": "Bed",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Zeus_SCItem_Seat_Bed_Upper_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Blade_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Mauler_Gunner_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Mauler_Pilot_Seat"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Scythe_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "VNCL_Stinger_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XIAN_Nox_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XIAN_Scout_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "XNAA_SanTokYai_Seat_Pilot"
+  }
+ ]
+}

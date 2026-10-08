@@ -1,0 +1,2861 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "weaponattachment",
+ "count": 317,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ASAD_DistortionRepeater_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ASAD_DistortionRepeater_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ASAD_DistortionRepeater_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ASAD_DistortionRepeater_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ASAD_DistortionRepeater_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ASAD_DistortionRepeater_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ASAD_DistortionRepeater_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ASAD_DistortionRepeater_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ASAD_DistortionRepeater_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ASAD_DistortionRepeater_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ASAD_DistortionRepeater_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ASAD_DistortionRepeater_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BANU_TachyonCannon_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BANU_TachyonCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BANU_TachyonCannon_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BANU_TachyonCannon_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BANU_TachyonCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BANU_TachyonCannon_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BANU_TachyonCannon_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BANU_TachyonCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BANU_TachyonCannon_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BANU_TachyonCannon_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BANU_TachyonCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BANU_TachyonCannon_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_BallisticGatling_Barrel_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_BallisticGatling_Barrel_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_BallisticGatling_Barrel_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_BallisticGatling_Barrel_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_BallisticGatling_FiringMechanism_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_BallisticGatling_FiringMechanism_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_BallisticGatling_FiringMechanism_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_BallisticGatling_FiringMechanism_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_BallisticGatling_PowerArray_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_BallisticGatling_PowerArray_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_BallisticGatling_PowerArray_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_BallisticGatling_PowerArray_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_BallisticGatling_Ventilation_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_BallisticGatling_Ventilation_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_BallisticGatling_Ventilation_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_BallisticGatling_Ventilation_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_BallisticRepeater_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_BallisticRepeater_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_BallisticRepeater_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_BallisticRepeater_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_BallisticRepeater_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_BallisticRepeater_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_BallisticRepeater_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_BallisticRepeater_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_BallisticRepeater_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_BallisticRepeater_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_BallisticRepeater_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_BallisticRepeater_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_JavelinBallisticCannon_Barrel_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_JavelinBallisticCannon_FiringMechanism_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_JavelinBallisticCannon_PowerArray_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_JavelinBallisticCannon_Ventilation_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_Barrel_S9"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_FiringMechanism_S9"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_PowerArray_S9"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 7,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserCannon_SF7E_Barrel_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 7,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserCannon_SF7E_FiringMechanism_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 7,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserCannon_SF7E_PowerArray_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 7,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_SF7E_Ventilation_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserCannon_Ventilation_S9"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "BEHR_LaserRepeater_Barrel_S10"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "BEHR_LaserRepeater_FiringMechanism_S10"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "BEHR_LaserRepeater_PowerArray_S10"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "BEHR_LaserRepeater_Ventilation_S10"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "Bengal_BallisticCannon_Barrel_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "Bengal_BallisticCannon_Barrel_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "Bengal_BallisticCannon_FiringMechanism_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "Bengal_BallisticCannon_FiringMechanism_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "Bengal_BallisticCannon_PowerArray_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 8,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "Bengal_BallisticCannon_PowerArray_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "Bengal_BallisticCannon_Ventilation_S7"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "Bengal_BallisticCannon_Ventilation_S8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "Bengal_BallisticGatling_Barrel_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "Bengal_BallisticGatling_FiringMechanism_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "Bengal_BallisticGatling_PowerArray_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "Bengal_BallisticGatling_Ventilation_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_BallisticCannon_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_BallisticCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_BallisticCannon_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_BallisticCannon_Barrel_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_BallisticCannon_Barrel_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_BallisticCannon_Barrel_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_BallisticCannon_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_BallisticCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_BallisticCannon_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_BallisticCannon_FiringMechanism_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_BallisticCannon_FiringMechanism_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_BallisticCannon_FiringMechanism_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_BallisticCannon_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_BallisticCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_BallisticCannon_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_BallisticCannon_PowerArray_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_BallisticCannon_PowerArray_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_BallisticCannon_PowerArray_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_BallisticCannon_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_BallisticCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_BallisticCannon_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_BallisticCannon_Ventilation_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_BallisticCannon_Ventilation_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_BallisticCannon_Ventilation_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_LaserCannon_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_LaserCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_LaserCannon_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_LaserCannon_Barrel_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_LaserCannon_Barrel_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "ESPR_LaserCannon_Barrel_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_LaserCannon_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_LaserCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_LaserCannon_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_LaserCannon_FiringMechanism_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_LaserCannon_FiringMechanism_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "ESPR_LaserCannon_FiringMechanism_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_LaserCannon_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_LaserCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_LaserCannon_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_LaserCannon_PowerArray_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_LaserCannon_PowerArray_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "ESPR_LaserCannon_PowerArray_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_LaserCannon_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_LaserCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_LaserCannon_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 4,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_LaserCannon_Ventilation_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 5,
+   "grade": 5,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_LaserCannon_Ventilation_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 6,
+   "grade": 6,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "ESPR_LaserCannon_Ventilation_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "GATS_BallisticCannon_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "GATS_BallisticCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "GATS_BallisticCannon_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "GATS_BallisticCannon_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "GATS_BallisticCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "GATS_BallisticCannon_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "GATS_BallisticCannon_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "GATS_BallisticCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "GATS_BallisticCannon_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "GATS_BallisticCannon_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "GATS_BallisticCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "GATS_BallisticCannon_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "GATS_BallisticGatling_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "GATS_BallisticGatling_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "GATS_BallisticGatling_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "GATS_BallisticGatling_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "GATS_BallisticGatling_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "GATS_BallisticGatling_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "GATS_BallisticGatling_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "GATS_BallisticGatling_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "GATS_BallisticGatling_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "GATS_BallisticGatling_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "GATS_BallisticGatling_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "GATS_BallisticGatling_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserBeam_Barrel_S10"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserRepeater_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserRepeater_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserRepeater_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserRepeater_Barrel_S3_Storm"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserRepeater_Barrel_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserRepeater_Barrel_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserRepeater_Barrel_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserRepeater_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserRepeater_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserRepeater_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserRepeater_FiringMechanism_S3_Storm"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserRepeater_FiringMechanism_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserRepeater_FiringMechanism_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserRepeater_FiringMechanism_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserRepeater_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserRepeater_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserRepeater_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserRepeater_PowerArray_S3_Storm"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserRepeater_PowerArray_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserRepeater_PowerArray_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserRepeater_PowerArray_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserRepeater_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserRepeater_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserRepeater_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserRepeater_Ventilation_S3_Storm"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserRepeater_Ventilation_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserRepeater_Ventilation_S5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserRepeater_Ventilation_S6"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserScatterGun_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserScatterGun_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "HRST_LaserScatterGun_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserScatterGun_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserScatterGun_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "HRST_LaserScatterGun_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserScatterGun_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserScatterGun_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "HRST_LaserScatterGun_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserScatterGun_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserScatterGun_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "HRST_LaserScatterGun_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "JOKR_DistortionCannon_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "JOKR_DistortionCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "JOKR_DistortionCannon_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "JOKR_DistortionCannon_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "JOKR_DistortionCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "JOKR_DistortionCannon_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "JOKR_DistortionCannon_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "JOKR_DistortionCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "JOKR_DistortionCannon_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "JOKR_DistortionCannon_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "JOKR_DistortionCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "JOKR_DistortionCannon_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "KLWE_MassDriver_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "KLWE_MassDriver_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "KLWE_MassDriver_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "KLWE_MassDriver_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "KLWE_MassDriver_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "KLWE_MassDriver_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "KLWE_MassDriver_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "KLWE_MassDriver_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "KLWE_MassDriver_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "KLWE_MassDriver_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "KLWE_MassDriver_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "KLWE_MassDriver_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "KRON_LaserCannon_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "KRON_LaserCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "KRON_LaserCannon_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "KRON_LaserCannon_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "KRON_LaserCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "KRON_LaserCannon_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "KRON_LaserCannon_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "KRON_LaserCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "KRON_LaserCannon_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "KRON_LaserCannon_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "KRON_LaserCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "KRON_LaserCannon_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "MXOX_NeutronRepeater_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "MXOX_NeutronRepeater_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "MXOX_NeutronRepeater_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "MXOX_NeutronRepeater_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "MXOX_NeutronRepeater_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "MXOX_NeutronRepeater_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "MXOX_NeutronRepeater_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "MXOX_NeutronRepeater_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "MXOX_NeutronRepeater_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "MXOX_NeutronRepeater_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "MXOX_NeutronRepeater_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "MXOX_NeutronRepeater_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "NONE_LaserRepeater_Barrel_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "NONE_LaserRepeater_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "NONE_LaserRepeater_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "NONE_LaserRepeater_FiringMechanism_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "NONE_LaserRepeater_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "NONE_LaserRepeater_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "NONE_LaserRepeater_PowerArray_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "NONE_LaserRepeater_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "NONE_LaserRepeater_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "NONE_LaserRepeater_Ventilation_S1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "NONE_LaserRepeater_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "NONE_LaserRepeater_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "TOAG_LaserGatling_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "TOAG_LaserGatling_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "TOAG_LaserGatling_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "TOAG_LaserGatling_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "TOAG_LaserRepeater_Barrel_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "TOAG_LaserRepeater_FiringMechanism_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "TOAG_LaserRepeater_PowerArray_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "TOAG_LaserRepeater_Ventilation_S3"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "VNCL_Gen2_PlasmaCannon_Barrel_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "VNCL_Gen2_PlasmaCannon_Barrel_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "VNCL_Gen2_PlasmaCannon_FiringMechanism_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "VNCL_Gen2_PlasmaCannon_FiringMechanism_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "VNCL_Gen2_PlasmaCannon_PowerArray_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "VNCL_Gen2_PlasmaCannon_PowerArray_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "VNCL_Gen2_PlasmaCannon_Ventilation_S2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "VNCL_Gen2_PlasmaCannon_Ventilation_S4"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "WEP_Barrel_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "WEP_CannonBarrel_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "WEP_CannonFiringMechanism_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "WEP_CannonPowerArray_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "WEP_CannonVentilation_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "WEP_FiringMechanism_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "WEP_GatlingBarrel_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "WEP_GatlingFiringMechanism_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "WEP_GatlingPowerArray_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "WEP_GatlingVentilation_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "WEP_PowerArray_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Barrel",
+   "record": "WEP_RepeaterBarrel_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "FiringMechanism",
+   "record": "WEP_RepeaterFiringMechanism_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "PowerArray",
+   "record": "WEP_RepeaterPowerArray_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "WEP_RepeaterVentilation_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponAttachment",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Ventilation",
+   "record": "WEP_Ventilation_Template"
+  }
+ ]
+}

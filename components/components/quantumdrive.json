@@ -1,0 +1,2906 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "quantumdrive",
+ "count": 63,
+ "items": [
+  {
+   "name": "FoxFire",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ACAS_S01_FoxFire_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "LightFire",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ACAS_S01_LightFire_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SparkFire",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ACAS_S02_SparkFire_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "SunFire",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 2,
+   "class": "Competition",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ACAS_S02_SunFire_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "QuantumDrive",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "QDRV_AEGS_S04_Javelin_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 6.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 6.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Burst",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S01_Burst_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Flood",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S01_Flood_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Rush",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S01_Rush_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Cascade",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S02_Cascade_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Flash",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S02_Flash_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Torrent",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S02_Torrent_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Echo",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S03_Echo_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Fissure",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S03_Fissure_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Impulse",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ARCC_S03_Impulse_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Colossus",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S01_Colossus_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Goliath",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S01_Goliath_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Vulcan",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S01_Vulcan_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Bolon",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S02_Bolon_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Huracan",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S02_Huracan_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Yaluk",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S02_Yaluk_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Agni",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 2,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S03_Agni_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Kama",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 3,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S03_Kama_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Vesta",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 4,
+   "class": "Industrial",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_JUST_S03_Vesta_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Allegro",
+   "type": "QuantumDrive",
+   "size": 4,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_ORIG_S04_890J_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drift",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RACO_S01_Drift_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Spectre",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RACO_S01_Spectre_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Zephyr",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RACO_S01_Zephyr_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Bolt",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 2,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RACO_S02_Bolt_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Nova",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RACO_S02_Nova_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Spicule",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 1,
+   "class": "Stealth",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RACO_S02_Spicule_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Atlas",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S01_Atlas_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Eos",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S01_Eos_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Hyperion",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S01_Hyperion_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Aither",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S02_Aither_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Hemera",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S02_Hemera_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Khaos",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S02_Khaos_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Erebos",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 1,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S03_Erebos_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Metis",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S03_Metis_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Tyche",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_RSI_S03_Tyche_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "QDRV_S01_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "QDRV_S02_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "QDRV_S03_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "QuantumDrive",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "QDRV_S04_Template",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Mauler Quantum Drive",
+   "type": "QuantumDrive",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "QDRV_S04_VNCL_Mauler",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 11.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 11.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 11.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 11.0
+    }
+   ]
+  },
+  {
+   "name": "Expedition",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S01_Expedition_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Voyage",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S01_Voyage_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Wayfare",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S01_Wayfare_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Odyssey",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S02_Odyssey_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Quest",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S02_Quest_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sojourn",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S02_Sojourn_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Drifter",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 4,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S03_Drifter_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Ranger",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 2,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S03_Ranger_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Wanderer",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 3,
+   "class": "Civilian",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_TARS_S03_Wanderer_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Beacon",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S01_Beacon_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Siren",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S01_Siren_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "VK-00",
+   "type": "QuantumDrive",
+   "size": 1,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S01_VK00_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Crossfield",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S02_Crossfield_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "XL-1",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S02_XL1_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Yeager",
+   "type": "QuantumDrive",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S02_Yeager_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Balandin",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S03_Balandin_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Pontes",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 3,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S03_Pontes_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "TS-2",
+   "type": "QuantumDrive",
+   "size": 3,
+   "grade": 1,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S03_TS2_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Frontline",
+   "type": "QuantumDrive",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "QDRV_WETK_S04_Idris_TEMP",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 6.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 6.0
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Travelling",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  }
+ ]
+}

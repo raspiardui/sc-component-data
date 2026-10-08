@@ -1,0 +1,1637 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "dockingcollar",
+ "count": 165,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Hammerhead_Front_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_MPUV_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Idris_M_PU_DockingTube_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Javelin_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "AEGS_Reclaimer_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ARGO_MPUV_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_DRAK_Caterpillar"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_DRAK_Command_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_DRAK_Ironclad"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Avenger"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Eclipse"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Gladius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Hammerhead"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Idris"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Javelin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Reclaimer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Redeemer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Retaliator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Sabre"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Sabre_Firebird"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Sabre_Peregrine"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Sabre_Raven"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Sentinel"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Tiburon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Vanguard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Vanguard_Harbinger"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_AEGS_Vanguard_Hoplite"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Arrow"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Carrack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Gladiator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Hawk"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Hornet"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Hurricane"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Lightning"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_paladin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Pisces"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Pisces_Expedition"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Pisces_Rescue"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Terrapin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ANVL_Valkyrie"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ARGO_CSV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ARGO_MOLE"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ARGO_MOTH"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ARGO_MPUV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ARGO_MPUV_1T"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ARGO_RAFT"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ARGO_SRV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_BANU_Defender"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_CNOU_Mustang"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_CNOU_Nomad"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_CRUS_Intrepid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_CRUS_Spirit"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_CRUS_Starfighter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_CRUS_Starlifter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_CRUS_Starrunner"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Buccaneer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Caterpillar"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Clipper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Command_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Corsair"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Cutlass"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Cutter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Dragonfly"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Dragonfly_Pink"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Dragonfly_Yellow"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Golem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Herald"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Ironclad"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Mule"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Pitbull"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_DRAK_Vulture"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ESPR_Prowler"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ESPR_Prowler_Utility"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ESPR_Talon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_GAMA_Railen"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_GAMA_Syulen"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_GLSN_Basher"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_GLSN_Shiv"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_GRIN_STV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_Krig_alphawolf"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_KRIG_P52_Merlin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_KRIG_S65_Stingray"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_Krig_wolf"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Fortune"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Freelancer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Freelancer_DUR"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Freelancer_MAX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Freelancer_MIS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Fury"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Hull_A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Hull_B"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Hull_C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Prospector"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Razor"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Reliant"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Starfarer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Starlancer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MISC_Starlite"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MRAI_Guardian"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_MRAI_Guardian_MX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_100i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_125a"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_135c"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_300i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_400i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_600i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_85X"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_890Jump"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_m50"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_ORIG_m80"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Apollo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Aurora"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Aurora_CL"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Aurora_ES"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Aurora_LN"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Aurora_LX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Aurora_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Aurora_MR"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Constellation"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Constellation_Andromeda"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Constellation_Aquila"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Constellation_Phoenix"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Constellation_Taurus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Lynx"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Mantis"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Meteor"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Perseus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Polaris"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Salvation"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Scorpius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Zeus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_VNCL_Blade"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_VNCL_Glaive"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_VNCL_Scythe"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_VNCL_Stinger"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_XIAN_Nox"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_XIAN_Scout"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_XNAA_SanTokYai"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_RefuelNozzle_FuelGiver_MISC_Starfarer",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 1.0
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_RefuelNozzle_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_RSI_Polaris"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Caterpillar_Command_Module_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Cutlass_DockingTube"
+  },
+  {
+   "name": "Docking Bay",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DRAK_Ironclad_Command_Module_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "GAMA_Syulen_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "KRIG_P52_Merlin_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_B_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Hull_C_DockingTube"
+  },
+  {
+   "name": "Docking Collar",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MISC_Starlancer_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "ORIG_890Jump_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Apollo_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Rear_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Perseus_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Station_DockingTube_Default"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Station_DockingTube_Template"
+  },
+  {
+   "name": "Norfield",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_GRIN_NozzleFast",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.73
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.4
+    }
+   ]
+  },
+  {
+   "name": "Marlin",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_GRIN_NozzleSecure",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.52
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.29
+    }
+   ]
+  },
+  {
+   "name": "Lindstrom",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_GRIN_NozzleVeryFast",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 1.0
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.55
+    }
+   ]
+  },
+  {
+   "name": "Harkin",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_GRIN_NozzleVerySecure",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.52
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.29
+    }
+   ]
+  },
+  {
+   "name": "RN-7s",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_MISC_NozzleStandard",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.83
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "Bendix",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_SHIN_NozzleExpensiveFast",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 1.27
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.7
+    }
+   ]
+  },
+  {
+   "name": "Torrez",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_SHIN_NozzleExpensiveSecure",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 1.07
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.59
+    }
+   ]
+  },
+  {
+   "name": "Ezra",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "Fuel_Nozzle_SHIN_NozzleMostExpensive",
+   "resources": [
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 1.09
+    },
+    {
+     "state": "Default",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.61
+    }
+   ]
+  }
+ ]
+}

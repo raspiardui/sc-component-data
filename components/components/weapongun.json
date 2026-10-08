@@ -1,0 +1,3455 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "weapongun",
+ "count": 197,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 7,
+   "class": null,
+   "subtype": "Gun",
+   "record": "test_gats_gattlings_s3"
+  },
+  {
+   "name": "SureGrip TH2 Tractor Beam",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "RSI_Constellation_Taurus_Tractor_Beam"
+  },
+  {
+   "name": "PyroBurst Scattergun",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_AAgun_CC_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "Omnisky III Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_LaserCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "Omnisky VI Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_LaserCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Omnisky IX Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_LaserCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.5
+    }
+   ]
+  },
+  {
+   "name": "Omnisky XII Cannon",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_LaserCannon_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.3
+    }
+   ]
+  },
+  {
+   "name": "Omnisky XV Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_LaserCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.1
+    }
+   ]
+  },
+  {
+   "name": "Omnisky XVIII Cannon",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_LaserCannon_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.4
+    }
+   ]
+  },
+  {
+   "name": "PyroBurst Scattergun",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "AMRS_ScatterGun_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "Revenant Gatling",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ANVL_BallisticGatling_Bespoke",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Revenant Gatling",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticGatling_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Revenant Gatling",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticGatling_S4_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Draugar Gatling",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticGatling_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Havoc Scattergun",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticScatterGun_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Havoc Scattergun Sharkmouth Edition",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticScatterGun_S1_Shark",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Hellion Scattergun",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticScatterGun_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Hellion Scattergun Sharkmouth Edition",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticScatterGun_S2_Shark",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Predator Scattergun",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticScatterGun_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Predator Scattergun Sharkmouth Edition",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticScatterGun_S3_Shark",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_BallisticScatterGun_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Strife Mass Driver Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "APAR_MassDriver_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.6
+    }
+   ]
+  },
+  {
+   "name": "DR Model-XJ1 Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ASAD_DistortionRepeater_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "DR Model-XJ2 Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ASAD_DistortionRepeater_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "DR Model-XJ3 Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ASAD_DistortionRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.75
+    }
+   ]
+  },
+  {
+   "name": "Singe Cannon (S1)",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BANU_TachyonCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Singe Cannon (S2)",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BANU_TachyonCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.6
+    }
+   ]
+  },
+  {
+   "name": "Singe Cannon (S3)",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BANU_TachyonCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    }
+   ]
+  },
+  {
+   "name": "C-788 Cannon",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticCannon_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Conqueror-7",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticCannon_S7_Idris",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "C-07T Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticCannon_S7_Tiburon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "CVSA Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticCannon_VNG_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "TMSB-5 Gatling",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticGatling_Hornet_Bespoke",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "MRX \"Torrent\"",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticGatling_PDC_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "AD4B Ballistic Gatling",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticGatling_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "AD5B Ballistic Gatling",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticGatling_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "AD6B Ballistic Gatling",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticGatling_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "SF7B Gatling",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticGatling_S7",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "SF7B Gatling",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticGatling_S7_Collector",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "SW16BR1 “Buzzsaw” Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticRepeater_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "SW16BR2 “Sawbuck” Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticRepeater_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "SW16BR3 “Shredder” Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "BRVS Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_BallisticRepeater_VNG_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "EVSD Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_DistortionCannon_VNG_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "ATVS Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_DistortionRepeater_VNG_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_JavelinBallisticCannon_S7",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_JavelinBallisticCannon_S7_Dummy",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_JavelinBallisticCannon_S7_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "M3A Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.704
+    }
+   ]
+  },
+  {
+   "name": "M3A Cannon Defense Division",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S1_CleanAir",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.704
+    }
+   ]
+  },
+  {
+   "name": "M4A Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "M4A Cannon Defense Division",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S2_CleanAir",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "M5A Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.3
+    }
+   ]
+  },
+  {
+   "name": "M5A Cannon Defense Division",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S3_CleanAir",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.3
+    }
+   ]
+  },
+  {
+   "name": "M6A Cannon",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.6
+    }
+   ]
+  },
+  {
+   "name": "M7A Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.9
+    }
+   ]
+  },
+  {
+   "name": "M8A Cannon",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.2
+    }
+   ]
+  },
+  {
+   "name": "M8A Cannon",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S6_SecurityNetwork",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.2
+    }
+   ]
+  },
+  {
+   "name": "M8A Cannon",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S6_Turret",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.2
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S7",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.5
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S7_Idris_M",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.5
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S7_Idris_M_Dummy",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.5
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S7_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.5
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S7_Turret",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.5
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.8
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S9",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.1
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_S9_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.1
+    }
+   ]
+  },
+  {
+   "name": "SF7E Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_SF7E_S7",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.93
+    }
+   ]
+  },
+  {
+   "name": "SF7E Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_SF7E_S7_Collector",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.93
+    }
+   ]
+  },
+  {
+   "name": "MVSA Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserCannon_VNG_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.43
+    }
+   ]
+  },
+  {
+   "name": "M2C \"Swarm\"",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserRepeater_PDC_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.352
+    }
+   ]
+  },
+  {
+   "name": "GVSR Repeater",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserRepeater_S10",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.8
+    }
+   ]
+  },
+  {
+   "name": "GVSR Repeater",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserRepeater_S10_SecurityNetwork",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.8
+    }
+   ]
+  },
+  {
+   "name": "GVSR Repeater",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserRepeater_S10_SecurityNetwork_Weak",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.8
+    }
+   ]
+  },
+  {
+   "name": "GVSR Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_LaserRepeater_VNG_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.713
+    }
+   ]
+  },
+  {
+   "name": "M9A Cannon",
+   "type": "WeaponGun",
+   "size": 12,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_MassDriver_S12",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 5.6
+    }
+   ]
+  },
+  {
+   "name": "NV57 Ballistic Gatling",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BEHR_Nova_BallisticGatling_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Tarantula GT-870 Mark 3 Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "Bengal_BallisticCannon_S7",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Tarantula GT-870 Mark 3 Cannon",
+   "type": "WeaponGun",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "Bengal_BallisticCannon_S8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Revenant Gatling",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "Bengal_BallisticGatling_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Slayer Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "Bengal_Turret_BallisticCannon_S8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "BRRA_LaserCannon_AP_AutomatedTurret",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "Deadbolt I Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_BallisticCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Deadbolt II Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_BallisticCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Deadbolt III Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_BallisticCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Deadbolt IV Cannon",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_BallisticCannon_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Deadbolt V Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_BallisticCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Deadbolt VI Cannon",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_BallisticCannon_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Lightstrike I Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_LaserCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "Lightstrike II Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_LaserCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Lightstrike III Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_LaserCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.5
+    }
+   ]
+  },
+  {
+   "name": "Lightstrike IV Cannon",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_LaserCannon_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.8
+    }
+   ]
+  },
+  {
+   "name": "Lightstrike V Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_LaserCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.1
+    }
+   ]
+  },
+  {
+   "name": "Lightstrike VI Cannon",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "ESPR_LaserCannon_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.4
+    }
+   ]
+  },
+  {
+   "name": "Tarantula GT-870 Mark 1 Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GATS_BallisticCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Tarantula GT-870 Mark 2 Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GATS_BallisticCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Tarantula GT-870 Mark 3 Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GATS_BallisticCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "YellowJacket GT-210 Gatling",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GATS_BallisticGatling_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Scorpion GT-215 Gatling",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GATS_BallisticGatling_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Mantis GT-220 Gatling",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GATS_BallisticGatling_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Deathroll S2 Gatling",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GLSN_BallisticGatling_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Breakneck S4 Gatling",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GLSN_BallisticGatling_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Snapper S2 Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GLSN_LaserRepeater_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.8
+    }
+   ]
+  },
+  {
+   "name": "Tormenter S3 Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "GLSN_LaserRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "Exodus-10 Laser Beam",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserBeam_Bespoke",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "Supremacy-10T Laser Beam",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserBeam_Tiburon",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    }
+   ]
+  },
+  {
+   "name": "Attrition-1 Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserRepeater_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "Attrition-2 Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserRepeater_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "Attrition-3 Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.75
+    }
+   ]
+  },
+  {
+   "name": "Attrition-4 Repeater",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserRepeater_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "Attrition-4 Repeater",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserRepeater_S4_Turret",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "Attrition-5 Repeater",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserRepeater_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.05
+    }
+   ]
+  },
+  {
+   "name": "Attrition-6 Repeater",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserRepeater_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Dominance-1 Scattergun",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserScatterGun_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "Dominance-2 Scattergun",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserScatterGun_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.8
+    }
+   ]
+  },
+  {
+   "name": "Dominance-3 Scattergun",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_LaserScatterGun_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "Slayer Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_Nova_BallisticCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Reign-3 Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "HRST_Storm_LaserRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.863
+    }
+   ]
+  },
+  {
+   "name": "Suckerpunch Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "JOKR_DistortionCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "Suckerpunch-L Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "JOKR_DistortionCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Suckerpunch-XL Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "JOKR_DistortionCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.5
+    }
+   ]
+  },
+  {
+   "name": "9-Series Longsword Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KBAR_BallisticCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "10-Series Greatsword Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KBAR_BallisticCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "11-Series Broadsword Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KBAR_BallisticCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "CF-227 Badger Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_PDC_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.502
+    }
+   ]
+  },
+  {
+   "name": "CF-117 Bulldog Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "CF-117 Bulldog Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S1_ATLS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "CF-999 \"Akuma\" Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S1_ATLS_NTLS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "CF-117 Bulldog \"Hazard-Zone\" Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S1_mr01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "CF-227 Badger Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "CF-227 Badger \"Hazard-Zone\" Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S2_mr01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "CF-337 Panther Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "CF-337 Panther \"Hazard-Zone\" Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S3_mr01",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "CF-447 Rhino Repeater",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "CF-447 Rhino Repeater",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S4_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "CF-557 Galdereen Repeater",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.05
+    }
+   ]
+  },
+  {
+   "name": "CF-557 Galdereen Repeater",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S5_Idris_M",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.05
+    }
+   ]
+  },
+  {
+   "name": "CF-557 Galdereen Repeater",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S5_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.05
+    }
+   ]
+  },
+  {
+   "name": "CF-557 Galdereen Repeater",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S5_Turret",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.05
+    }
+   ]
+  },
+  {
+   "name": "CF-667 Mammoth Repeater",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "CF-667 Mammoth Repeater",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_LaserRepeater_S6_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Sledge I Mass Driver Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_MassDriver_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Destroyer Mass Driver Cannon",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_MassDriver_S10",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.8
+    }
+   ]
+  },
+  {
+   "name": "Destroyer Mass Driver Cannon",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_MassDriver_S10_LowPoly",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 4.8
+    }
+   ]
+  },
+  {
+   "name": "Sledge II Mass Driver Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_MassDriver_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.6
+    }
+   ]
+  },
+  {
+   "name": "Sledge III Mass Driver Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KLWE_MassDriver_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.0
+    }
+   ]
+  },
+  {
+   "name": "Relentless L-21 Gatling",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "Krig_BallisticGatling_Bespoke_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Tigerstrike T-19P",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KRIG_BallisticGatling_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Quarreler Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KRIG_LaserCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.73
+    }
+   ]
+  },
+  {
+   "name": "Whiptail STR-E2 Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KRIG_LaserRepeater_Bespoke_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.65
+    }
+   ]
+  },
+  {
+   "name": "Axiom L-22 Repeater",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "Krig_LaserRepeater_Bespoke_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "FL-11 Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KRON_LaserCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.9
+    }
+   ]
+  },
+  {
+   "name": "FL-22 Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KRON_LaserCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "FL-33 Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "KRON_LaserCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.5
+    }
+   ]
+  },
+  {
+   "name": "NN-13 Cannon",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "MXOX_NeutronCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "NN-14 Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "MXOX_NeutronCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.8
+    }
+   ]
+  },
+  {
+   "name": "NN-15 Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "MXOX_NeutronCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "NDB-26 Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "MXOX_NeutronRepeater_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "NDB-28 Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "MXOX_NeutronRepeater_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "NDB-30 Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "MXOX_NeutronRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.75
+    }
+   ]
+  },
+  {
+   "name": "Ardor-1 Salvaged Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "NONE_LaserRepeater_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.45
+    }
+   ]
+  },
+  {
+   "name": "Ardor-2 Salvaged Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "NONE_LaserRepeater_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.6
+    }
+   ]
+  },
+  {
+   "name": "Ardor-3 Salvaged Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "NONE_LaserRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.75
+    }
+   ]
+  },
+  {
+   "name": "Salvation Distortion Scattergun",
+   "type": "WeaponGun",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "PRAR_DistortionScatterGun_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "Absolution Distortion Scattergun",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "PRAR_DistortionScatterGun_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.4
+    }
+   ]
+  },
+  {
+   "name": "Condemnation Distortion Scattergun",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "PRAR_DistortionScatterGun_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.6
+    }
+   ]
+  },
+  {
+   "name": "Leonids Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "RSI_BallisticCannon_S5_Meteor_Bespoke",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Maris Cannon",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "RSI_Bespoke_BallisticCannon_A",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Echion Repeater",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "RSI_Meteor_LaserRepeater_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "RSI Medusa Cannon",
+   "type": "WeaponGun",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "RSI_Perseus_BallisticCannon_B_S8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.1
+    }
+   ]
+  },
+  {
+   "name": "Thlilye Laser Gatling",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "TOAG_LaserGatling_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.335
+    }
+   ]
+  },
+  {
+   "name": "Yeng’tu Repeater",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "TOAG_LaserRepeater_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.652
+    }
+   ]
+  },
+  {
+   "name": "Exodus-10 Laser Beam",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "Vanduul_LaserBeam_S12_TSG",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "Vanduul Mauler 'IGNITER' Beam",
+   "type": "WeaponGun",
+   "size": 9,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_LaserBeam_S9",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_LaserCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Vanduul Mauler 'STRIKER' Repeater",
+   "type": "WeaponGun",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_LaserRepeater_S6",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_PlasmaCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_PlasmaCannon_S4",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "'WRATH' Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_PlasmaCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.1
+    }
+   ]
+  },
+  {
+   "name": "Vanduul Mauler 'RAGE' Cannon",
+   "type": "WeaponGun",
+   "size": 8,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_PlasmaCannon_S8",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Vanduul Mauler 'ANNIHILATOR' Cannon",
+   "type": "WeaponGun",
+   "size": 10,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_TachyonBeam_S10",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Vanduul Mauler 'ERADICATOR' Cannon",
+   "type": "WeaponGun",
+   "size": 7,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_Gen2_TachyonCannon_S7",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 3.6
+    }
+   ]
+  },
+  {
+   "name": "'WEAK' Repeater",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_LaserCannon_S1",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.13
+    }
+   ]
+  },
+  {
+   "name": "'WASP' Repeater",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_LaserCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "'WAR' Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_NeutronCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.4
+    }
+   ]
+  },
+  {
+   "name": "'WHIP' Cannon",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_PlasmaCannon_S2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.2
+    }
+   ]
+  },
+  {
+   "name": "'WARLORD' Cannon",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_PlasmaCannon_S3",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 1.5
+    }
+   ]
+  },
+  {
+   "name": "'WRATH' Cannon",
+   "type": "WeaponGun",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "Gun",
+   "record": "VNCL_PlasmaCannon_S5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": null,
+     "standard": 2.1
+    }
+   ]
+  },
+  {
+   "name": "Yebira I",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S1_FSKI_3x_S3"
+  },
+  {
+   "name": "Jericho",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S1_HRST_6x_S1"
+  },
+  {
+   "name": "Liberator",
+   "type": "WeaponGun",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S1_THCN_4x_S2"
+  },
+  {
+   "name": "Yebira II",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S2_FSKI_6x_S3"
+  },
+  {
+   "name": "Jericho X",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S2_HRST_12x_S1"
+  },
+  {
+   "name": "Liberator Prime",
+   "type": "WeaponGun",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S2_THCN_8x_S2"
+  },
+  {
+   "name": "Jericho XL",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S3_FSKI_9x_S3"
+  },
+  {
+   "name": "Jericho XL",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S3_HRST_18x_S1"
+  },
+  {
+   "name": "Liberator Ultra",
+   "type": "WeaponGun",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "Rocket",
+   "record": "RPOD_S3_THCN_12x_S2"
+  }
+ ]
+}

@@ -1,0 +1,1898 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "armor",
+ "count": 210,
+ "items": [
+  {
+   "name": "Avenger Stalker Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Avenger_Stalker"
+  },
+  {
+   "name": "Avenger Titan Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Avenger_Titan"
+  },
+  {
+   "name": "Avenger Warlock Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Avenger_Warlock"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Light",
+   "record": "ARMR_AEGS_Eclipse"
+  },
+  {
+   "name": "Gladius Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Gladius"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Hammerhead"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Idris"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Idris_Invincible"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Idris_M"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Idris_P"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Javelin"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Javelin_Invulnerable"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Reclaimer"
+  },
+  {
+   "name": "@item_NameARMR_AEGS_Redeemer",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Redeemer"
+  },
+  {
+   "name": "Retaliator Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Retaliator"
+  },
+  {
+   "name": "Sabre Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Sabre"
+  },
+  {
+   "name": "Sabre Raven Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_SabreRaven"
+  },
+  {
+   "name": "Sabre Raven Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_SabreRaven_EX"
+  },
+  {
+   "name": "Sabre Raven Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Sabre_Firebird"
+  },
+  {
+   "name": "Sabre Raven Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Sabre_Peregrine"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Template"
+  },
+  {
+   "name": "Hammerhead Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Tiburon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Vanguard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Vanguard_Harbinger"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Vanguard_Hoplite"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Vanguard_Sentinel"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Arrow"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Asgard"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Ballista"
+  },
+  {
+   "name": "Gladiator Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_C8R_Pisces"
+  },
+  {
+   "name": "Gladiator Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_C8X_Pisces_Expedition"
+  },
+  {
+   "name": "Gladiator Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_C8_Pisces"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Carrack"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Centurion"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_FC7R"
+  },
+  {
+   "name": "Gladiator Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Gladiator"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hawk"
+  },
+  {
+   "name": "Hornet F7A Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7A"
+  },
+  {
+   "name": "Hornet F7A Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7C"
+  },
+  {
+   "name": "Anvil Bastion Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7CM"
+  },
+  {
+   "name": "Hornet F7A Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7CM_Mk2"
+  },
+  {
+   "name": "Hornet F7CR Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7CR"
+  },
+  {
+   "name": "Hornet F7CR Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7CR_Mk2"
+  },
+  {
+   "name": "Anvil Void Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7CS"
+  },
+  {
+   "name": "Anvil Void Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hornet_F7CS_Mk2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Hurricane"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Lightning_F8"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Paladin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Spartan"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Terrapin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Terrapin_Medic"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ANVL_Valkyrie"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_CSV"
+  },
+  {
+   "name": "Argo MPUV Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_MOLE"
+  },
+  {
+   "name": "Argo MPUV Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_MOTH"
+  },
+  {
+   "name": "Argo MPUV Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_MPUV"
+  },
+  {
+   "name": "Argo MPUV Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_MPUV_1T"
+  },
+  {
+   "name": "Argo MPUV Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_RAFT"
+  },
+  {
+   "name": "Argo MPUV Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_SRV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ARGO_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Light",
+   "record": "ARMR_BANU_Defender"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_BANU_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_HoverQuad"
+  },
+  {
+   "name": "Mustang Alpha Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_Mustang_Alpha"
+  },
+  {
+   "name": "Mustang Beta Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_Mustang_Beta"
+  },
+  {
+   "name": "Consolidated Outland Cavalry Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_Mustang_Delta"
+  },
+  {
+   "name": "Mustang Gamma Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_Mustang_Gamma"
+  },
+  {
+   "name": "Mustang Omega Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_Mustang_Omega"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_Nomad"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CNOU_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Intrepid"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Spirit"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Starfighter_Inferno"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Starfighter_Ion"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Starlifter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Starlifter_A2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Starlifter_M2"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Star_Runner"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_CRUS_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Buccaneer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Caterpillar"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Clipper"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Command_Module"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Corsair"
+  },
+  {
+   "name": "Cutlass Black Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Cutlass_Black"
+  },
+  {
+   "name": "Cutlass Black Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Cutlass_Blue"
+  },
+  {
+   "name": "Cutlass Black Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Cutlass_Red"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Cutlass_Steel"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Cutter"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Dragonfly"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Golem"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Herald"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Ironclad"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Ironclad_Assault"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Mule"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Pitbull"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_DRAK_Vulture"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ESPR_Prowler"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ESPR_Prowler_Utility"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ESPR_Talon"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ESPR_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GAMA_Railen"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GAMA_Syulen"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GAMA_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GAMA_Tyilui"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GLSN_Basher"
+  },
+  {
+   "name": "Cutlass Black Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GLSN_Shiv"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GRIN_MDC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GRIN_MTC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GRIN_ROC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GRIN_ROC_DS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GRIN_STV"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GRIN_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 0,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_GRIN_UTV"
+  },
+  {
+   "name": "Merlin Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_KRIG_Archimedes"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_KRIG_l21_wolf"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_KRIG_l22_alphawolf"
+  },
+  {
+   "name": "Merlin Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_KRIG_Merlin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_KRIG_S65_Stingray"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_KRIG_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Fortune"
+  },
+  {
+   "name": "Freelancer Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Freelancer"
+  },
+  {
+   "name": "Freelancer Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Freelancer_DUR"
+  },
+  {
+   "name": "Freelancer Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Freelancer_MIS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Fury"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Fury_LX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Hull_A"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Hull_B"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Hull_C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Prospector"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Razor"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Razor_EX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Razor_LX"
+  },
+  {
+   "name": "MISC Reliant Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Reliant"
+  },
+  {
+   "name": "MISC Reliant Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Reliant_Mako"
+  },
+  {
+   "name": "MISC Reliant Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Reliant_Sen"
+  },
+  {
+   "name": "MISC Reliant Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Reliant_Tana"
+  },
+  {
+   "name": "Starfarer Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Starfarer"
+  },
+  {
+   "name": "Starfarer Gemini Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Starfarer_Gemini"
+  },
+  {
+   "name": "Starfarer Gemini Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Starfarer_Gemini_Derelict"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Starlancer"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Starlancer_TAC"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Starlite"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MISC_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MRAI_Guardian"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MRAI_Guardian_MX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MRAI_Pulse"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MRAI_Pulse_LX"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_MRAI_Template"
+  },
+  {
+   "name": "Origin Jumpworks 100i Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_100i"
+  },
+  {
+   "name": "Origin Jumpworks 125a Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_125a"
+  },
+  {
+   "name": "Origin Jumpworks 135c Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_135c"
+  },
+  {
+   "name": "300i Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_300i"
+  },
+  {
+   "name": "315p Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_315p"
+  },
+  {
+   "name": "Talisman R5 Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_325a"
+  },
+  {
+   "name": "350r Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_350r"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_400i"
+  },
+  {
+   "name": "350r Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_600i"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_85X"
+  },
+  {
+   "name": "350r Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_890J"
+  },
+  {
+   "name": "M50 Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_m50"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_m80"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_Template"
+  },
+  {
+   "name": "M50 Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_ORIG_X1"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Apollo"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Apollo_Medivac"
+  },
+  {
+   "name": "Aurora Mk I CL Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Aurora_CL"
+  },
+  {
+   "name": "Aurora Mk I ES Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Aurora_ES"
+  },
+  {
+   "name": "RSI Lorica Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Aurora_LN"
+  },
+  {
+   "name": "Aurora Mk I LX Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Aurora_LX"
+  },
+  {
+   "name": "Aurora Mk I CL Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Aurora_Mk2"
+  },
+  {
+   "name": "Aurora Mk I MR Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Aurora_MR"
+  },
+  {
+   "name": "Aurora Mk I MR Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Heavy",
+   "record": "ARMR_RSI_Bengal"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Andromeda"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Phoenix"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Taurus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Hermes"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Lynx"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Mantis"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Meteor"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Perseus"
+  },
+  {
+   "name": "@item_NameARMR_RSI_Polaris",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Polaris"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Salvation"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Scorpius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Ursa"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Zeus_CL"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Zeus_ES"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Light",
+   "record": "ARMR_TMBL_Cyclone"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Light",
+   "record": "ARMR_TMBL_Cyclone_AA"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_TMBL_Cyclone_MT"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_TMBL_Cyclone_TR"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_TMBL_Nova"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_TMBL_Storm"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_TMBL_Storm_AA"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_TMBL_Template"
+  },
+  {
+   "name": "Blade Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_VNCL_Blade"
+  },
+  {
+   "name": "Glaive Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_VNCL_Glaive"
+  },
+  {
+   "name": "Void Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_VNCL_Mauler"
+  },
+  {
+   "name": "Scythe Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_VNCL_Scythe"
+  },
+  {
+   "name": "Stinger Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_VNCL_Stinger"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_VNCL_Template"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_XIAN_Nox"
+  },
+  {
+   "name": "Scout Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_XIAN_Scout"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_XIAN_Template"
+  },
+  {
+   "name": "Scout Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_XNAA_SanTokYai"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_XNAA_Template"
+  }
+ ]
+}

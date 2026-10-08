@@ -1,0 +1,17 @@
+{
+ "_source": "Star Citizen scitem/ships (StarBreaker)",
+ "_extracted": "2026-10-09T01:42:22",
+ "type": "fuelcontroller",
+ "count": 1,
+ "items": [
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Fuel"
+  }
+ ]
+}
