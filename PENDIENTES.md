@@ -1,6 +1,6 @@
 # Naves pendientes de foto
 
-Copia el jpg como `ID_DE_LA_NAVE.jpg` en `images/ships/` y listo.
+Sube `ID_DE_LA_NAVE.jpg` a `images/ships/` (pásame también la URL y la busco yo).
 
 - [ ] AEGS Idris
 - [ ] AEGS Tiburon
@@ -101,7 +101,6 @@ Copia el jpg como `ID_DE_LA_NAVE.jpg` en `images/ships/` y listo.
 - [ ] RSI Aurora GS LX
 - [ ] RSI Aurora GS MR
 - [ ] RSI Aurora GS SE
-- [ ] RSI Aurora Mk2
 - [ ] RSI Aurora Mk2 MissileModule TEMP
 - [ ] RSI Bengal
 - [ ] RSI Hermes
