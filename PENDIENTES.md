@@ -1,0 +1,120 @@
+# Naves pendientes de foto
+
+Copia el jpg como `ID_DE_LA_NAVE.jpg` en `images/ships/` y listo.
+
+- [ ] AEGS Idris
+- [ ] AEGS Tiburon
+- [ ] AEGS Vanguard
+- [ ] ANVL Asgard
+- [ ] ANVL Asgard Collector Military
+- [ ] ANVL C8R Pisces FW22NFZ
+- [ ] ANVL Hornet F7 Mk2 Collector Mod
+- [ ] ANVL Hornet F7A
+- [ ] ANVL Hornet F7A Mk2
+- [ ] ANVL Hornet F7C
+- [ ] ANVL Hornet F7C Mk2
+- [ ] ANVL Hornet F7C Wildfire
+- [ ] ANVL Hornet F7CM
+- [ ] ANVL Hornet F7CM Heartseeker
+- [ ] ANVL Hornet F7CM Mk2 Heartseeker
+- [ ] ANVL Hornet F7CR
+- [ ] ANVL Hornet F7CR Mk2
+- [ ] ANVL Hornet F7CS
+- [ ] ANVL Hornet F7CS Mk2
+- [ ] ANVL Lightning F8
+- [ ] ANVL Lightning F8 Fleetweek
+- [ ] ANVL Lightning F8 Fleetweek DarkBlue
+- [ ] ANVL Lightning F8 Fleetweek Grey
+- [ ] ANVL Lightning F8 Fleetweek LightBlue
+- [ ] ANVL Lightning F8 Fleetweek White
+- [ ] ANVL Lightning F8C
+- [ ] ANVL Lightning F8C Collector Military
+- [ ] ANVL Lightning F8C Collector Stealth
+- [ ] ANVL Lightning F8C Exec
+- [ ] ANVL Lightning F8C Plat
+- [ ] ANVL Paladin
+- [ ] ARGO MOTH
+- [ ] CRUS Intrepid
+- [ ] CRUS Intrepid Collector Indust
+- [ ] CRUS Spirit
+- [ ] CRUS Spirit A1
+- [ ] CRUS Spirit C1
+- [ ] CRUS Spirit C1 Civilian
+- [ ] CRUS Star Runner
+- [ ] CRUS Star Runner Mission PIR Package
+- [ ] CRUS Starfighter Inferno
+- [ ] CRUS Starfighter Inferno Collector Military
+- [ ] CRUS Starfighter Ion
+- [ ] CRUS Starfighter Ion Collector Stealth
+- [ ] CRUS Starlifter
+- [ ] CRUS Starlifter A2
+- [ ] CRUS Starlifter A2 Bombless
+- [ ] CRUS Starlifter A2 Collector Military
+- [ ] CRUS Starlifter A2 EA PIR
+- [ ] CRUS Starlifter A2 S3Bombs
+- [ ] CRUS Starlifter C2
+- [ ] CRUS Starlifter M2
+- [ ] DRAK Clipper
+- [ ] DRAK Clipper Collector Military
+- [ ] DRAK Command Module
+- [ ] DRAK Command Module Boarded
+- [ ] DRAK Dragonfly Pink
+- [ ] DRAK Golem
+- [ ] DRAK Golem BTALA
+- [ ] DRAK Golem Collector Indust
+- [ ] DRAK Golem OX
+- [ ] DRAK Pitbull
+- [ ] GAMA Tyilui
+- [ ] GLSN Basher
+- [ ] GLSN Shiv
+- [ ] GLSN Shiv TEMP CosA
+- [ ] GLSN Shiv TEMP CosB
+- [ ] GLSN Shiv TEMP CosC
+- [ ] KRIG L21 Wolf Collector Military
+- [ ] KRIG L21 Wolf Collector Stealth
+- [ ] KRIG L22 AlphaWolf Collector Military
+- [ ] KRIG S65 Stingray
+- [ ] KRIG S65 Stingray BALLISTIC
+- [ ] KRIG l21 wolf
+- [ ] KRIG l22 alphawolf
+- [ ] MISC Fortune
+- [ ] MISC Fortune Collector Industrial
+- [ ] MISC Starlancer
+- [ ] MISC Starlancer Max
+- [ ] MISC Starlancer Max Collector Indust
+- [ ] MISC Starlancer TAC
+- [ ] MISC Starlancer TAC Collector Military
+- [ ] MISC Starlite
+- [ ] ORIG 85X
+- [ ] ORIG m50
+- [ ] ORIG m80
+- [ ] Orbital Sentry PU Criminal
+- [ ] Orbital Sentry PU Criminal Size2
+- [ ] Orbital Sentry PU NineTails
+- [ ] Orbital Sentry PU NineTails Size2
+- [ ] Orbital Sentry PU UEE
+- [ ] Orbital Sentry SecurityNetwork
+- [ ] RSI Apollo
+- [ ] RSI Aurora GS CL
+- [ ] RSI Aurora GS ES
+- [ ] RSI Aurora GS LN
+- [ ] RSI Aurora GS LX
+- [ ] RSI Aurora GS MR
+- [ ] RSI Aurora GS SE
+- [ ] RSI Aurora Mk2
+- [ ] RSI Aurora Mk2 MissileModule TEMP
+- [ ] RSI Bengal
+- [ ] RSI Hermes
+- [ ] RSI Lynx
+- [ ] RSI Meteor
+- [ ] RSI Meteor Collector Military
+- [ ] RSI Meteor Collector Stealth
+- [ ] RSI Meteor TEMP LaserRepeater
+- [ ] RSI Salvation
+- [ ] RSI Zeus CL
+- [ ] RSI Zeus CL Collector Indust
+- [ ] RSI Zeus ES
+- [ ] RSI Zeus ES Collector Indust
+- [ ] VNCL Mauler
+- [ ] VNCL Stinger
+- [ ] XIAN Scout
