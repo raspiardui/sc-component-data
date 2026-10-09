@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "missilelauncher",
- "count": 144,
+ "count": 151,
  "items": [
   {
    "name": "MSD-212 Missile Rack",
@@ -273,6 +273,15 @@
    "class": null,
    "subtype": "MissileRack",
    "record": "MRCK_S03_BEHR_Single_S03"
+  },
+  {
+   "name": "@item_NameMRCK_S03_RSI_Skylark",
+   "type": "MissileLauncher",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "MissileRack",
+   "record": "MRCK_S03_RSI_Skylark_Five_S01"
   },
   {
    "name": "Argo MOTH Missile Launcher",
@@ -965,6 +974,24 @@
    "grade": 1,
    "class": null,
    "subtype": "MissileRack",
+   "record": "MRCK_S04_RSI_Constellation_GS_Long"
+  },
+  {
+   "name": "RSI Constellation Side Missile Rack",
+   "type": "MissileLauncher",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MissileRack",
+   "record": "MRCK_S04_RSI_Constellation_GS_Short"
+  },
+  {
+   "name": "RSI Constellation Side Missile Rack",
+   "type": "MissileLauncher",
+   "size": 4,
+   "grade": 1,
+   "class": null,
+   "subtype": "MissileRack",
    "record": "MRCK_S04_RSI_Scorpius"
   },
   {
@@ -1040,6 +1067,24 @@
    "record": "MRCK_S05_RSI_Constellation"
   },
   {
+   "name": "RSI Constellation Top Missile Rack",
+   "type": "MissileLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MissileRack",
+   "record": "MRCK_S05_RSI_Constellation_GS_Left"
+  },
+  {
+   "name": "RSI Constellation Top Missile Rack",
+   "type": "MissileLauncher",
+   "size": 5,
+   "grade": 1,
+   "class": null,
+   "subtype": "MissileRack",
+   "record": "MRCK_S05_RSI_Constellation_GS_Right"
+  },
+  {
    "name": "@item_NameMRCK_S05_RSI_Perseus_Torpedo_L",
    "type": "MissileLauncher",
    "size": 5,
@@ -1056,6 +1101,24 @@
    "class": null,
    "subtype": "MissileRack",
    "record": "MRCK_S05_RSI_Perseus_Torpedo_R"
+  },
+  {
+   "name": "RSI Constellation Mk V Missile Rack",
+   "type": "MissileLauncher",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MissileRack",
+   "record": "MRCK_S06_RSI_Constellation_Mk5_Left"
+  },
+  {
+   "name": "RSI Constellation Mk V Missile Rack",
+   "type": "MissileLauncher",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MissileRack",
+   "record": "MRCK_S06_RSI_Constellation_Mk5_Right"
   },
   {
    "name": "HMF-T12 \"Hammerfall\" Torpedo Launcher",

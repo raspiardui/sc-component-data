@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "weapondefensive",
- "count": 188,
+ "count": 194,
  "items": [
   {
    "name": "Aegis Gladius - Noise Launcher",
@@ -1409,6 +1409,42 @@
    "record": "RSI_Constellation_CML_Noise"
   },
   {
+   "name": "Aegis Gladius - Decoy Launcher",
+   "type": "WeaponDefensive",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "CountermeasureLauncher",
+   "record": "RSI_Constellation_GS_CML_Decoy"
+  },
+  {
+   "name": "Joker Defcon - Noise Launcher",
+   "type": "WeaponDefensive",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "CountermeasureLauncher",
+   "record": "RSI_Constellation_GS_CML_Noise"
+  },
+  {
+   "name": "Aegis Gladius - Decoy Launcher",
+   "type": "WeaponDefensive",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "CountermeasureLauncher",
+   "record": "RSI_Constellation_Mk5_CML_Decoy"
+  },
+  {
+   "name": "Joker Defcon - Noise Launcher",
+   "type": "WeaponDefensive",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "CountermeasureLauncher",
+   "record": "RSI_Constellation_Mk5_CML_Noise"
+  },
+  {
    "name": "RSI Noise Launcher",
    "type": "WeaponDefensive",
    "size": 1,
@@ -1515,6 +1551,24 @@
    "class": null,
    "subtype": "CountermeasureLauncher",
    "record": "RSI_Scorpius_CML_Flare"
+  },
+  {
+   "name": "Joker Defcon - Noise Launcher",
+   "type": "WeaponDefensive",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "CountermeasureLauncher",
+   "record": "RSI_Skylark_Chaff"
+  },
+  {
+   "name": "Aegis Gladius - Decoy Launcher",
+   "type": "WeaponDefensive",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "CountermeasureLauncher",
+   "record": "RSI_Skylark_Flare"
   },
   {
    "name": "Joker Defcon Flares Ammo",

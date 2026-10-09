@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "cargo",
- "count": 98,
+ "count": 100,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -704,6 +704,15 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Constellation_GS"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "PersonalStorage_RSI_Lynx_Left"
   },
   {
@@ -750,6 +759,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "PersonalStorage_RSI_Polaris_Medical"
+  },
+  {
+   "name": "Personal Storage",
+   "type": "Cargo",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "PersonalStorage_RSI_Skylark"
   },
   {
    "name": "Personal Storage",

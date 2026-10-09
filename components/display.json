@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "display",
- "count": 339,
+ "count": 351,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -767,6 +767,51 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "H_Dashboard_Projector_HUD_RSI_Constellation_GS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "H_Dashboard_Projector_HUD_RSI_Constellation_GS_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "H_Dashboard_Projector_HUD_RSI_Constellation_Mk5_Centaurus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "H_Dashboard_Projector_HUD_RSI_Constellation_Mk5_Centaurus_Gunner_L"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "H_Dashboard_Projector_HUD_RSI_Constellation_Mk5_Centaurus_Gunner_R"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "H_Dashboard_Projector_HUD_RSI_Mantis"
   },
   {
@@ -858,6 +903,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "H_Dashboard_Projector_HUD_RSI_Scorpius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "H_Dashboard_Projector_HUD_RSI_Skylark"
   },
   {
    "name": "<= PLACEHOLDER =>",
@@ -1658,6 +1712,42 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "Radar_Display_RSI_Constellation"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Radar_Display_RSI_Constellation_GS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Radar_Display_RSI_Constellation_GS_Copilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Radar_Display_RSI_Constellation_Mk5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "Radar_Display_RSI_Perseus"
   },
   {
@@ -1686,6 +1776,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Radar_Display_RSI_Polaris_C"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Radar_Display_RSI_Skylark"
   },
   {
    "name": "<= PLACEHOLDER =>",
@@ -1758,6 +1857,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Radar_Display_Screen_GroundVehicle"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Display",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Radar_Display_Screen_RSI"
   },
   {
    "name": "<= PLACEHOLDER =>",

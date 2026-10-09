@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "paints",
- "count": 1091,
+ "count": 1130,
  "items": [
   {
    "name": "100 Series Flame Livery",
@@ -1211,6 +1211,15 @@
    "record": "Paint_Aurora_Mk2_Black_Black_Black"
   },
   {
+   "name": "Aurora Mk II Starwalker Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Aurora_Mk2_Black_Black_Orange"
+  },
+  {
    "name": "Aurora Mk II Caspian Livery",
    "type": "Paints",
    "size": 1,
@@ -1913,7 +1922,79 @@
    "record": "Paint_Command_Module_Template"
   },
   {
-   "name": "Constellation Nightbreak Livery",
+   "name": "Constellation Mk IV Starwalker Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Black_Black_Orange"
+  },
+  {
+   "name": "@item_NamePaint_Constellation_Black_Black_Red",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Black_Black_Red"
+  },
+  {
+   "name": "@item_NamePaint_Constellation_Black_Green_Gold",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Black_Green_Gold"
+  },
+  {
+   "name": "@item_NamePaint_Constellation_Black_Grey_White",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Black_Grey_White"
+  },
+  {
+   "name": "@item_NamePaint_Constellation_Blue_Black_Red",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Blue_Black_Red"
+  },
+  {
+   "name": "@item_NamePaint_Constellation_Blue_Blue_Grey",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Blue_Blue_Grey"
+  },
+  {
+   "name": "@item_NamePaint_Constellation_Blue_Cyan_Grey",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Blue_Cyan_Grey"
+  },
+  {
+   "name": "Constellation Mk IV Emerald Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Emerald_Green_White_Black"
+  },
+  {
+   "name": "Constellation Mk IV Nightbreak Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1922,7 +2003,7 @@
    "record": "Paint_Constellation_FW2955_Grey_Black_Red_Camo"
   },
   {
-   "name": "Constellation ArcCorp Livery",
+   "name": "Constellation Mk IV ArcCorp Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1931,7 +2012,7 @@
    "record": "Paint_Constellation_GoblinG_A_Red_Black"
   },
   {
-   "name": "Constellation Crusader Livery",
+   "name": "Constellation Mk IV Crusader Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1940,7 +2021,7 @@
    "record": "Paint_Constellation_GoblinG_C_Blue_Black"
   },
   {
-   "name": "Constellation Hurston Livery",
+   "name": "Constellation Mk IV Hurston Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1949,7 +2030,7 @@
    "record": "Paint_Constellation_GoblinG_H_Black_Yellow"
   },
   {
-   "name": "Constellation microTech Livery",
+   "name": "Constellation Mk IV microTech Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1958,7 +2039,16 @@
    "record": "Paint_Constellation_GoblinG_M_White_Blue"
   },
   {
-   "name": "Constellation Black Heron Livery",
+   "name": "@item_NamePaint_Constellation_Green_Grey_Yellow",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Green_Grey_Yellow"
+  },
+  {
+   "name": "Constellation Mk IV Black Heron Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1967,7 +2057,7 @@
    "record": "Paint_Constellation_Heron_Black"
   },
   {
-   "name": "Constellation Orange Heron Livery",
+   "name": "Constellation Mk IV Orange Heron Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1976,7 +2066,7 @@
    "record": "Paint_Constellation_Heron_Orange"
   },
   {
-   "name": "Constellation White Heron Livery",
+   "name": "Constellation Mk IV White Heron Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1985,7 +2075,7 @@
    "record": "Paint_Constellation_Heron_White"
   },
   {
-   "name": "Constellation Stormbringer Livery",
+   "name": "Constellation Mk IV Stormbringer Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -1994,7 +2084,7 @@
    "record": "Paint_Constellation_IAE2951_Black_Blue"
   },
   {
-   "name": "Constellation Polar Livery",
+   "name": "Constellation Mk IV Polar Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -2003,7 +2093,7 @@
    "record": "Paint_Constellation_IAE2951_Grey_White"
   },
   {
-   "name": "Constellation Invictus Blue and Gold Livery",
+   "name": "Constellation Mk IV Invictus Blue and Gold Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -2012,7 +2102,7 @@
    "record": "Paint_Constellation_Invictus_Blue_Gold"
   },
   {
-   "name": "Constellation Dark Green Livery",
+   "name": "Constellation Mk IV Dark Green Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -2021,13 +2111,85 @@
    "record": "Paint_Constellation_Invictus_Dark_Green"
   },
   {
-   "name": "Constellation 2952 Auspicious Red Monkey Livery",
+   "name": "Constellation Mk IV 2952 Auspicious Red Monkey Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_Constellation_LunarNewYear2952_Red"
+  },
+  {
+   "name": "Constellation Mk V Starwalker Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_Black_Black_Orange"
+  },
+  {
+   "name": "@item_NameConstellationmk5_Paint_Black_Gray_Purple",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_Black_Gray_Purple"
+  },
+  {
+   "name": "@item_NameConstellationmk5_Paint_Black_Red_Red",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_Black_Red_Red"
+  },
+  {
+   "name": "@item_NameConstellationmk5_Paint_Blue_Black_Yellow",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_Blue_Black_Yellow"
+  },
+  {
+   "name": "@item_NameConstellationmk5_Paint_Blue_Orange_Blue",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_Blue_Orange_Blue"
+  },
+  {
+   "name": "@item_NameConstellationmk5_Paint_Red_Gray_Yellow",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_Red_Gray_Yellow"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_Template"
+  },
+  {
+   "name": "@item_NameConstellationmk5_Paint_White_Orange_Gray",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Constellation_Mk5_White_Orange_Gray"
   },
   {
    "name": "Corsair Dying Star Livery (Modified)",
@@ -2829,6 +2991,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_Eclipse_PirateWeek_Black_Clear"
+  },
+  {
+   "name": "Eclipse Desmodus Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Eclipse_Red_Red_Red"
   },
   {
    "name": "Fortune 2955 Auspicious Red Pig Livery",
@@ -3792,6 +3963,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_Hercules_Sylvan_Green"
+  },
+  {
+   "name": "Hermes Starwalker Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Hermes_Black_Black_Orange"
   },
   {
    "name": "Hermes Nightbreak Livery",
@@ -4838,6 +5018,15 @@
    "record": "Paint_M80_black_darkgrey_lightgrey_camo"
   },
   {
+   "name": "M80 Runic Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_M80_black_gold_gold"
+  },
+  {
    "name": "M80 Blaze Livery",
    "type": "Paints",
    "size": 1,
@@ -5297,6 +5486,15 @@
    "record": "Paint_MTC_Black_Grey_Red_Camo"
   },
   {
+   "name": "@item_NameMTC_Paint_blue_grey_red",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_MTC_blue_grey_red"
+  },
+  {
    "name": "MXC Timberwolf Camo Livery",
    "type": "Paints",
    "size": 1,
@@ -5306,6 +5504,15 @@
    "record": "Paint_MTC_brown_brown_red_camo_a"
   },
   {
+   "name": "@item_NameMTC_Paint_gold_grey_grey",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_MTC_gold_grey_grey"
+  },
+  {
    "name": "MTC Citizens for Prosperity Liberation Livery",
    "type": "Paints",
    "size": 1,
@@ -5313,6 +5520,24 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_MTC_Green_Black_Grey_cfp"
+  },
+  {
+   "name": "@item_NameMTC_Paint_green_brown_green",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_MTC_green_brown_green"
+  },
+  {
+   "name": "@item_NameMTC_Paint_green_green_yellow",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_MTC_green_green_yellow"
   },
   {
    "name": "MTC Baracus Livery",
@@ -7403,6 +7628,15 @@
    "record": "Paint_Salvation_silver_teal_white"
   },
   {
+   "name": "Salvation Glacier Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Salvation_White_Blue_White"
+  },
+  {
    "name": "San'tok.yai Harmony Livery",
    "type": "Paints",
    "size": 1,
@@ -7482,6 +7716,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_Scorpius_Blight_Green"
+  },
+  {
+   "name": "Scorpius Echo Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Scorpius_Blue_Purple_Purple"
   },
   {
    "name": "Scorpius Nightbreak Livery",
@@ -7698,6 +7941,78 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_Shiv_White_Blue_Black"
+  },
+  {
+   "name": "Skylark Starwalker Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_Black_Black_Orange"
+  },
+  {
+   "name": "Skylark Blackthorn Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_Black_Gray_Purple"
+  },
+  {
+   "name": "@item_NameSkylark_Paint_Black_Red_Red",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_Black_Red_Red"
+  },
+  {
+   "name": "Skylark Convergence Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_Blue_Black_Yellow"
+  },
+  {
+   "name": "Skylark Magnitude Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_Blue_Orange_Blue"
+  },
+  {
+   "name": "Skylark Heritage Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_Red_Gray_Yellow"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_Template"
+  },
+  {
+   "name": "Skylark Patrician Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Skylark_White_Orange_Gray"
   },
   {
    "name": "Spartan Polar Camo Livery",
@@ -8753,7 +9068,7 @@
    "record": "Paint_STV_Racing_Yellow_White_Grey_Stripes"
   },
   {
-   "name": "STV Blue Steel Livery",
+   "name": "STV Blue Carbon Livery",
    "type": "Paints",
    "size": 1,
    "grade": 1,
@@ -9084,6 +9399,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_Tyilui_White_Grey_Gold"
+  },
+  {
+   "name": "Ursa Starwalker Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Ursa_Black_Black_Orange"
   },
   {
    "name": "Ursa Skullcrusher Livery",
@@ -9446,6 +9770,15 @@
    "record": "Paint_Vulture_Ghoulish_Green"
   },
   {
+   "name": "Vulture Abomination Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Vulture_Green_Blue_Green"
+  },
+  {
    "name": "Vulture Foundation Guide Livery",
    "type": "Paints",
    "size": 1,
@@ -9563,6 +9896,15 @@
    "record": "Paint_Wolf_Green_Red_Yellow_Camo"
   },
   {
+   "name": "Wolf Lycan Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Wolf_Grey_Black_Grey"
+  },
+  {
    "name": "Wolf Frost Camo Livery",
    "type": "Paints",
    "size": 1,
@@ -9669,6 +10011,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Paint_Zeus_Blue_Black_White"
+  },
+  {
+   "name": "Zeus Keelback Livery",
+   "type": "Paints",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Paint_Zeus_Blue_Blue_Yellow"
   },
   {
    "name": "Zeus Lovestruck Livery",

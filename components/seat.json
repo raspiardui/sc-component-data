@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "seat",
- "count": 413,
+ "count": 430,
  "items": [
   {
    "name": "@item_TypeSeatDashboard",
@@ -3227,6 +3227,96 @@
    "record": "RSI_Bengal_SCItem_Turret_Seat_Template"
   },
   {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Copilot_Left_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Copilot_Right_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Phoenix_Copilot_Left_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Phoenix_Copilot_Right_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Phoenix_Pilot_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Pilot_SCItem_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_CoPilot_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Gunner_Right_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Gunner_SeatDashboard"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Pilot_SeatDashboard"
+  },
+  {
    "name": "<= PLACEHOLDER =>",
    "type": "Seat",
    "size": 1,
@@ -3236,6 +3326,15 @@
    "record": "RSI_Constellation_Phoenix_SCItem_Seat_CoPilot_Left"
   },
   {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_SCItem_Seat_Copilot_Left_GS"
+  },
+  {
    "name": "<= PLACEHOLDER =>",
    "type": "Seat",
    "size": 1,
@@ -3243,6 +3342,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Constellation_Phoenix_SCItem_Seat_CoPilot_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Phoenix_SCItem_Seat_Copilot_Right_GS"
   },
   {
    "name": "TRGT. STATUS",
@@ -3308,6 +3416,15 @@
    "record": "RSI_Constellation_SCItem_Seat_CoPilot_Left"
   },
   {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Copilot_Left_GS"
+  },
+  {
    "name": "<= PLACEHOLDER =>",
    "type": "Seat",
    "size": 1,
@@ -3324,6 +3441,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Constellation_SCItem_Seat_CoPilot_Right"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Copilot_Right_GS"
   },
   {
    "name": "<= PLACEHOLDER =>",
@@ -3387,6 +3513,24 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Constellation_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Pilot_GS"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Pilot_GS_Phoenix"
   },
   {
    "name": "TRGT. STATUS",
@@ -3594,6 +3738,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Scorpius_SCItem_Seat_Pilot"
+  },
+  {
+   "name": "TRGT. STATUS",
+   "type": "Seat",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Skylark_SeatDashboard_Pilot"
   },
   {
    "name": "TRGT. STATUS",

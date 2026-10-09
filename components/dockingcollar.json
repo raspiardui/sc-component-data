@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "dockingcollar",
- "count": 165,
+ "count": 171,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -1100,6 +1100,24 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Constellation_GS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Constellation_Mk5"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "DockingTube_Fuel_Ports_RSI_Constellation_Phoenix"
   },
   {
@@ -1173,6 +1191,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "DockingTube_Fuel_Ports_RSI_Scorpius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "DockingTube_Fuel_Ports_RSI_Skylark"
   },
   {
    "name": "<= PLACEHOLDER =>",
@@ -1404,6 +1431,24 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Rear_DockingTubeMerlin"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Rear_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "RSI_Constellation_Rear_DockingTube"
   },
   {
@@ -1414,6 +1459,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Perseus_DockingTube"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "DockingCollar",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Skylark_DockingTube"
   },
   {
    "name": "<= PLACEHOLDER =>",

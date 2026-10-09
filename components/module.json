@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "module",
- "count": 38,
+ "count": 41,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -309,6 +309,33 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Aurora_Mk2_Module_Missile"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Cargo_Lift_Exterior"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Phoenix_Cargo_Lift_Exterior"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Module",
+   "size": 3,
+   "grade": 3,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Taurus_Cargo_Lift_Exterior"
   },
   {
    "name": "Anvil Hornet Ghost Center Cap",

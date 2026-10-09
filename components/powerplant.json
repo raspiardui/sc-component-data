@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "powerplant",
- "count": 83,
+ "count": 89,
  "items": [
   {
    "name": "LumaCore",
@@ -1580,6 +1580,56 @@
    ]
   },
   {
+   "name": "Helios IP-10",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_S01_IASI_NameA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 17,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sovereign IP-10",
+   "type": "PowerPlant",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_S01_IASI_Name_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
    "name": "<= PLACEHOLDER =>",
    "type": "PowerPlant",
    "size": 1,
@@ -1605,6 +1655,56 @@
    ]
   },
   {
+   "name": "Helios IP-20",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_S02_IASI_NameA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 21,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sovereign IP-20",
+   "type": "PowerPlant",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_S02_IASI_Name_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
    "name": "<= PLACEHOLDER =>",
    "type": "PowerPlant",
    "size": 2,
@@ -1618,6 +1718,56 @@
      "kind": "generation",
      "resource": "Power",
      "units": 19,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Helios IP-30",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 1,
+   "class": "Industrial",
+   "subtype": "Power",
+   "record": "POWR_S03_IASI_NameA_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 25,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Sovereign IP-30",
+   "type": "PowerPlant",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "Power",
+   "record": "POWR_S03_IASI_Name_SCItem",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
      "standard": null
     },
     {

@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "quantumfueltank",
- "count": 148,
+ "count": 153,
  "items": [
   {
    "name": "Internal Tank",
@@ -3236,6 +3236,31 @@
    "grade": 1,
    "class": null,
    "subtype": "QuantumFuel",
+   "record": "QTNK_RSI_Constellation_Andromeda_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "QuantumFuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "QuantumFuel",
    "record": "QTNK_RSI_Constellation_Aquila",
    "resources": [
     {
@@ -3261,7 +3286,107 @@
    "grade": 1,
    "class": null,
    "subtype": "QuantumFuel",
+   "record": "QTNK_RSI_Constellation_Aquila_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "QuantumFuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "QuantumFuel",
+   "record": "QTNK_RSI_Constellation_Mk5_Centaurus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "QuantumFuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "QuantumFuel",
+   "record": "QTNK_RSI_Constellation_Phoenix_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "QuantumFuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "QuantumFuel",
    "record": "QTNK_RSI_Constellation_Taurus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "QuantumFuel",
+     "units": null,
+     "standard": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "QuantumFuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "QuantumFuel",
+   "record": "QTNK_RSI_Constellation_Taurus_GS",
    "resources": [
     {
      "state": "Online",

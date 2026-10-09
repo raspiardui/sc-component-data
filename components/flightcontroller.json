@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "flightcontroller",
- "count": 239,
+ "count": 271,
  "items": [
   {
    "name": "Avenger Stalker Standard Flight Blade",
@@ -5105,13 +5105,63 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Aurora Mk II Standard Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Controller_Flight_RSI_Aurora_Mk2",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Aurora Mk II PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_Mk2_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Aurora Mk II TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Aurora_Mk2_Blade_SPD",
    "resources": [
     {
      "state": "Online",
@@ -5180,7 +5230,7 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Constellation Mk IV Andromeda Standard Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
@@ -5205,7 +5255,132 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Constellation Mk IV Andromeda PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Andromeda_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Andromeda TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Andromeda_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Andromeda Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Andromeda_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Andromeda PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Andromeda_GS_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Andromeda TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Andromeda_GS_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Andromeda Standard Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
@@ -5230,7 +5405,7 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Constellation Mk IV Aquila Standard Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
@@ -5255,13 +5430,113 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Constellation Mk IV Aquila PHB Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
-   "record": "Controller_Flight_RSI_Constellation_Phoenix",
+   "record": "Controller_Flight_RSI_Constellation_Aquila_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Aquila TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Aquila_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Aquila Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Aquila_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Aquila PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Aquila_GS_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Aquila TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Aquila_GS_Blade_SPD",
    "resources": [
     {
      "state": "Online",
@@ -5286,7 +5561,307 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Mk5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Phoenix Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Phoenix",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Phoenix PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Phoenix_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Phoenix TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Phoenix_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Phoenix Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Phoenix_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Phoenix PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Phoenix_GS_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Phoenix TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Phoenix_GS_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Taurus Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "Controller_Flight_RSI_Constellation_Taurus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Taurus PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Taurus_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Taurus TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Taurus_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Taurus Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Taurus_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Taurus PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Taurus_GS_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Constellation Mk IV Taurus TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Constellation_Taurus_GS_Blade_SPD",
    "resources": [
     {
      "state": "Online",
@@ -5330,7 +5905,7 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Mantis Standard Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
@@ -5355,13 +5930,113 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Mantis PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Mantis_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Mantis TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Mantis_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Meteor Standard Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Controller_Flight_RSI_Meteor",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Meteor PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Meteor_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Meteor TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Meteor_Blade_SPD",
    "resources": [
     {
      "state": "Online",
@@ -5611,7 +6286,7 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
-   "record": "Controller_Flight_RSI_Zeus",
+   "record": "Controller_Flight_RSI_Skylark",
    "resources": [
     {
      "state": "Online",
@@ -5636,6 +6311,31 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Zeus Mk II CL Standard Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "Controller_Flight_RSI_Zeus_CL",
    "resources": [
     {
@@ -5655,13 +6355,113 @@
    ]
   },
   {
-   "name": "@item_Name_FLGT_BL_Controller",
+   "name": "Zeus Mk II CL PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus_CL_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Zeus Mk II CL TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus_CL_Blade_SPD",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Zeus Mk II ES Standard Flight Blade",
    "type": "FlightController",
    "size": 1,
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Controller_Flight_RSI_Zeus_ES",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Zeus Mk II ES PHB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus_ES_Blade_HND",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Zeus Mk II ES TSB Flight Blade",
+   "type": "FlightController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Flight_RSI_Zeus_ES_Blade_SPD",
    "resources": [
     {
      "state": "Online",

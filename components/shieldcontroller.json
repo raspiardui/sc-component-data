@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "shieldcontroller",
- "count": 139,
+ "count": 142,
  "items": [
   {
    "name": "SHIELDS",
@@ -2117,6 +2117,42 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Constellation_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Constellation_Mk5",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "Controller_Shield_RSI_Constellation_MM",
    "resources": [
     {
@@ -2262,6 +2298,24 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Controller_Shield_RSI_Scorpius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Shield",
+     "units": null,
+     "standard": 1000000.0
+    }
+   ]
+  },
+  {
+   "name": "SHIELDS",
+   "type": "ShieldController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Shield_RSI_Skylark",
    "resources": [
     {
      "state": "Online",

@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "door",
- "count": 20,
+ "count": 22,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -138,6 +138,24 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Aurora_Mk2_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Ground_Refueling_Port"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Door",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Skylark_Ground_Refueling"
   },
   {
    "name": "<= PLACEHOLDER =>",

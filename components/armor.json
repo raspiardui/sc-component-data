@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "armor",
- "count": 210,
+ "count": 220,
  "items": [
   {
    "name": "Avenger Stalker Ship Armor",
@@ -12,6 +12,15 @@
    "class": null,
    "subtype": "Medium",
    "record": "ARMR_AEGS_Avenger_Stalker"
+  },
+  {
+   "name": "Avenger Stalker Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_AEGS_Avenger_Stalker_Display"
   },
   {
    "name": "Avenger Titan Ship Armor",
@@ -1595,6 +1604,51 @@
    "grade": 1,
    "class": null,
    "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Andromeda_GS"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Andromeda_GS_Display"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Aquila_GS"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Mk5_Centaurus"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Mk5_Centaurus_Display"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
    "record": "ARMR_RSI_Constellation_Phoenix"
   },
   {
@@ -1604,7 +1658,25 @@
    "grade": 1,
    "class": null,
    "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Phoenix_GS"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
    "record": "ARMR_RSI_Constellation_Taurus"
+  },
+  {
+   "name": "Constellation Andromeda Ship Armor",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Constellation_Taurus_GS"
   },
   {
    "name": "<= PLACEHOLDER =>",
@@ -1677,6 +1749,24 @@
    "class": null,
    "subtype": "Medium",
    "record": "ARMR_RSI_Scorpius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Skylark"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Armor",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Medium",
+   "record": "ARMR_RSI_Skylark_Display"
   },
   {
    "name": "<= PLACEHOLDER =>",

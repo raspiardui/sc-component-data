@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "missilecontroller",
- "count": 15,
+ "count": 16,
  "items": [
   {
    "name": "MISSILES",
@@ -93,6 +93,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Controller_Missile_RSI_Aurora_Mk2"
+  },
+  {
+   "name": "MISSILES",
+   "type": "MissileController",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Controller_Missile_RSI_Skylark"
   },
   {
    "name": "MISSILES",

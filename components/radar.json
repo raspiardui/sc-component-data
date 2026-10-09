@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "radar",
- "count": 76,
+ "count": 79,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -1018,6 +1018,81 @@
      "kind": "consumption",
      "resource": "Power",
      "units": 10,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Delphi RS-10",
+   "type": "Radar",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_IASI_S01_Name",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Delphi RS-20",
+   "type": "Radar",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_IASI_S02_Name",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 6,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Delphi RS-30",
+   "type": "Radar",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "MidRangeRadar",
+   "record": "RADR_IASI_S03_Name",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 8,
      "standard": null
     },
     {

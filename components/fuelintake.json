@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "fuelintake",
- "count": 155,
+ "count": 160,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -1208,6 +1208,15 @@
    "grade": 1,
    "class": null,
    "subtype": "Fuel",
+   "record": "INTK_RSI_Constellation_Andromeda_GS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
    "record": "INTK_RSI_Constellation_Aquila"
   },
   {
@@ -1217,7 +1226,34 @@
    "grade": 1,
    "class": null,
    "subtype": "Fuel",
+   "record": "INTK_RSI_Constellation_Aquila_GS"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Constellation_Mk5_Centaurus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
    "record": "INTK_RSI_Constellation_Taurus"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Constellation_Taurus_GS"
   },
   {
    "name": "<= PLACEHOLDER =>",
@@ -1272,6 +1308,15 @@
    "class": null,
    "subtype": "Fuel",
    "record": "INTK_RSI_Scorpius"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "FuelIntake",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "INTK_RSI_Skylark"
   },
   {
    "name": "<= PLACEHOLDER =>",

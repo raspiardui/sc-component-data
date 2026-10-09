@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "seataccess",
- "count": 586,
+ "count": 595,
  "items": [
   {
    "name": "Access",
@@ -4649,6 +4649,69 @@
    "record": "RSI_Bengal_SeatAccess_Pilot"
   },
   {
+   "name": "Seat",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_SCItem_Seat_Access_Copilot_Left"
+  },
+  {
+   "name": "Seat",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_SCItem_Seat_Access_Copilot_Right"
+  },
+  {
+   "name": "Seat",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_SCItem_Seat_Access_Pilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Seat_Access_CoPilot"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Seat_Access_Gunner"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Seat_Access_Gunner_Right"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Seat_Access_Pilot"
+  },
+  {
    "name": "<= PLACEHOLDER =>",
    "type": "SeatAccess",
    "size": 1,
@@ -4683,6 +4746,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Constellation_SCItem_Seat_Access_Turret"
+  },
+  {
+   "name": "Seat",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_SCItem_Seat_Access_Turret_GS"
   },
   {
    "name": "<= PLACEHOLDER =>",
@@ -4971,6 +5043,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Scorpius_SCItem_SeatAccess"
+  },
+  {
+   "name": "Seat",
+   "type": "SeatAccess",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Skylark_SeatAccess_Pilot"
   },
   {
    "name": "Seat",

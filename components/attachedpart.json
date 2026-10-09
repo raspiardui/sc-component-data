@@ -1,9 +1,27 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "attachedpart",
- "count": 75,
+ "count": 77,
  "items": [
+  {
+   "name": "RSI Constellation Mk V Missile Rack",
+   "type": "AttachedPart",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRCK_S02_RSI_Constellation_Mk5_Missile_Holder"
+  },
+  {
+   "name": "RSI Constellation Mk V Missile Rack",
+   "type": "AttachedPart",
+   "size": 2,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "MRCK_S02_RSI_Constellation_Mk5_Missile_Holder_Right"
+  },
   {
    "name": "RSI Polaris Torpedo Rack",
    "type": "AttachedPart",

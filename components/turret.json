@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "turret",
- "count": 252,
+ "count": 254,
  "items": [
   {
    "name": "Mustang Nose Scoop",
@@ -2226,6 +2226,24 @@
    "class": null,
    "subtype": "GunTurret",
    "record": "ORIG_890j_SCItem_Remote_Turret_S5"
+  },
+  {
+   "name": "Remote Turret",
+   "type": "Turret",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "BottomTurret",
+   "record": "RSI_Constellation_Mk5_Remote_Turret_Bottom_S3"
+  },
+  {
+   "name": "Remote Turret",
+   "type": "Turret",
+   "size": 3,
+   "grade": 1,
+   "class": null,
+   "subtype": "TopTurret",
+   "record": "RSI_Constellation_Mk5_Remote_Turret_Top_S3"
   },
   {
    "name": "Remote Turret",

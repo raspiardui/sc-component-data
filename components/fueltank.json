@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "fueltank",
- "count": 175,
+ "count": 181,
  "items": [
   {
    "name": "Internal Tank",
@@ -3811,6 +3811,31 @@
    "grade": 1,
    "class": null,
    "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Andromeda_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
    "record": "HTNK_RSI_Constellation_Aquila",
    "resources": [
     {
@@ -3836,7 +3861,107 @@
    "grade": 1,
    "class": null,
    "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Aquila_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Mk5_Centaurus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Phoenix_GS",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
    "record": "HTNK_RSI_Constellation_Taurus",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Constellation_Taurus_GS",
    "resources": [
     {
      "state": "Online",
@@ -4012,6 +4137,31 @@
    "class": null,
    "subtype": "Fuel",
    "record": "HTNK_RSI_Scorpius",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": 10.0
+    }
+   ]
+  },
+  {
+   "name": "Internal Tank",
+   "type": "FuelTank",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Fuel",
+   "record": "HTNK_RSI_Skylark",
    "resources": [
     {
      "state": "Online",

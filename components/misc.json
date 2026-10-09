@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "misc",
- "count": 173,
+ "count": 178,
  "items": [
   {
    "name": "CSR-RP",
@@ -1272,6 +1272,51 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Com_Brig_3StateTray_Left"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Misc",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Aquila_Glass"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Misc",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Aquila_Turret_Addons"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "Misc",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Glass"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "Misc",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Spine"
+  },
+  {
+   "name": "@LOC_EMPTY",
+   "type": "Misc",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Tail"
   },
   {
    "name": "<= PLACEHOLDER =>",

@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "cooler",
- "count": 81,
+ "count": 84,
  "items": [
   {
    "name": "IcePlunge",
@@ -525,6 +525,81 @@
      "kind": "consumption",
      "resource": "Power",
      "units": 6,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "BriskAir IC-10",
+   "type": "Cooler",
+   "size": 1,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_IASI_S01_Name",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 22.0
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "BriskAir IC-20",
+   "type": "Cooler",
+   "size": 2,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_IASI_S02_Name",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 28.6
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null
+    }
+   ]
+  },
+  {
+   "name": "BriskAir IC-30",
+   "type": "Cooler",
+   "size": 3,
+   "grade": 2,
+   "class": "Military",
+   "subtype": "UNDEFINED",
+   "record": "COOL_IASI_S03_Name",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 35.2
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
      "standard": null
     }
    ]

@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "cargogrid",
- "count": 133,
+ "count": 135,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -1119,6 +1119,24 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Constellation_Taurus_CargoGrid_Tail"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Taurus_GS_CargoGrid_Tail"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "CargoGrid",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "Cargo",
+   "record": "RSI_Constellation_Mk5_CargoGrid_Main"
   },
   {
    "name": "<= PLACEHOLDER =>",

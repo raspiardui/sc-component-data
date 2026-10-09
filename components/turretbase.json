@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "turretbase",
- "count": 126,
+ "count": 132,
  "items": [
   {
    "name": "Manned Turret",
@@ -1001,7 +1001,52 @@
    "grade": 1,
    "class": null,
    "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Aquila_GS_SCItem_Turret_Radar"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
    "record": "RSI_Constellation_Aquila_SCItem_Turret_Radar"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_GS_SCItem_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_GS_SCItem_Turret_Upper"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Phoenix_GS_Turret_Lower"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Phoenix_GS_Turret_Upper"
   },
   {
    "name": "Manned Turret",
@@ -1038,6 +1083,15 @@
    "class": null,
    "subtype": "MannedTurret",
    "record": "RSI_Constellation_SCItem_Turret_Upper"
+  },
+  {
+   "name": "Manned Turret",
+   "type": "TurretBase",
+   "size": 6,
+   "grade": 1,
+   "class": null,
+   "subtype": "MannedTurret",
+   "record": "RSI_Constellation_Taurus_GS_Turret_Lower"
   },
   {
    "name": "Manned Turret",

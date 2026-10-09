@@ -1,5 +1,5 @@
 {
- "_source": "Star Citizen Data.p4k via StarBreaker + sc-gamedata-extractor",
+ "_source": "Star Citizen Data.p4k (StarBreaker + sc-gamedata-extractor)",
  "_extracted_from": "D:\\StarCitizen\\LIVE\\Data.p4k",
  "powerplants": [
   {
@@ -1957,6 +1957,68 @@
   },
   {
    "category": "powerplant",
+   "record": "EntityClassDefinition.POWR_S01_IASI_Name_SCItem",
+   "name": "Sovereign IP-10",
+   "size": 1,
+   "grade": 2,
+   "subtype": "Power",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 16,
+     "standard": null,
+     "delta": "ItemResourceDeltaGeneration"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0,
+     "delta": "ItemResourceDeltaConsumption"
+    }
+   ],
+   "ranges": {
+    "low": 1.0,
+    "medium": 1.0,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "powerplant",
+   "record": "EntityClassDefinition.POWR_S01_IASI_NameA_SCItem",
+   "name": "Helios IP-10",
+   "size": 1,
+   "grade": 1,
+   "subtype": "Power",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 17,
+     "standard": null,
+     "delta": "ItemResourceDeltaGeneration"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0,
+     "delta": "ItemResourceDeltaConsumption"
+    }
+   ],
+   "ranges": {
+    "low": 1.0,
+    "medium": 1.0,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "powerplant",
    "record": "EntityClassDefinition.POWR_S01_Template",
    "name": "<= PLACEHOLDER =>",
    "size": 1,
@@ -1988,6 +2050,68 @@
   },
   {
    "category": "powerplant",
+   "record": "EntityClassDefinition.POWR_S02_IASI_Name_SCItem",
+   "name": "Sovereign IP-20",
+   "size": 2,
+   "grade": 2,
+   "subtype": "Power",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 20,
+     "standard": null,
+     "delta": "ItemResourceDeltaGeneration"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0,
+     "delta": "ItemResourceDeltaConsumption"
+    }
+   ],
+   "ranges": {
+    "low": 1.0,
+    "medium": 1.0,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "powerplant",
+   "record": "EntityClassDefinition.POWR_S02_IASI_NameA_SCItem",
+   "name": "Helios IP-20",
+   "size": 2,
+   "grade": 1,
+   "subtype": "Power",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 21,
+     "standard": null,
+     "delta": "ItemResourceDeltaGeneration"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0,
+     "delta": "ItemResourceDeltaConsumption"
+    }
+   ],
+   "ranges": {
+    "low": 1.0,
+    "medium": 1.0,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "powerplant",
    "record": "EntityClassDefinition.POWR_S02_Template",
    "name": "<= PLACEHOLDER =>",
    "size": 2,
@@ -1999,6 +2123,68 @@
      "kind": "generation",
      "resource": "Power",
      "units": 19,
+     "standard": null,
+     "delta": "ItemResourceDeltaGeneration"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0,
+     "delta": "ItemResourceDeltaConsumption"
+    }
+   ],
+   "ranges": {
+    "low": 1.0,
+    "medium": 1.0,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "powerplant",
+   "record": "EntityClassDefinition.POWR_S03_IASI_Name_SCItem",
+   "name": "Sovereign IP-30",
+   "size": 3,
+   "grade": 2,
+   "subtype": "Power",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 24,
+     "standard": null,
+     "delta": "ItemResourceDeltaGeneration"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0,
+     "delta": "ItemResourceDeltaConsumption"
+    }
+   ],
+   "ranges": {
+    "low": 1.0,
+    "medium": 1.0,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "powerplant",
+   "record": "EntityClassDefinition.POWR_S03_IASI_NameA_SCItem",
+   "name": "Helios IP-30",
+   "size": 3,
+   "grade": 1,
+   "subtype": "Power",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Power",
+     "units": 25,
      "standard": null,
      "delta": "ItemResourceDeltaGeneration"
     },
@@ -3218,6 +3404,99 @@
      "kind": "consumption",
      "resource": "Power",
      "units": 6,
+     "standard": null,
+     "delta": "ItemResourceDeltaConversion"
+    }
+   ],
+   "ranges": {
+    "low": 0.7,
+    "medium": 0.85,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "cooler",
+   "record": "EntityClassDefinition.COOL_IASI_S01_Name",
+   "name": "BriskAir IC-10",
+   "size": 1,
+   "grade": 2,
+   "subtype": "UNDEFINED",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 22.0,
+     "delta": "ItemResourceDeltaConversion"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 3,
+     "standard": null,
+     "delta": "ItemResourceDeltaConversion"
+    }
+   ],
+   "ranges": {
+    "low": 0.7,
+    "medium": 0.85,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "cooler",
+   "record": "EntityClassDefinition.COOL_IASI_S02_Name",
+   "name": "BriskAir IC-20",
+   "size": 2,
+   "grade": 2,
+   "subtype": "UNDEFINED",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 28.6,
+     "delta": "ItemResourceDeltaConversion"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 4,
+     "standard": null,
+     "delta": "ItemResourceDeltaConversion"
+    }
+   ],
+   "ranges": {
+    "low": 0.7,
+    "medium": 0.85,
+    "high": 1.0
+   }
+  },
+  {
+   "category": "cooler",
+   "record": "EntityClassDefinition.COOL_IASI_S03_Name",
+   "name": "BriskAir IC-30",
+   "size": 3,
+   "grade": 2,
+   "subtype": "UNDEFINED",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "generation",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 35.2,
+     "delta": "ItemResourceDeltaConversion"
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Power",
+     "units": 5,
      "standard": null,
      "delta": "ItemResourceDeltaConversion"
     }
@@ -11039,5 +11318,7 @@
     "high": 1.0
    }
   }
- ]
+ ],
+ "_build": "4.10.196.36804",
+ "_extracted": "2026-10-09T21:21:32"
 }

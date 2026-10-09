@@ -1,8 +1,8 @@
 {
  "_source": "Star Citizen scitem/ships (StarBreaker)",
- "_extracted": "2026-10-09T01:37:47",
+ "_extracted": "2026-10-09T21:21:31",
  "type": "undefined",
- "count": 160,
+ "count": 164,
  "items": [
   {
    "name": "<= PLACEHOLDER =>",
@@ -2253,6 +2253,56 @@
    "grade": 1,
    "class": null,
    "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_GS_Thruster",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "UNDEFINED",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Constellation_Mk5_Thruster",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "UNDEFINED",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
    "record": "RSI_Hermes_Thruster",
    "resources": [
     {
@@ -2379,6 +2429,31 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "RSI_Scorpius_Thruster",
+   "resources": [
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Fuel",
+     "units": null,
+     "standard": null
+    },
+    {
+     "state": "Online",
+     "kind": "consumption",
+     "resource": "Coolant",
+     "units": null,
+     "standard": 0.0
+    }
+   ]
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "UNDEFINED",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "RSI_Skylark_Thruster",
    "resources": [
     {
      "state": "Online",
@@ -2897,6 +2972,15 @@
    "class": null,
    "subtype": "UNDEFINED",
    "record": "Engineering_Buff_Modifier_RSI_Constellation"
+  },
+  {
+   "name": "<= PLACEHOLDER =>",
+   "type": "UNDEFINED",
+   "size": 1,
+   "grade": 1,
+   "class": null,
+   "subtype": "UNDEFINED",
+   "record": "Engineering_Buff_Modifier_RSI_Constellation_Mk5"
   },
   {
    "name": "<= PLACEHOLDER =>",
