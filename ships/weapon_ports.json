@@ -1,0 +1,1153 @@
+{
+ "_source": "Star Citizen Data.p4k via starbreaker dcb query (SItemPortDef)",
+ "_extracted": "2026-10-09T02:06:55",
+ "count": 191,
+ "ports": [
+  {
+   "port": "hardpoint_missile",
+   "min": 4,
+   "max": 4,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missile_launcher",
+   "min": 6,
+   "max": 6,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missile_launcher_2",
+   "min": 6,
+   "max": 6,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missile_rack",
+   "min": 4,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_missile_rack1",
+   "min": 6,
+   "max": 6,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missile_rack2",
+   "min": 6,
+   "max": 6,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missile_rack_S05_left",
+   "min": 5,
+   "max": 5,
+   "flags": "Left $editable"
+  },
+  {
+   "port": "hardpoint_missile_rack_S05_right",
+   "min": 5,
+   "max": 5,
+   "flags": "Right $editable"
+  },
+  {
+   "port": "hardpoint_missile_rack_S07_left",
+   "min": 7,
+   "max": 7,
+   "flags": "left1 $editable"
+  },
+  {
+   "port": "hardpoint_missile_rack_S07_right",
+   "min": 7,
+   "max": 7,
+   "flags": "right2 $editable"
+  },
+  {
+   "port": "hardpoint_missile_rack_s1_left",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_missile_rack_s1_right",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_missile_rack_s2_left",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_missile_rack_s2_right",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_missilecontroller",
+   "min": 0,
+   "max": 3,
+   "flags": "uneditable"
+  },
+  {
+   "port": "hardpoint_missilerack_left",
+   "min": 3,
+   "max": 3,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missilerack_left",
+   "min": 2,
+   "max": 2,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missilerack_right",
+   "min": 3,
+   "max": 3,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_missilerack_right",
+   "min": 2,
+   "max": 2,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_turret_exterior",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_turret_left",
+   "min": 2,
+   "max": 2,
+   "flags": "turret left $editable"
+  },
+  {
+   "port": "hardpoint_turret_right",
+   "min": 2,
+   "max": 2,
+   "flags": "turret right $editable"
+  },
+  {
+   "port": "hardpoint_turret_weapon",
+   "min": 1,
+   "max": 1,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_turret_weapon_left_a",
+   "min": 5,
+   "max": 5,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_turret_weapon_left_b",
+   "min": 5,
+   "max": 5,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_turret_weapon_right_a",
+   "min": 5,
+   "max": 5,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_turret_weapon_right_b",
+   "min": 5,
+   "max": 5,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon",
+   "min": 3,
+   "max": 3,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon",
+   "min": 2,
+   "max": 2,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon",
+   "min": 1,
+   "max": 1,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_01",
+   "min": 3,
+   "max": 3,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_01",
+   "min": 4,
+   "max": 4,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_01",
+   "min": 2,
+   "max": 2,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_01",
+   "min": 1,
+   "max": 1,
+   "flags": "uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_02",
+   "min": 3,
+   "max": 3,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_02",
+   "min": 4,
+   "max": 4,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_02",
+   "min": 2,
+   "max": 2,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_02",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_S1_left",
+   "min": 2,
+   "max": 3,
+   "flags": "turret left $editable"
+  },
+  {
+   "port": "hardpoint_weapon_S1_left",
+   "min": 2,
+   "max": 2,
+   "flags": "turret left $editable"
+  },
+  {
+   "port": "hardpoint_weapon_S1_right",
+   "min": 2,
+   "max": 3,
+   "flags": "turret right $editable"
+  },
+  {
+   "port": "hardpoint_weapon_S1_right",
+   "min": 2,
+   "max": 2,
+   "flags": "turret right $editable"
+  },
+  {
+   "port": "hardpoint_weapon_S3_left",
+   "min": 3,
+   "max": 3,
+   "flags": "turret left $editable"
+  },
+  {
+   "port": "hardpoint_weapon_S3_right",
+   "min": 3,
+   "max": 3,
+   "flags": "turret right $editable"
+  },
+  {
+   "port": "hardpoint_weapon_a",
+   "min": 4,
+   "max": 4,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_a",
+   "min": 7,
+   "max": 7,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_b",
+   "min": 4,
+   "max": 4,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_b",
+   "min": 7,
+   "max": 7,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_01",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_01",
+   "min": 0,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_01",
+   "min": 2,
+   "max": 3,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_02",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_02",
+   "min": 0,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_02",
+   "min": 2,
+   "max": 3,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_03",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_03",
+   "min": 0,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_03",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_04",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_04",
+   "min": 0,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_04",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_05",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_06",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_07",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_08",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_09",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_cabinet_10",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_emp",
+   "min": 1,
+   "max": 1,
+   "flags": "uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_gimbal_left",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_gimbal_right",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_left",
+   "min": 3,
+   "max": 3,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_left",
+   "min": 2,
+   "max": 2,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_left",
+   "min": 4,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_left_inner",
+   "min": 12,
+   "max": 12,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_left_outer",
+   "min": 12,
+   "max": 12,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_launcher_01",
+   "min": 4,
+   "max": 5,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_locker_launcher_01",
+   "min": 5,
+   "max": 5,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_launcher_02",
+   "min": 5,
+   "max": 5,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_lmg_01",
+   "min": 4,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_lmg_02",
+   "min": 4,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_lmg_03",
+   "min": 4,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_lmg_04",
+   "min": 4,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_pistol_01",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_pistol_01",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_pistol_02",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_pistol_02",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_pistol_03",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_rifle_01",
+   "min": 2,
+   "max": 3,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_rifle_01",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_rifle_01",
+   "min": 2,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_rifle_02",
+   "min": 2,
+   "max": 3,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_locker_rifle_02",
+   "min": 2,
+   "max": 4,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_util_002",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_util_003",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_util_01",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_locker_util_02",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_mining",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_mount_pos",
+   "min": 2,
+   "max": 2,
+   "flags": "uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_right",
+   "min": 3,
+   "max": 3,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_right",
+   "min": 2,
+   "max": 2,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_right",
+   "min": 4,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_right_inner",
+   "min": 12,
+   "max": 12,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_right_outer",
+   "min": 12,
+   "max": 12,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_salvage",
+   "min": 1,
+   "max": 2,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_shroud",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_addon_01",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_addon_02",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_addon_03",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_gadget_01",
+   "min": 0,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_gadget_02",
+   "min": 0,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_launcher_01",
+   "min": 3,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_launcher_01",
+   "min": 3,
+   "max": 5,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_launcher_02",
+   "min": 3,
+   "max": 5,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_launcher_1",
+   "min": 4,
+   "max": 5,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_multitool",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_multitool",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_multitool_01",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_multitool_01",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_multitool_02",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_multitool_02",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_01",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_01",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_02",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_02",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_03",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_04",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_04",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_05",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_05",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_06",
+   "min": 0,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_06",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_07",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_07",
+   "min": 1,
+   "max": 1,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_08",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_08",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_09",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_09",
+   "min": 1,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_1",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_10",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_11",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_12",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_2",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_pistol_3",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_01",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_01",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_01",
+   "min": 2,
+   "max": 2,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_01",
+   "min": 2,
+   "max": 3,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_02",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_02",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_02",
+   "min": 2,
+   "max": 2,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_02",
+   "min": 2,
+   "max": 3,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_03",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_03",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_03",
+   "min": 2,
+   "max": 2,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_04",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_04",
+   "min": 0,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_04",
+   "min": 2,
+   "max": 2,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_05",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_06",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_07",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_08",
+   "min": 2,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_1",
+   "min": 2,
+   "max": 3,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rifle_2",
+   "min": 2,
+   "max": 3,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_rpg",
+   "min": 5,
+   "max": 5,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_special_01",
+   "min": 3,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_special_02",
+   "min": 3,
+   "max": 4,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_01",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_01",
+   "min": 2,
+   "max": 4,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_02",
+   "min": 2,
+   "max": 2,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_02",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_02",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_03",
+   "min": 2,
+   "max": 2,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_03",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_03",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_04",
+   "min": 0,
+   "max": 1,
+   "flags": ""
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_04",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_05",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_06",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_07",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_08",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tool_09",
+   "min": 1,
+   "max": 1,
+   "flags": "editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tractor_01",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_storage_tractor_02",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_top_left",
+   "min": 3,
+   "max": 3,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_top_right",
+   "min": 3,
+   "max": 3,
+   "flags": "$uneditable"
+  },
+  {
+   "port": "hardpoint_weapon_turret_left",
+   "min": 3,
+   "max": 3,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_turret_left",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_turret_right",
+   "min": 3,
+   "max": 3,
+   "flags": "$editable"
+  },
+  {
+   "port": "hardpoint_weapon_turret_right",
+   "min": 2,
+   "max": 2,
+   "flags": "$editable"
+  }
+ ]
+}
