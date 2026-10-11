@@ -1,6 +1,5 @@
 # Naves pendientes de foto
 
-Últimas resistencia — pásame una URL o el jpg en `images/ships/`.
+## 🎉 ¡COMPLETO — 318/318 con foto!
 
-- [ ] KRIG S65 Stingray
-- [ ] KRIG S65 Stingray BALLISTIC
+(Sin pendientes. Para cambiar alguna: pásame la URL.)
