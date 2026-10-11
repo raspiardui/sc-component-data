@@ -7183,7 +7183,9 @@
      "count": 1,
      "full": "Rush Civ/C S1 Quantum Drive"
     }
-   }
+   },
+   "img": "/pimg/KRIG_S65_Stingray",
+   "img_src": "https://media.starcitizen.tools/4/4c/S-65_Stingray_flying_front.jpg?860fv"
   },
   {
    "id": "KRIG_S65_Stingray_BALLISTIC",
@@ -7226,7 +7228,9 @@
      "count": 1,
      "full": "Rush Civ/C S1 Quantum Drive"
     }
-   }
+   },
+   "img": "/pimg/KRIG_S65_Stingray_BALLISTIC",
+   "img_src": "https://media.starcitizen.tools/4/4c/S-65_Stingray_flying_front.jpg?860fv"
   },
   {
    "id": "MISC_Fortune",

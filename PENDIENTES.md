@@ -2,4 +2,4 @@
 
 ## 🎉 ¡COMPLETO — 318/318 con foto!
 
-(Sin pendientes. Para cambiar alguna: pásame la URL.)
+(Pendientes: ninguno. Para cambiar alguna: URL o jpg en images/ships/.)
