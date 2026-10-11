@@ -12456,7 +12456,9 @@
    "manufacturer": "DRAK",
    "info": {
     "role": "Racing"
-   }
+   },
+   "img": "/pimg/DRAK_Dragonfly_Star_Kitten",
+   "img_src": "https://media.starcitizen.tools/thumb/f/ff/Dragonfly-Black-Left.jpg/900px-Dragonfly-Black-Left.jpg.webp?ntcde"
   },
   {
    "id": "DRAK_Dragonfly_Yellowjacket",
@@ -12484,7 +12486,9 @@
    "manufacturer": "GRIN",
    "info": {
     "role": "Anti-Air"
-   }
+   },
+   "img": "/pimg/GRIN_MDC",
+   "img_src": "https://media.starcitizen.tools/thumb/5/59/MDC_beside_Asgard_firing_weapon.jpg/900px-MDC_beside_Asgard_firing_weapon.jpg.webp?mmi4e"
   },
   {
    "id": "GRIN_MTC",
@@ -12492,7 +12496,9 @@
    "manufacturer": "GRIN",
    "info": {
     "role": "Passenger"
-   }
+   },
+   "img": "/pimg/GRIN_MTC",
+   "img_src": "https://media.starcitizen.tools/thumb/b/be/MDC_Cadet_in_hangar_-_cropped.png/900px-MDC_Cadet_in_hangar_-_cropped.png.webp?i1alr"
   },
   {
    "id": "GRIN_PTV",
@@ -12500,7 +12506,9 @@
    "manufacturer": "GRIN",
    "info": {
     "role": "Passenger"
-   }
+   },
+   "img": "/pimg/GRIN_PTV",
+   "img_src": "https://media.starcitizen.tools/thumb/6/62/Buggy.jpg/900px-Buggy.jpg.webp?6hf1y"
   },
   {
    "id": "GRIN_ROC",
@@ -12538,7 +12546,9 @@
    "manufacturer": "GRIN",
    "info": {
     "role": "Passenger"
-   }
+   },
+   "img": "/pimg/GRIN_UTV",
+   "img_src": "https://media.starcitizen.tools/thumb/e/e4/UTV_-_3D_concept-min.png/900px-UTV_-_3D_concept-min.png.webp?6xgfa"
   },
   {
    "id": "RSI_Ursa",
@@ -12546,7 +12556,9 @@
    "manufacturer": "RSI",
    "info": {
     "role": "Pathfinder"
-   }
+   },
+   "img": "/pimg/RSI_Ursa",
+   "img_src": "https://media.starcitizen.tools/thumb/3/38/Lynx_Moonrise_in_hangar_-_Isometric_-_Cut.png/900px-Lynx_Moonrise_in_hangar_-_Isometric_-_Cut.png.webp?ex0tf"
   },
   {
    "id": "RSI_Ursa_Fortuna",
