@@ -20705,7 +20705,7 @@
             "info": {
                 "role": "Passenger"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/1701.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/TMBL_Cyclone.jpg",
             "img": "/pimg/TMBL_Cyclone",
             "cargo": 0,
             "minCrew": 1,
@@ -20781,7 +20781,7 @@
             "info": {
                 "role": "Anti-Air"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/1702.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/TMBL_Cyclone_AA.jpg",
             "img": "/pimg/TMBL_Cyclone_AA",
             "cargo": 0,
             "minCrew": 1,
@@ -20835,7 +20835,7 @@
             "info": {
                 "role": "Anti-Air"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/1703.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/TMBL_Cyclone_MT.jpg",
             "img": "/pimg/TMBL_Cyclone_MT",
             "cargo": 0,
             "minCrew": 1,
@@ -20883,7 +20883,7 @@
             "info": {
                 "role": "Racing"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/1704.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/TMBL_Cyclone_RC.jpg",
             "img": "/pimg/TMBL_Cyclone_RC",
             "cargo": 0,
             "minCrew": 1,
@@ -20931,7 +20931,7 @@
             "info": {
                 "role": "Pathfinder"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/1705.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/TMBL_Cyclone_RN.jpg",
             "img": "/pimg/TMBL_Cyclone_RN",
             "cargo": 0,
             "minCrew": 1,
@@ -20979,7 +20979,7 @@
             "info": {
                 "role": "Anti-Vehicle"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/1706.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/TMBL_Cyclone_TR.jpg",
             "img": "/pimg/TMBL_Cyclone_TR",
             "cargo": 0,
             "minCrew": 1,
