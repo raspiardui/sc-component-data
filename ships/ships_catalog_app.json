@@ -20372,7 +20372,7 @@
             "info": {
                 "role": "Racing"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/302.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/XNAA_Nox.jpg",
             "img": "/pimg/XNAA_Nox",
             "cargo": 0,
             "minCrew": 1,
@@ -20434,7 +20434,7 @@
             "info": {
                 "role": "Racing"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/303.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/XNAA_Nox_Kue.jpg",
             "img": "/pimg/XNAA_Nox_Kue"
         },
         {
@@ -20444,7 +20444,7 @@
             "info": {
                 "role": "Racing"
             },
-            "img_src": "https://raw.githubusercontent.com/BlueMystical/SC-Ships/main/img/ships/302.jpg",
+            "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/ships/XNAA_Nox_Wikelo_Special.jpg",
             "img": "/pimg/XNAA_Nox_Wikelo_Special"
         },
         {
