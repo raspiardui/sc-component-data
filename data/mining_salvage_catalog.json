@@ -1,0 +1,622 @@
+{
+  "source": "Star Citizen LIVE Data.p4k via StarBreaker dcb query (EntityClassDefinition + SCItemPurchasableParams + global.ini)",
+  "build": "4.10.x LIVE",
+  "extracted": "2026-10-16",
+  "gems": [
+    {
+      "id": "aphorite",
+      "name": "Aphorite",
+      "type": "gem",
+      "category": "FPS Mining",
+      "description": "Decorative jewel crystal prized for its multi-hued tones.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "aphorite": "1000 µSCU",
+        "Harvestable_Mineral_1H_Aphorite": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Aphorite": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Aphorite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Aphorite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Aphorite": "1.0 SCU"
+      }
+    },
+    {
+      "id": "beradom",
+      "name": "Beradom",
+      "type": "gem",
+      "category": "Geology Deposit",
+      "description": "Formed when sap from the Beraber Fir is crystalized during forest fires, this transparent deep blue \"gemstone\" is often polished smooth and used in jewelry. While it can be manufactured by growing trees and then doing a controlled burn, the time investment for the trees to reach the proper maturity still make this a rare commodity.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Mineral_1H_Beradom": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Beradom": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_Mineral_Beradom": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Beradom": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Beradom": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Beradom": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_Mineral_Beradom": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_Mineral_Beradom": "24.0 SCU"
+      }
+    },
+    {
+      "id": "carinite",
+      "name": "Carinite",
+      "type": "gem",
+      "category": "Geology Deposit",
+      "description": "A rare mineral because the extreme pressure needed for its formation is very uncommon, it is in high demand thanks to its use in advanced computer processors and other cutting-edge electronics.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Mineral_1H_Carinite": "1000 µSCU",
+        "Harvestable_Mineral_1H_CarinitePure": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Carinite": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_Mineral_Carinite": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Carinite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Carinite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Carinite": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_Mineral_Carinite": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_Mineral_Carinite": "24.0 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_CarinitePure": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_Mineral_CarinitePure": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_CarinitePure": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_CarinitePure": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_CarinitePure": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_Mineral_CarinitePure": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_Mineral_CarinitePure": "24.0 SCU"
+      }
+    },
+    {
+      "id": "dolivine",
+      "name": "Dolivine",
+      "type": "gem",
+      "category": "FPS Mining",
+      "description": "A dull green gemstone that is used decoratively but also can be used for industrial purposes thanks to its resistance to weathering and high density.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "dolivine": "1000 µSCU",
+        "Harvestable_Mineral_1H_Dolivine": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Dolivine": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Dolivine": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Dolivine": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Dolivine": "1.0 SCU"
+      }
+    },
+    {
+      "id": "feynmaline",
+      "name": "Feynmaline",
+      "type": "gem",
+      "category": "Geology Deposit",
+      "description": "The paramorphic crystalline structure of this mineral is extremely volatile. When extra energy is introduced, as is typical with modern mining, the ore will often explosively degrade into the more stably structured Janalite. This instability makes Feynamline very dangerous to acquire but also extremely valuable as an industrial anti-matter precursor if it can be properly harvested.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Mineral_1H_Feynmaline": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Feynmaline": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_Mineral_Feynmaline": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Feynmaline": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Feynmaline": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Feynmaline": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_Mineral_Feynmaline": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_Mineral_Feynmaline": "24.0 SCU"
+      }
+    },
+    {
+      "id": "glacosite",
+      "name": "Glacosite",
+      "type": "gem",
+      "category": "Geology Deposit",
+      "description": "As glaciers form, heavier mineral contents sink over time and are then crushed by the weight above as the ice deforms and flows. When the glacier recedes, Glacosite deposits are left behind. White and blue in color, the crystals form in long shiny strands that almost are cotton-like in appearance. Glacosite has found specialized commercial use since it is an extremely light and durable insulator.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Mineral_1H_Glacosite": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Glacosite": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_Mineral_Glacosite": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Glacosite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Glacosite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Glacosite": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_Mineral_Glacosite": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_Mineral_Glacosite": "24.0 SCU"
+      }
+    },
+    {
+      "id": "hadanite",
+      "name": "Hadanite",
+      "type": "gem",
+      "category": "FPS Mining",
+      "description": "A crystal oscillator sought out for its extremely high frequency of vibration which makes it useful in various applications.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "hadanite": "1000 µSCU",
+        "Harvestable_Mineral_1H_Hadanite": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Hadanite": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Hadanite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Hadanite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Hadanite": "1.0 SCU"
+      }
+    },
+    {
+      "id": "janalite",
+      "name": "Janalite",
+      "type": "gem",
+      "category": "FPS Mining / Geology",
+      "description": "This rare mineral is valued as an industrial anti-matter precursor. While more stable than other precursors like Feynmaline, it's tougher structure and energy resistance makes it much more difficult to utilize as well as collect.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Mineral_1H_Janalite": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Janalite": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Janalite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Janalite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Janalite": "1.0 SCU"
+      }
+    },
+    {
+      "id": "sadaryx",
+      "name": "Sadaryx",
+      "type": "gem",
+      "category": "Geology Deposit",
+      "description": "A durable crystal, sadaryx is commonly used in the production of industrial focal lenses in laser applications.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Mineral_1H_Sadaryx": "1000 µSCU"
+      }
+    }
+  ],
+  "minerals": [
+    {
+      "id": "agricium_ore",
+      "name": "Agricium (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "A rare and valuable silvery metal with a blue-green sheen. Malleable, ductile, and largely non-reactive.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "agricium_ore": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Agricium": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Agricium": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Agricium": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Agricium": "1.0 SCU"
+      }
+    },
+    {
+      "id": "aluminum_ore",
+      "name": "Aluminum (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "A chemically reactive, gray metal that is malleable, lightweight, ductile, strong, and resistant to corrosion. Capable of superconductivity.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_aluminium.svg",
+      "scu_capacity": {
+        "aluminum_ore": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Aluminum": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Aluminum": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Aluminum": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Aluminum": "1.0 SCU"
+      }
+    },
+    {
+      "id": "beryl",
+      "name": "Beryl",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "A mineral that creates natural hexagonal crystals. Colorless in its pure form, its impure forms include the gems emerald and aquamarine.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_beryl.svg",
+      "scu_capacity": {
+        "beryl": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Beryl": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Beryl": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Beryl": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Beryl": "1.0 SCU"
+      }
+    },
+    {
+      "id": "bexalite",
+      "name": "Bexalite",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "This mineral harvested from worlds with no natural magnetic core, has found widespread use in electrical systems.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_bexalite.svg",
+      "scu_capacity": {
+        "bexalite": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Bexalite": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Bexalite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Bexalite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Bexalite": "1.0 SCU"
+      }
+    },
+    {
+      "id": "borase_ore",
+      "name": "Borase (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "This highly thermally conductive material is often formed from cosmic ray spallation and is most typically found in younger star systems.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_borase.svg",
+      "scu_capacity": {
+        "borase_ore": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Borase": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Borase": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Borase": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Borase": "1.0 SCU"
+      }
+    },
+    {
+      "id": "copper_ore",
+      "name": "Copper (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "A soft red-orange colored metal with high conductivity. Prone to oxidation unless properly treated.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_copper.svg",
+      "scu_capacity": {
+        "copper_ore": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Copper": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Copper": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Copper": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Copper": "1.0 SCU"
+      }
+    },
+    {
+      "id": "corundum",
+      "name": "Corundum",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "The crystalline form of aluminum oxide. Used as a gem. Varieties include ruby, sapphire, and padparadscha.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_corundum.svg",
+      "scu_capacity": {
+        "corundum": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Corundum": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Corundum": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Corundum": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Corundum": "1.0 SCU"
+      }
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "An allotrope of the element carbon, diamonds form over billions of years under high heat and pressure. Extremely hard and thermally conductive.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_diamond.svg",
+      "scu_capacity": {
+        "diamond": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Diamond": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Diamond": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Diamond": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Diamond": "1.0 SCU"
+      }
+    },
+    {
+      "id": "gold_ore",
+      "name": "Gold (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "A commonly found ductile metal favored for its conductivity. Though it falls in and out of fashion, it is often used for decorative purposes as well.\\n",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_gold.svg",
+      "scu_capacity": {
+        "gold_ore": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Gold": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Gold": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Gold": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Gold": "1.0 SCU"
+      }
+    },
+    {
+      "id": "hephaestanite",
+      "name": "Hephaestanite",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "Found often near volcanic outcroppings, this mineral is commonly used for a thermal insulator.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "hephaestanite": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Hephaestanite": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Hephaestanite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Hephaestanite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Hephaestanite": "1.0 SCU"
+      }
+    },
+    {
+      "id": "iron_ore",
+      "name": "Iron (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Iron": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Iron": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Iron": "4.0 SCU"
+      }
+    },
+    {
+      "id": "jaclium_ore",
+      "name": "Jaclium (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Ore_1H_JacliumOre": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Jaclium": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_Metal_Ore_Jaclium": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Jaclium": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Jaclium": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Jaclium": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_Metal_Ore_Jaclium": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_Metal_Ore_Jaclium": "24.0 SCU"
+      }
+    },
+    {
+      "id": "laranite",
+      "name": "Laranite",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "A somewhat radioactive, crystalline gemstone. Black with streaks of dark red, it can only be used as jewelry if shielded.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_laranite.svg",
+      "scu_capacity": {
+        "laranite": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Laranite": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Laranite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Laranite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Laranite": "1.0 SCU"
+      }
+    },
+    {
+      "id": "quantainium",
+      "name": "Quantainium",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "A highly unstable mineral used in the production of quantum fuel.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_aphorite.svg",
+      "scu_capacity": {
+        "quantanium": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Quantanium": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Quantanium": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Quantainium": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Quantanium": "1.0 SCU"
+      }
+    },
+    {
+      "id": "quantainium_raw",
+      "name": "Quantainium (Raw)",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "A highly unstable mineral used in the production of quantum fuel.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_aphorite.svg",
+      "scu_capacity": {
+        "raw_quantainium": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Raw_Quantainium": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Raw_Quantainium": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Raw_Quantainium": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Raw_Quantainium": "1.0 SCU"
+      }
+    },
+    {
+      "id": "quartz",
+      "name": "Quartz",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "A chiral crystal composed of silicon and oxygen that can be found in a wide variety of forms and colors.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_quartz.svg",
+      "scu_capacity": {
+        "quartz": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Quartz": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Quartz": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Quartz": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Quartz": "1.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Raw_Quartz": "1.0 SCU"
+      }
+    },
+    {
+      "id": "saldynium_ore",
+      "name": "Saldynium (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Harvestable_Ore_1H_SaldyniumOre": "1000 µSCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Saldynium": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_Metal_Ore_Saldynium": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Saldynium": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Saldynium": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Saldynium": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_Metal_Ore_Saldynium": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_Metal_Ore_Saldynium": "24.0 SCU"
+      }
+    },
+    {
+      "id": "taranite",
+      "name": "Taranite",
+      "type": "mineral",
+      "category": "Mining Ship / Refinery",
+      "description": "Extremely conductive, this mineral was first discovered when a researcher noticed a breed of electrosensitive hermit crab using pieces of it to form its shell.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_taranite.svg",
+      "scu_capacity": {
+        "taranite": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_Taranite": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_Taranite": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_Taranite": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_Taranite": "1.0 SCU"
+      }
+    },
+    {
+      "id": "titanium_ore",
+      "name": "Titanium (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "This silver-colored chemical element is excellent at producing strong, lightweight alloys.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_titanium.svg",
+      "scu_capacity": {
+        "titanium_ore": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Titanium": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Titanium": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Titanium": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Titanium": "1.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Tungsten": "1.0 SCU"
+      }
+    },
+    {
+      "id": "tungsten_ore",
+      "name": "Tungsten (Ore)",
+      "type": "ore",
+      "category": "Ore",
+      "description": "Used in many different alloys, tungsten in its pure form becomes malleable while maintaining its hardness. \\n",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_tungsten.svg",
+      "scu_capacity": {
+        "tungsten_ore": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Tungsten": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Tungsten": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Tungsten": "4.0 SCU"
+      }
+    }
+  ],
+  "salvage": [
+    {
+      "id": "compboard",
+      "name": "Compboard",
+      "type": "salvage",
+      "category": "Salvage",
+      "description": "A main processing unit used inside various computers and electronics.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_compboard.svg",
+      "scu_capacity": {
+        "CompBoard": "600 µSCU",
+        "Harvestable_CompBoard": "600 µSCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Waste_CompBoard": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Waste_CompBoard": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Waste_CompBoard": "1.0 SCU"
+      }
+    },
+    {
+      "id": "construction_materials",
+      "name": "Construction Materials",
+      "type": "salvage",
+      "category": "Construction Salvage",
+      "description": "Various supplies used to build, repair, and maintain buildings and structures.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "ConstructionMaterials": "0.01 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_ConstructionMaterials": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_ConstructionMaterials": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterials": "1.0 SCU"
+      }
+    },
+    {
+      "id": "construction_scraps",
+      "name": "Construction Pieces",
+      "type": "salvage",
+      "category": "Construction Salvage",
+      "description": "",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Carryable_TBO_FL_8SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "24.0 SCU"
+      }
+    },
+    {
+      "id": "construction_powder",
+      "name": "Construction Rubble",
+      "type": "salvage",
+      "category": "Construction Salvage",
+      "description": "",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Carryable_TBO_FL_8SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "24.0 SCU"
+      }
+    },
+    {
+      "id": "construction_chunks",
+      "name": "Construction Salvage",
+      "type": "salvage",
+      "category": "Construction Salvage",
+      "description": "",
+      "thumbnail": "",
+      "scu_capacity": {
+        "Carryable_TBO_FL_8SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "8.0 SCU",
+        "Carryable_TBO_FL_16SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "16.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "1.0 SCU",
+        "Carryable_TBO_FL_32SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "32.0 SCU",
+        "Carryable_TBO_FL_24SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "24.0 SCU"
+      }
+    },
+    {
+      "id": "hpmc",
+      "name": "HexaPolyMesh Coating",
+      "type": "salvage",
+      "category": "Repair / Processing",
+      "description": "This liquid hexagonal lattice bonds readily to surfaces when electrically charged, solidifying almost instantaneously to create an incredibly strong and durable polymer mesh that maintains integrity at a range of temperatures and pressures.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_hpmc.svg",
+      "scu_capacity": {
+        "hpmc": "0.01 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_HPMC": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_HPMC": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_HPMC": "1.0 SCU"
+      }
+    },
+    {
+      "id": "inert_materials",
+      "name": "Inert Materials",
+      "type": "salvage",
+      "category": "Mining Byproduct",
+      "description": "Non-valuable materials collected during the mining process.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_inertmaterials.svg",
+      "scu_capacity": {
+        "inert_materials": "0.01 SCU",
+        "Carryable_TBO_FL_8SCU_Commodity_Mineral_InertMaterials": "8.0 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Mineral_InertMaterials": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Mineral_InertMarterials": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Mineral_IntertMaterials": "1.0 SCU"
+      }
+    },
+    {
+      "id": "rmc",
+      "name": "Recycled Material Composite",
+      "type": "salvage",
+      "category": "Salvage Beam",
+      "description": "Recycled Material Composite, commonly referred to as RMC, is the end result of low-tier salvaging where a myriad of alloys and polymers are mixed together during the collection process.",
+      "thumbnail": "ui/textures/vector/general/items/inv_icon_hpmc.svg",
+      "scu_capacity": {
+        "rmc": "0.01 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_RMC": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_RMC": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_RMC": "1.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Metal_RMC": "1.0 SCU"
+      }
+    },
+    {
+      "id": "scrap",
+      "name": "Scrap",
+      "type": "salvage",
+      "category": "Salvage / Manual",
+      "description": "Waste that is ready to be converted into new materials for reuse.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "scrap": "0.01 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Waste_Scrap": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Waste_Scrap": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Waste_Scrap": "1.0 SCU"
+      }
+    },
+    {
+      "id": "waste",
+      "name": "Waste",
+      "type": "salvage",
+      "category": "Mining Byproduct",
+      "description": "Unwanted and unusable materials that are designated to be discarded.",
+      "thumbnail": "",
+      "scu_capacity": {
+        "waste": "0.01 SCU",
+        "Carryable_TBO_FL_2SCU_Commodity_Waste_Waste": "2.0 SCU",
+        "Carryable_TBO_FL_4SCU_Commodity_Waste_Waste": "4.0 SCU",
+        "Carryable_TBO_FL_1SCU_Commodity_Waste_Waste": "1.0 SCU"
+      }
+    }
+  ]
+}
