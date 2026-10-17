@@ -17,7 +17,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Aphorite": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Aphorite": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Aphorite": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/aphorite.jpg"
     },
     {
       "id": "beradom",
@@ -35,7 +36,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Beradom": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_Mineral_Beradom": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_Mineral_Beradom": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/beradom.jpg"
     },
     {
       "id": "carinite",
@@ -61,7 +63,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_CarinitePure": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_Mineral_CarinitePure": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_Mineral_CarinitePure": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/carinite.jpg"
     },
     {
       "id": "dolivine",
@@ -77,7 +80,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Dolivine": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Dolivine": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Dolivine": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/dolivine.jpg"
     },
     {
       "id": "feynmaline",
@@ -95,7 +99,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Feynmaline": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_Mineral_Feynmaline": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_Mineral_Feynmaline": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/feynmaline.jpg"
     },
     {
       "id": "glacosite",
@@ -113,7 +118,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Glacosite": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_Mineral_Glacosite": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_Mineral_Glacosite": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/glacosite.jpg"
     },
     {
       "id": "hadanite",
@@ -129,7 +135,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Hadanite": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Hadanite": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Hadanite": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/hadanite.jpg"
     },
     {
       "id": "janalite",
@@ -144,7 +151,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Janalite": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Janalite": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Janalite": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/janalite.jpg"
     },
     {
       "id": "sadaryx",
@@ -155,7 +163,8 @@
       "thumbnail": "",
       "scu_capacity": {
         "Harvestable_Mineral_1H_Sadaryx": "1000 µSCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/sadaryx.jpg"
     }
   ],
   "minerals": [
@@ -172,7 +181,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Agricium": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Agricium": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Agricium": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/agricium_ore.jpg"
     },
     {
       "id": "aluminum_ore",
@@ -187,7 +197,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Aluminum": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Aluminum": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Aluminum": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/aluminum_ore.jpg"
     },
     {
       "id": "beryl",
@@ -202,7 +213,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Beryl": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Beryl": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Beryl": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/beryl.jpg"
     },
     {
       "id": "bexalite",
@@ -217,7 +229,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Bexalite": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Bexalite": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Bexalite": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/bexalite.jpg"
     },
     {
       "id": "borase_ore",
@@ -232,7 +245,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Borase": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Borase": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Borase": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/borase_ore.jpg"
     },
     {
       "id": "copper_ore",
@@ -247,7 +261,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Copper": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Copper": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Copper": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/copper_ore.jpg"
     },
     {
       "id": "corundum",
@@ -262,7 +277,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Corundum": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Corundum": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Corundum": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/corundum.jpg"
     },
     {
       "id": "diamond",
@@ -277,7 +293,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Diamond": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Diamond": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Diamond": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/diamond.jpg"
     },
     {
       "id": "gold_ore",
@@ -292,7 +309,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Gold": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Gold": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Gold": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/gold_ore.jpg"
     },
     {
       "id": "hephaestanite",
@@ -307,7 +325,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Hephaestanite": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Hephaestanite": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Hephaestanite": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/hephaestanite.jpg"
     },
     {
       "id": "iron_ore",
@@ -320,7 +339,8 @@
         "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Iron": "8.0 SCU",
         "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Iron": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Iron": "4.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/iron_ore.jpg"
     },
     {
       "id": "jaclium_ore",
@@ -338,7 +358,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Jaclium": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_Metal_Ore_Jaclium": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_Metal_Ore_Jaclium": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/jaclium_ore.jpg"
     },
     {
       "id": "laranite",
@@ -353,7 +374,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Laranite": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Laranite": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Laranite": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/laranite.jpg"
     },
     {
       "id": "quantainium",
@@ -368,7 +390,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Quantanium": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Quantainium": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Quantanium": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/quantainium.jpg"
     },
     {
       "id": "quantainium_raw",
@@ -383,7 +406,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Raw_Quantainium": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Raw_Quantainium": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Raw_Quantainium": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/quantainium_raw.jpg"
     },
     {
       "id": "quartz",
@@ -399,7 +423,8 @@
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Quartz": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Quartz": "1.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Raw_Quartz": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/quartz.jpg"
     },
     {
       "id": "saldynium_ore",
@@ -417,7 +442,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Saldynium": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_Metal_Ore_Saldynium": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_Metal_Ore_Saldynium": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/saldynium_ore.jpg"
     },
     {
       "id": "taranite",
@@ -432,7 +458,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_Taranite": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_Taranite": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_Taranite": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/taranite.jpg"
     },
     {
       "id": "titanium_ore",
@@ -448,7 +475,8 @@
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Titanium": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Titanium": "1.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_Ore_Tungsten": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/titanium_ore.jpg"
     },
     {
       "id": "tungsten_ore",
@@ -462,7 +490,8 @@
         "Carryable_TBO_FL_8SCU_Commodity_Metal_Ore_Tungsten": "8.0 SCU",
         "Carryable_TBO_FL_2SCU_Commodity_Metal_Ore_Tungsten": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Metal_Ore_Tungsten": "4.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/tungsten_ore.jpg"
     }
   ],
   "salvage": [
@@ -479,7 +508,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Waste_CompBoard": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Waste_CompBoard": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Waste_CompBoard": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/compboard.jpg"
     },
     {
       "id": "construction_materials",
@@ -493,7 +523,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_ConstructionMaterials": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_ConstructionMaterials": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterials": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/construction_materials.jpg"
     },
     {
       "id": "construction_scraps",
@@ -510,7 +541,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_ProcessedGoods_ConstructionMaterialsScraps": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/construction_scraps.jpg"
     },
     {
       "id": "construction_powder",
@@ -527,7 +559,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_ProcessedGoods_ConstructionMaterialsPowder": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/construction_powder.jpg"
     },
     {
       "id": "construction_chunks",
@@ -544,7 +577,8 @@
         "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "1.0 SCU",
         "Carryable_TBO_FL_32SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "32.0 SCU",
         "Carryable_TBO_FL_24SCU_Commodity_ProcessedGoods_ConstructionMaterialsChunks": "24.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/construction_chunks.jpg"
     },
     {
       "id": "hpmc",
@@ -558,7 +592,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_ProcessedGoods_HPMC": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_HPMC": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_HPMC": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/hpmc.jpg"
     },
     {
       "id": "inert_materials",
@@ -573,7 +608,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Mineral_InertMaterials": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Mineral_InertMarterials": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Mineral_IntertMaterials": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/inert_materials.jpg"
     },
     {
       "id": "rmc",
@@ -588,7 +624,8 @@
         "Carryable_TBO_FL_4SCU_Commodity_ProcessedGoods_RMC": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_ProcessedGoods_RMC": "1.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Metal_RMC": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/rmc.jpg"
     },
     {
       "id": "scrap",
@@ -602,7 +639,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Waste_Scrap": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Waste_Scrap": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Waste_Scrap": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/scrap.jpg"
     },
     {
       "id": "waste",
@@ -616,7 +654,8 @@
         "Carryable_TBO_FL_2SCU_Commodity_Waste_Waste": "2.0 SCU",
         "Carryable_TBO_FL_4SCU_Commodity_Waste_Waste": "4.0 SCU",
         "Carryable_TBO_FL_1SCU_Commodity_Waste_Waste": "1.0 SCU"
-      }
+      },
+      "img_src": "https://raw.githubusercontent.com/raspiardui/sc-component-data/main/images/materials/waste.jpg"
     }
   ]
 }
